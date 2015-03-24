@@ -3,8 +3,6 @@ Python program code
 
 INTRODUCTION
 
-DOWNLOAD
-
 Python is a FREE programming language. It comes in 2 different versions:
 
 1> Older version: Python 2
@@ -19,9 +17,9 @@ It uses a fairly simple syntax; which makes it excellent for beginners to learn.
 
 LINKS
 
-DOWNLOAD
+DOWNLOAD  
 https://www.python.org/
 
-TUTORIALS/INTERACTIVE ONLINE
+TUTORIALS/INTERACTIVE ONLINE  
 http://www.learnpython.org/
 
