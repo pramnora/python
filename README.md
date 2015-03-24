@@ -1,5 +1,10 @@
 # python
-Python program code
+
+PYTHON PROGRAM CODE
+
+Here you will find snippets of Python 3 programming code; which you are freely able to study/learn from.
+
+-----
 
 INTRODUCTION
 
@@ -13,7 +18,11 @@ Print "Hello, world!"
 
 Print ("Hello, world!")
 
-It uses a fairly simple syntax; which makes it excellent for beginners to learn.
+Here I have opted to use the newest version which is, Python 3. 
+
+It uses a fairly simple and straight forwards syntax; which makes it excellent for beginners to learn.
+
+-----
 
 LINKS
 
