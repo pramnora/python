@@ -1,4 +1,4 @@
-# NOTE: In Python you don't need to declare the data type, first; instead, data type is automatically inferred.
+# NOTE: In Python you don't need to declare the data type, first; instead, data type will be, automatically, inferred.
 
 # python array data is enclosed inside of a pair of square brackets: [];
 # and, each new data item is seperated from the next data item by the use of a comma: [,,,]
@@ -12,6 +12,7 @@ for eachArrayItemNo in num:
 	print eachArrayItemNo 
 	
 #1
+#10
 #100
 #1000
 #10000
