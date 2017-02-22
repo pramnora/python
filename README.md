@@ -32,3 +32,7 @@ https://www.python.org/
 TUTORIALS/INTERACTIVE ONLINE  
 http://www.learnpython.org/
 
+PEP 8 -- Style Guide for Python Code  
+https://www.python.org/dev/peps/pep-0008/ 
+
+
