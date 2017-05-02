@@ -10,26 +10,35 @@ INTRODUCTION
 
 Python is a FREE programming language. It comes in 2 different versions:
 
-1> Older version: Python 2
+1> Older version: Python 2.X
 
 Print "Hello, world!"
 
-2> Newer version: Python 3
+2> Newer version: Python 3.X
 
 Print ("Hello, world!")
 
-Here I have opted to use the newest version which is, Python 3. 
+Here I have opted to use the newest version which is, Python 3.5 
 
 It uses a fairly simple and straight forwards syntax; which makes it excellent for beginners to learn.
 
 -----
 
-LINKS
+## LINKS
 
-DOWNLOAD  
+### DOWNLOAD  
+
 https://www.python.org/
 
-TUTORIALS/INTERACTIVE ONLINE  
+Jupyter (practice doing Python programming online/or, download it)  
+http://www.jupyter.org  
+https://jupyter.org/install.html  
+
+Anaconda  
+https://www.continuum.io/downloads  
+
+## TUTORIALS/INTERACTIVE ONLINE  
+
 http://www.learnpython.org/
 
 PEP 8 -- Style Guide for Python Code  
