@@ -20,7 +20,7 @@ Print ("Hello, world!")
 
 Here I have opted to use the newest version which is, Python 3.5 
 
-It uses a fairly simple and straight forwards syntax; which makes it excellent for beginners to learn.
+Python uses a fairly simple and straight forwards syntax; which makes it excellent for beginners to learn.
 
 -----
 
