@@ -42,6 +42,7 @@ https://www.continuum.io/downloads
 http://www.learnpython.org/
 
 PEP 8 -- Style Guide for Python Code  
-https://www.python.org/dev/peps/pep-0008/ 
+https://www.python.org/dev/peps/pep-0008/   
 
+http://www.pythontutor.com  
 
