@@ -28,14 +28,19 @@ Python uses a fairly simple and straight forwards syntax; which makes it excelle
 
 ### DOWNLOAD  
 
+### Language
+
 https://www.python.org/
 
-Jupyter (practice doing Python programming online/or, download it)  
+### Python programming online
+
 http://www.jupyter.org  
 https://jupyter.org/try  
 https://jupyter.org/install.html    
 
-Anaconda  
+### IDE/Integrated Development Environment
+
+Anaconda   
 https://www.continuum.io/downloads  
 
 ## TUTORIALS/INTERACTIVE ONLINE  
