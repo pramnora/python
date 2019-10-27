@@ -32,7 +32,8 @@ https://www.python.org/
 
 Jupyter (practice doing Python programming online/or, download it)  
 http://www.jupyter.org  
-https://jupyter.org/install.html  
+https://jupyter.org/try  
+https://jupyter.org/install.html    
 
 Anaconda  
 https://www.continuum.io/downloads  
