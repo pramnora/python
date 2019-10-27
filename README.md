@@ -39,7 +39,9 @@ https://www.continuum.io/downloads
 
 ## TUTORIALS/INTERACTIVE ONLINE  
 
-http://www.learnpython.org/
+http://www.learnpython.org/  
+http://www.pythonlearn.com  
+http://www.trinket.io  
 
 PEP 8 -- Style Guide for Python Code  
 https://www.python.org/dev/peps/pep-0008/   
@@ -50,4 +52,11 @@ http://www.pythontutor.com
 
 http://www.pythonfiddle.com  
 
+## BOOKS
 
+https://books.trinket.io/pfe/
+
+## CODE
+
+http://www.py4inf.com/code/  
+https://www.py4e.com/code3/  
