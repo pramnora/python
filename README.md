@@ -32,32 +32,31 @@ Python uses a fairly simple and straight forwards syntax; which makes it excelle
 
 https://www.python.org/
 
-### Python programming online
-
-http://www.jupyter.org  
-https://jupyter.org/try  
-https://jupyter.org/install.html    
-
 ### IDE/Integrated Development Environment
 
 Anaconda   
 https://www.continuum.io/downloads  
 
+JUPYTER  
+http://www.jupyter.org  
+https://jupyter.org/try  
+https://jupyter.org/install.html    
+
 ## TUTORIALS/INTERACTIVE ONLINE  
 
-http://www.learnpython.org/  
+http://www.learnpython.org/   
 http://www.pythonlearn.com  
-https://rextester.com/l/python3_online_compiler  
-http://www.trinket.io  
+http://www.pythontutor.com  
 
 PEP 8 -- Style Guide for Python Code  
 https://www.python.org/dev/peps/pep-0008/   
 
-http://www.pythontutor.com  
 
 ## PRACTICE ONLINE INSIDE OF WEB BROWSER
 
-http://www.pythonfiddle.com  
+http://www.pythonfiddle.com    
+https://rextester.com/l/python3_online_compiler    
+http://www.trinket.io  
 
 ## BOOKS
 
