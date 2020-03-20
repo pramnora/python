@@ -18,7 +18,20 @@ Print "Hello, world!"
 
 Print ("Hello, world!")
 
-Here I have opted to use the newest version which is, Python 3.5 
+DOWNLOAD PYTHON
+
+To download Python -laest version- go to...
+
+https://www.python.org/downloads/
+
+...and, there click on the Download link.
+
+FIND WHICH VERSION YOU ARE RUNNING ON WINDOWS OPERATING SYSTEM 
+
+To check which particular version you are using on Windows open up a black screen DOS prompt window; and, type...
+
+C:\> python --version
+PYTHON 3.8.2
 
 Python uses a fairly simple and straight forwards syntax; which makes it excellent for beginners to learn.
 
@@ -30,7 +43,8 @@ Python uses a fairly simple and straight forwards syntax; which makes it excelle
 
 ### Language
 
-https://www.python.org/
+https://www.python.org/  
+https://www.python.org/downloads/
 
 ### IDE/Integrated Development Environment
 
