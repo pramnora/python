@@ -18,19 +18,21 @@ Print "Hello, world!"
 
 Print ("Hello, world!")
 
-DOWNLOAD PYTHON
+-----
 
-To download Python -laest version- go to...
+HOW TO DOWNLOAD PYTHON
+
+To download Python -latest version- go to...
 
 https://www.python.org/downloads/
 
 ...and, there click on the Download link.
 
-FIND WHICH VERSION YOU ARE RUNNING ON WINDOWS OPERATING SYSTEM 
+FIND OUT WHICH VERSION OF PYTHON YOU ARE RUNNING ON WINDOWS OPERATING SYSTEM 
 
 To check which particular version you are using on Windows open up a black screen DOS prompt window; and, type...
 
-C:\> python --version
+C:\> python --version  
 PYTHON 3.8.2
 
 Python uses a fairly simple and straight forwards syntax; which makes it excellent for beginners to learn.
