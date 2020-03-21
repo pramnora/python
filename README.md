@@ -41,7 +41,10 @@ HOW TO SEARCH FOR HELP WITHIN PYTHON ITSELF
 
 C:\> python  
 >>> help()  
+help> modules  
 help> keywords  
+help> symbols  
+help> topics  
 
 -----
 
