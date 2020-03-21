@@ -39,8 +39,9 @@ Python uses a fairly simple and straight forwards syntax; which makes it excelle
 
 HOW TO SEARCH FOR HELP WITHIN PYTHON ITSELF
 
-C:\> python
->>> help()
+C:\> python  
+>>> help()  
+help> keywords  
 
 -----
 
