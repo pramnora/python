@@ -37,6 +37,11 @@ PYTHON 3.8.2
 
 Python uses a fairly simple and straight forwards syntax; which makes it excellent for beginners to learn.
 
+HOW TO SEARCH FOR HELP WITHIN PYTHON ITSELF
+
+C:\> python
+>>> help()
+
 -----
 
 ## LINKS
