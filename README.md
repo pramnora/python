@@ -48,6 +48,15 @@ help> topics
 
 -----
 
+CHECK IF TKINTER IS INSTALLED
+
+C:\> python -m tkinter
+...a windows should appear showing you which version of TKInter is installed;   
+the window also contains 2 buttons: Click Me/QUIT  
+(click Quit to close the window down)
+
+-----
+
 ## LINKS
 
 ### DOWNLOAD  
