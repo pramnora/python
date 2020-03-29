@@ -48,6 +48,25 @@ help> topics
 
 -----
 
+CHECK IF PIP IS INSTALLED/(Python Package Manager)  
+
+Type into the Windows 10 taskbar search box:  
+CMD  
+Then, when the Command Prompt icon appears...;  
+do a 'right click'...and, select:  
+Run as Administrator  
+Now, a 'black screen' Command Prompt window will appear ready to type further instructions into...    
+Type in...  
+C:\>pip  
+...this should show you a list of PIP command/options...which means, congratulations, you already have PIP installed.    
+But, if not...; then use the following command...  
+C:\>install pip  
+
+
+
+
+-----
+
 CHECK IF TKINTER IS INSTALLED
 
 C:\> python -m tkinter  
