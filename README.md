@@ -107,6 +107,22 @@ turtle.left(90)      # moves the turtle head 90 degrees/ready to draw the next l
 
 -----
 
+Pypi/Python Package Index
+
+https://pypi.org/
+
+>>>quote...
+Find, install and publish Python packages with the Python Package Index
+
+The Python Package Index (PyPI) is a repository of software for the Python programming language.
+
+PyPI helps you find and install software developed and shared by the Python community. Learn about installing packages.
+
+Package authors use PyPI to distribute their software. Learn how to package your Python code for PyPI.
+<<<
+
+-----
+
 ## LINKS
 
 ### DOWNLOAD  
