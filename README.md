@@ -18,6 +18,10 @@ Print "Hello, world!"
 
 Print ("Hello, world!")
 
+**NOTE**: It is highly recommended that you download the 'latest' verion of the Python programming language which is Python: 3.x.
+
+(Older versions of the programming language such as Python 2.x are still available to download and use with legacy code.)
+
 -----
 
 HOW TO DOWNLOAD PYTHON
