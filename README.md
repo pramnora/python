@@ -62,8 +62,10 @@ C:\>pip
 But, if not...; then use the following command...  
 C:\>install pip  
 
+You can also check which version of pip is installed by doing the following...  
 
-
+C:\WINDOWS\system32>pip --version  
+pip 19.2.3 from c:\users\customer1\appdata\local\programs\python\python38-32\lib\site-packages\pip (python 3.8)  
 
 -----
 
