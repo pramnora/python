@@ -71,6 +71,8 @@ pip 19.2.3 from c:\users\customer1\appdata\local\programs\python\python38-32\lib
 
 CHECK IF TKINTER IS INSTALLED
 
+TKInter, allows one to add a GUI/Graphical User Interface to Python programs...(eg, include Windows/Labels/Buttons/-etc.)  
+
 C:\> python -m tkinter  
 
 ...a window should appear showing you which version of TKInter is installed;   
