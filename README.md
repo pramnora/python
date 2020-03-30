@@ -36,8 +36,11 @@ FIND OUT WHICH VERSION OF PYTHON YOU ARE RUNNING ON WINDOWS OPERATING SYSTEM
 
 To check which particular version you are using on Windows open up a black screen DOS prompt window; and, type...
 
-C:\> python --version  
-PYTHON 3.8.2
+C:\> python --version    
+...Alternative syntax...  
+C:\> python -V  
+
+PYTHON 3.8.2  
 
 Python uses a fairly simple and straight forwards syntax; which makes it excellent for beginners to learn.
 
