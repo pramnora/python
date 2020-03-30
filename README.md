@@ -86,6 +86,9 @@ C:\>install pip
 You can also check which version of pip is installed by doing the following...  
 
 C:\WINDOWS\system32>pip --version  
+...alternative syntax...
+C:\WINDOWS\system32>pip -V    
+
 pip 19.2.3 from c:\users\customer1\appdata\local\programs\python\python38-32\lib\site-packages\pip (python 3.8)  
 
 **NOTE**: If you have Python 3.4 or above...; then, PIP is installed by default.  
