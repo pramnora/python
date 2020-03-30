@@ -22,6 +22,20 @@ Print ("Hello, world!")
 
 (Older versions of the programming language such as Python 2.x are still available to download and use with older legacy code.)
 
+It is possible to have multiple different versions of Python installed; all up and running on the same one computer.
+
+-----
+
+SOME OF THE ADVANTAGES OF LEARNING PYTHON PROGRAMMING
+
+Python is FREE...if you have a computer internet connection...then, the downloading process is very quick, simple and easy to set up.
+
+Python is a very highly popular programming language; therefore, there is much code you can read/study...as well as, tons of tutorial resources...in the form of books/videos/-etc.
+
+Python uses a fairly simple and straight forwards syntax, which makes it really excellent for people who are complete 'beginners' new to programming to learn.
+
+It also includes many advanced features, as well...such as, linking to extended libraries one can use...this make it equally appealing for more experienced: intermediate/and, even, professional programmers.
+
 -----
 
 HOW TO DOWNLOAD PYTHON
@@ -42,7 +56,7 @@ C:\> python -V
 
 PYTHON 3.8.2  
 
-Python uses a fairly simple and straight forwards syntax; which makes it excellent for beginners to learn.
+-----
 
 HOW TO SEARCH FOR HELP WITHIN PYTHON ITSELF
 
@@ -134,6 +148,7 @@ Package authors use PyPI to distribute their software. Learn how to package your
 
 https://www.python.org/  
 https://www.python.org/downloads/
+https://pypi.org/
 
 ### IDE/Integrated Development Environment
 
