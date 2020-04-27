@@ -53,6 +53,8 @@ To check which particular version you are using on Windows open up a black scree
 C:\> python --version    
 ...Alternative syntax...  
 C:\> python -V  
+...Alternative sytax...
+C:\> py -3 --version
 
 PYTHON 3.8.2  
 
