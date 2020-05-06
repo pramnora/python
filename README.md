@@ -95,9 +95,24 @@ pip 19.2.3 from c:\users\customer1\appdata\local\programs\python\python38-32\lib
 
 **NOTE**: If you have Python 3.4 or above...; then, PIP is installed by default.  
 
+UPDATE PIP
+
+C:\>python -m pip install --upgrade pip
+
+C:\Users\customer1>pip --version
+pip 20.1 from c:\users\customer1\appdata\local\programs\python\python38-32\lib\site-packages\pip (python 3.8)
+
 -----
 
-USE PIP TO INSTALL FURTHER PYTHON SOFTWARE PACKAGES
+HOW TO FIND FURTHER PIP COMMANDS
+
+C:\>pip
+
+HOW TO CHECK WHICH SOFTWARE PACKAGES PIP HAS ALREADY INSTALLED
+
+C:\>pip list
+
+HOW TO USE PIP TO INSTALL FURTHER PYTHON SOFTWARE PACKAGES
 
 C:\>pip install numpy
 
