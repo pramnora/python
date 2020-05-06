@@ -106,7 +106,9 @@ pip 20.1 from c:\users\customer1\appdata\local\programs\python\python38-32\lib\s
 
 HOW TO FIND FURTHER PIP COMMANDS
 
-C:\>pip
+C:\>pip  
+...alternative syntax...  
+C:\>pip --help  
 
 HOW TO CHECK WHICH SOFTWARE PACKAGES PIP HAS ALREADY INSTALLED
 
@@ -120,14 +122,14 @@ C:\>pip install numpy
 
 HOW TO USE NUMPY INSIDE OF IDLE
 
->>>import numpy as np
->>>xArrayName=np.arrange(start=1,stop=10)
->>>xArray
->>>array([1, 2, 3, 4, 5, 6, 7, 8, 9])
->>>x.reshape(3,3)
->>>array[[1, 2, 3],
-         [4, 5, 6],
-         [7, 8, 9]])
+>>>import numpy as np  
+>>>xArrayName=np.arrange(start=1,stop=10)  
+>>>xArray  
+>>>array([1, 2, 3, 4, 5, 6, 7, 8, 9])  
+>>>x.reshape(3,3)  
+>>>array[[1, 2, 3],  
+         [4, 5, 6],  
+         [7, 8, 9]])  
 
 -----
 
