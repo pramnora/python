@@ -118,6 +118,19 @@ C:\>pip install numpy
 
 -----
 
+HOW TO USE NUMPY INSIDE OF IDLE
+
+>>>import numpy as np
+>>>xArrayName=np.arrange(start=1,stop=10)
+>>>xArray
+>>>array([1, 2, 3, 4, 5, 6, 7, 8, 9])
+>>>x.reshape(3,3)
+>>>array[[1, 2, 3],
+         [4, 5, 6],
+         [7, 8, 9]])
+
+-----
+
 CHECK IF TKINTER IS INSTALLED
 
 TKInter, allows one to add a GUI/Graphical User Interface to Python programs...(eg, include Windows/Labels/Buttons/-etc.)  
