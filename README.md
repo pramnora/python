@@ -97,6 +97,12 @@ pip 19.2.3 from c:\users\customer1\appdata\local\programs\python\python38-32\lib
 
 -----
 
+USE PIP TO INSTALL FURTHER PYTHON SOFTWARE PACKAGES
+
+C:\>pip install numpy
+
+-----
+
 CHECK IF TKINTER IS INSTALLED
 
 TKInter, allows one to add a GUI/Graphical User Interface to Python programs...(eg, include Windows/Labels/Buttons/-etc.)  
