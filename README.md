@@ -28,7 +28,7 @@ It is possible to have multiple different versions of Python installed; all up a
 
 SOME OF THE ADVANTAGES OF LEARNING PYTHON PROGRAMMING
 
-Python is FREE...if you have a computer internet connection...then, the downloading process is very quick, simple and easy to set up.
+Python is FREE...if you have a computer internet connection...then, the downloading process is very quick, simple and easy to set up. (It is cross platform: Windows/Linux/Mac/-etc.)  
 
 Python is a very highly popular programming language; therefore, there is much code you can read/study...as well as, tons of tutorial resources...in the form of books/videos/-etc.
 
