@@ -71,6 +71,20 @@ help> topics
 
 -----
 
+iPython (run Python with line numbers/syntax colour highlighting/-etc.)  
+
+Open up a Black DOS command prompt window...; and, now, type...  
+
+C:\Windows\user>ipython  
+...iPython should load, and, display as...   
+>>ln [1]: print("Hello, world!")  
+>>Hello, world!  
+>>  
+>>ln [2]:  
+>>  
+
+-----
+
 CHECK IF PIP IS INSTALLED/(Python Package Manager)  
 
 Type into the Windows 10 taskbar search box:  
