@@ -167,12 +167,12 @@ turtle.left(90)      # moves the turtle head 90 degrees/ready to draw the next l
 
 Python Math library
 
->>from math import *
->>for x in range(1,13):
->>   print(x,"=",factorial(x))
->>
->>pi
->>3.141592653589793
+>>from math import *  
+>>for x in range(1,13):  
+>>   print(x,"=",factorial(x))  
+>>  
+>>pi  
+>>3.141592653589793  
  
 -----
 
