@@ -123,10 +123,10 @@ C:\>pip install numpy
 HOW TO USE NUMPY INSIDE OF IDLE
 
 >>>import numpy as np  
->>>xArrayName=np.arrange(start=1,stop=10)  
->>>xArray  
+>>>xArrayName=np.arange(start=1,stop=10)  
+>>>xArrayName  
 >>>array([1, 2, 3, 4, 5, 6, 7, 8, 9])  
->>>x.reshape(3,3)  
+>>>xArrayName.reshape(3,3)  
 >>>array[[1, 2, 3],  
          [4, 5, 6],  
          [7, 8, 9]])  
