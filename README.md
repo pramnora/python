@@ -165,6 +165,23 @@ turtle.left(90)      # moves the turtle head 90 degrees/ready to draw the next l
 
 -----
 
+Python String library
+
+>>import string  
+>>def checkIfNumber(strNum):  
+>>    if strNum in string.digits:  
+>>        print("Y")  
+>>    else:  
+>>        print("N")  
+>>
+>> checkIfNumber("1")  
+>> Y  
+>> checkIf Number("a")  
+>> N  
+>>  
+         
+-----
+
 Python Math library
 
 >>from math import *  
