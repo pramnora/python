@@ -149,19 +149,11 @@ PYTHON TURTLE GRAPHICS
 
 # program: turtle grahics: draw a square...
 
-import turtle  # imports the turtle graphics library ready for drawing with
-
-turtle.forwards(100) # draws a line moving forwards 100 pixels  
-turtle.left(90)      # moves the turtle head 90 degrees/ready to draw the next line going in a different direction, instead
-
-turtle.forwards(100) # draws a line moving forwards 100 pixels  
-turtle.left(90)      # moves the turtle head 90 degrees/ready to draw the next line going in a different direction, instead
-
-turtle.forwards(100) # draws a line moving forwards 100 pixels  
-turtle.left(90)      # moves the turtle head 90 degrees/ready to draw the next line going in a different direction, instead
-
-turtle.forwards(100) # draws a line moving forwards 100 pixels  
-turtle.left(90)      # moves the turtle head 90 degrees/ready to draw the next line going in a different direction, instead
+>>import turtle  
+>>for drawSquare in range(1,5):  
+>>	turtle.forward(100)  
+>>	turtle.left(90)  
+>>  
 
 -----
 
