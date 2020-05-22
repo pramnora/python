@@ -191,7 +191,7 @@ First, you have to install the VPython library; so, at the windows command line 
 
 Now, inside of IDLE type...  
 
->>import vpython  
+>>from vpython import *   
 >>vpython.cylinder()  
 >>  
 
