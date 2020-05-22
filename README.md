@@ -192,7 +192,7 @@ First, you have to install the VPython library; so, at the windows command line 
 Now, inside of IDLE type...  
 
 >>from vpython import *   
->>vpython.cylinder()  
+>>cylinder()  
 >>  
 
 ...a 3D cylinder shape should appear inside of your 'default' web browser;    
