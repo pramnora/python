@@ -268,6 +268,11 @@ VPython
 (9 year old teaching...)   
 https://www.youtube.com/watch?v=jDDNpDZnFAw&feature=youtu.be&fbclid=IwAR1LtqLBaNI-eDyThp4UIxHpPsvsDzoOazMt_scgoqDIxMm1FeXv7sEePpU  
 
+## FREE Udemy course...
+
+3 Python projects for beginners/Teacher: Kostadin Ristovski  
+https://www.udemy.com/course/3-python-projects-for-beginners/?fbclid=%5B%27IwAR1wPCiNkv8tw4ukWjPRxhWQduc7DVXOUzAyetkUBK_wLENmZzvzJEMzFZQ%27%5D  
+
 ## PRACTICE ONLINE INSIDE OF WEB BROWSER
 
 http://www.codesandbox.io  
