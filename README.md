@@ -211,7 +211,7 @@ Now, inside of IDLE type...
 
 ...a 3D cylinder shape should appear inside of your 'default' web browser;    
 the which 3D shape you can then manipulate by clicking on it using your mouse 'right' button;    
-thus, allowing you drag the 3D shape however you please.  
+thus, allowing you drag the 3D shape around however you please.  
 
 -----
 
