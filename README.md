@@ -271,6 +271,7 @@ https://www.youtube.com/watch?v=jDDNpDZnFAw&feature=youtu.be&fbclid=IwAR1LtqLBaN
 ## FREE Udemy course...
 
 3 Python projects for beginners/Teacher: Kostadin Ristovski  
+(Word cloud/Web scraping links/Google translate text)  
 https://www.udemy.com/course/3-python-projects-for-beginners/?fbclid=%5B%27IwAR1wPCiNkv8tw4ukWjPRxhWQduc7DVXOUzAyetkUBK_wLENmZzvzJEMzFZQ%27%5D  
 
 ## PRACTICE ONLINE INSIDE OF WEB BROWSER
