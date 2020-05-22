@@ -147,8 +147,6 @@ the window also contains 2 buttons: Click Me/QUIT
 
 PYTHON TURTLE GRAPHICS
 
-# program: turtle grahics: draw a square...
-
 >>import turtle  
 >>for drawSquare in range(1,5):  
 >>	turtle.forward(100)  
@@ -182,7 +180,25 @@ Python Math library
 >>  
 >>pi  
 >>3.141592653589793  
- 
+
+-----
+
+VPython 3D library
+
+First, you have to install the VPython library; so, at the windows command line type...  
+
+>> pip install vpython  
+
+Now, inside of IDLE type...  
+
+>>import vpython  
+>>vpython.cylinder()  
+>>  
+
+...a 3D cylinder shape should appear inside of your 'default' web browser;    
+the which 3D shape you can then manipulate by clicking on it using your mouse 'right' button;    
+thus, allowing you drag the 3D shape however you please.  
+
 -----
 
 Pypi/Python Package Index
@@ -230,6 +246,13 @@ http://www.pythontutor.com
 PEP 8 -- Style Guide for Python Code  
 https://www.python.org/dev/peps/pep-0008/   
 
+
+## YouTube Videos...
+
+VPython 
+
+(9 year old teaching...)   
+https://www.youtube.com/watch?v=jDDNpDZnFAw&feature=youtu.be&fbclid=IwAR1LtqLBaNI-eDyThp4UIxHpPsvsDzoOazMt_scgoqDIxMm1FeXv7sEePpU  
 
 ## PRACTICE ONLINE INSIDE OF WEB BROWSER
 
