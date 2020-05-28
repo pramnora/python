@@ -286,7 +286,13 @@ VPython
 (9 year old teaching.../VPython: Python 3D graphics)   
 https://www.youtube.com/watch?v=jDDNpDZnFAw&feature=youtu.be&fbclid=IwAR1LtqLBaNI-eDyThp4UIxHpPsvsDzoOazMt_scgoqDIxMm1FeXv7sEePpU  
 
+Other
 
+How to Learn Python Tutorial - Easy & simple! Learn How to Learn Python!
+https://www.youtube.com/watch?v=5mJ_Qftw2_0
+
+The Python Programming Deception?
+https://www.youtube.com/watch?v=FeYljNZHjZQ
 
 ## FREE Udemy course...
 
