@@ -272,19 +272,25 @@ https://www.youtube.com/watch?v=f79MRyMsjrQ&t=2953s
 The Complete Python Course For Beginners/(YouTube Channel: Tech With Tim)  
 https://www.youtube.com/watch?v=sxTmJE4k0ho  
 
+What Does It Take To Be An Expert At Python?  
+https://www.youtube.com/watch?v=7lmCu8wz8ro  
+
+## Python Library Tutorials...
+
+### NumPy
+
 Introduction to Numerical Computing with NumPy | SciPy 2019 Tutorial | Alex Chabot-Leclerc  
 https://www.youtube.com/watch?v=ZB7BZMhfPgk  
 
 Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)  
 https://www.youtube.com/watch?v=r-uOLxNrNk8  
 
-What Does It Take To Be An Expert At Python?  
-https://www.youtube.com/watch?v=7lmCu8wz8ro  
+### TKInter
 
 Tkinter Course - Create Graphic User Interfaces in Python Tutorial/YouTube Channel: freeCodeCamp.org    
 https://www.youtube.com/watch?v=YXPyB4XeYLA&t=640s  
 
-VPython 
+### VPython 
 
 (9 year old teaching.../VPython: Python 3D graphics)   
 https://www.youtube.com/watch?v=jDDNpDZnFAw&feature=youtu.be&fbclid=IwAR1LtqLBaNI-eDyThp4UIxHpPsvsDzoOazMt_scgoqDIxMm1FeXv7sEePpU  
