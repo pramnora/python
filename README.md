@@ -292,7 +292,7 @@ https://www.youtube.com/watch?v=YXPyB4XeYLA&t=640s
 (9 year old teaching.../VPython: Python 3D graphics)   
 https://www.youtube.com/watch?v=jDDNpDZnFAw&feature=youtu.be&fbclid=IwAR1LtqLBaNI-eDyThp4UIxHpPsvsDzoOazMt_scgoqDIxMm1FeXv7sEePpU  
 
-Other
+### Other
 
 How to Learn Python Tutorial - Easy & simple! Learn How to Learn Python!  
 https://www.youtube.com/watch?v=5mJ_Qftw2_0
