@@ -269,14 +269,14 @@ https://www.youtube.com/watch?v=_uQrJ0TkZlc
 Python Tutorial for Programmers - Python Crash Course/(YouTube Channel: Programming With Mosh)
 https://www.youtube.com/watch?v=f79MRyMsjrQ&t=2953s
 
-The Complete Python Course For Beginners/(YouTube Channel: Tech With Tim)
-https://www.youtube.com/watch?v=sxTmJE4k0ho
+The Complete Python Course For Beginners/(YouTube Channel: Tech With Tim)  
+https://www.youtube.com/watch?v=sxTmJE4k0ho  
 
-Introduction to Numerical Computing with NumPy | SciPy 2019 Tutorial | Alex Chabot-Leclerc
-https://www.youtube.com/watch?v=ZB7BZMhfPgk
+Introduction to Numerical Computing with NumPy | SciPy 2019 Tutorial | Alex Chabot-Leclerc  
+https://www.youtube.com/watch?v=ZB7BZMhfPgk  
 
-Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)
-https://www.youtube.com/watch?v=r-uOLxNrNk8
+Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)  
+https://www.youtube.com/watch?v=r-uOLxNrNk8  
 
 What Does It Take To Be An Expert At Python?  
 https://www.youtube.com/watch?v=7lmCu8wz8ro  
