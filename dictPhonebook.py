@@ -43,8 +43,6 @@ phonebook = {
     "Samaritans(1)":"08457 90 90 90",
     "Samaritans(2)":"116 123",
     "Cashplus":"0330 024 0924",   
-    "Paul Ramnora":"0208 766 0210",
-    "Sharon Sayers":"01 737 353 208",
     "Nat West":"0800 200 400",
     "Emergency":"999",
     "NHS":"111",
