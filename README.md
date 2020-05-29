@@ -272,9 +272,6 @@ https://www.youtube.com/watch?v=f79MRyMsjrQ&t=2953s
 The Complete Python Course For Beginners/(YouTube Channel: Tech With Tim)  
 https://www.youtube.com/watch?v=sxTmJE4k0ho  
 
-What Does It Take To Be An Expert At Python?  
-https://www.youtube.com/watch?v=7lmCu8wz8ro  
-
 ## Python Library Tutorials...
 
 ### NumPy
@@ -302,6 +299,9 @@ https://www.youtube.com/watch?v=5mJ_Qftw2_0
 
 The Python Programming Deception?  
 https://www.youtube.com/watch?v=FeYljNZHjZQ
+
+What Does It Take To Be An Expert At Python?  
+https://www.youtube.com/watch?v=7lmCu8wz8ro  
 
 ## FREE Udemy course...
 
