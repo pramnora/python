@@ -278,8 +278,8 @@ https://www.youtube.com/watch?v=ZB7BZMhfPgk
 Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)
 https://www.youtube.com/watch?v=r-uOLxNrNk8
 
-What Does It Take To Be An Expert At Python?
-https://www.youtube.com/watch?v=7lmCu8wz8ro
+What Does It Take To Be An Expert At Python?  
+https://www.youtube.com/watch?v=7lmCu8wz8ro  
 
 Tkinter Course - Create Graphic User Interfaces in Python Tutorial/YouTube Channel: freeCodeCamp.org    
 https://www.youtube.com/watch?v=YXPyB4XeYLA&t=640s  
