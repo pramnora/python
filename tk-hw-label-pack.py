@@ -13,8 +13,8 @@
 #   CREATED: 300520 04:27 AM GMT
 #   UPDATED: 300520 04:27 AM GMT
 #----------------------------------------------------------------
-#      NOTE: This file places inside of an empty window;
-#            some title text.
+#      NOTE: How to create/use text labels...;
+#            together with: pack().
 #----------------------------------------------------------------
 
 # make call to import all: (*) from library: tkinter... 
