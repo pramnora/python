@@ -25,7 +25,7 @@ root=Tk()       #...set root
 
 #...rest of code goes inside here..
 
-root.title("Label...")
+root.title("Label/pack()...")
 
 #------------------------------------------------------------------------
 
