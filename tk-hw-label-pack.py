@@ -15,6 +15,16 @@
 #----------------------------------------------------------------
 #      NOTE: How to create/use 4 x text labels...;
 #            together with: pack().
+#
+#            What pack() does is it simply places 
+#            one text to go below the next, so...
+#            text1
+#            text2
+#            text3
+#            text4
+#            ...and, so on.
+#            This is a very simple way to do things...;
+#            where as: grid(row=n,column=n) offers more control.
 #----------------------------------------------------------------
 
 # make call to import all: (*) from library: tkinter... 
