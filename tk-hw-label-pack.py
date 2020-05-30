@@ -13,7 +13,7 @@
 #   CREATED: 300520 04:27 AM GMT
 #   UPDATED: 300520 04:27 AM GMT
 #----------------------------------------------------------------
-#      NOTE: How to create/use text labels...;
+#      NOTE: How to create/use 4 x text labels...;
 #            together with: pack().
 #----------------------------------------------------------------
 
