@@ -15,6 +15,20 @@
 #----------------------------------------------------------------
 #      NOTE: How to create/use 4 x text labels...;
 #            together with: grid().
+#
+#            grid(), works like using an Excel spreadsheet;
+#            where there is a grid forming a series of rows/columns;
+#            rows, go horizontally across;
+#            and, columns go vertically both up and down;
+#            so, there is row 1/column 1, column 2; -etc.
+#            and, there is row 2/column 1, column 2; -etc.
+#
+#            The output of this code looks like the following:
+#            Hello, world(1) Hello, world(2)
+#            Hello, world(3) Hello, world(4)
+#            ...which, in turn corresponds with...
+#            grid(row=0,column=0) grid(row=0,column=1)
+#            grid(row=1,column=0) grid(row=1,column=1)
 #----------------------------------------------------------------
 
 # make call to import all: (*) from library: tkinter... 
@@ -34,8 +48,8 @@ myLabel1.grid(row=0,column=0)
 
 #------------------------------------------------------------------------
 
-myLabel1 = Label(root,text="Hello, world(2)")
-myLabel1.grid(row=0,column=1)
+myLabel2 = Label(root,text="Hello, world(2)")
+myLabel2.grid(row=0,column=1)
 
 #------------------------------------------------------------------------
 
