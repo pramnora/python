@@ -30,7 +30,7 @@ root=Tk()       #...set root
 
 #...rest of code goes inside here..
 
-root.title("Label/grid()...")
+root.title("Buttons/pack()...")
 
 #------------------------------------------------------------------------
 
