@@ -275,6 +275,9 @@ https://www.youtube.com/watch?v=sxTmJE4k0ho
 Python Tutorial for Absolute Beginners #1 - What Are Variables?  (series: 16 videos/YouTube Channel: CS Dojo)  
 https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg    
 
+Learn Python with Socratica || Python Tutorial || Python Programming  (YouTube Channel: Socratica)  
+https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-  
+
 ## Full length courses
 
 Python for Everybody - Full Course with Dr. Chuck  (YouTube Channel: freeCodeCamp.org)  
