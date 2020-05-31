@@ -272,6 +272,9 @@ https://www.youtube.com/watch?v=f79MRyMsjrQ&t=2953s
 The Complete Python Course For Beginners/(YouTube Channel: Tech With Tim)  
 https://www.youtube.com/watch?v=sxTmJE4k0ho  
 
+Python Tutorial for Absolute Beginners #1 - What Are Variables?  (series: 16 videos/YouTube Channel: CS Dojo)  
+https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg    
+
 ## Python Library Tutorials...
 
 ### NumPy
@@ -303,7 +306,7 @@ https://www.youtube.com/watch?v=FeYljNZHjZQ
 What Does It Take To Be An Expert At Python?  
 https://www.youtube.com/watch?v=7lmCu8wz8ro  
 
-6 Python Exercise Problems for Beginners - from CodingBat (Python Tutorial #14)  
+6 Python Exercise Problems for Beginners - from CodingBat (Python Tutorial #14/YouTube Channel: CS Dojo)  
 https://www.youtube.com/watch?v=lx7oqZ7Nl3k  
 
 ## FREE Udemy course...
