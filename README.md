@@ -275,6 +275,11 @@ https://www.youtube.com/watch?v=sxTmJE4k0ho
 Python Tutorial for Absolute Beginners #1 - What Are Variables?  (series: 16 videos/YouTube Channel: CS Dojo)  
 https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg    
 
+### Python Language: Concepts
+
+Python Classes and Objects || Python Tutorial || Learn Python Programming  (YouTube Channel: Socratica)  
+https://www.youtube.com/watch?v=apACNr7DC_s  
+
 ## Python Library Tutorials...
 
 ### NumPy
