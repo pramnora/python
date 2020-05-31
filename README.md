@@ -303,6 +303,9 @@ https://www.youtube.com/watch?v=FeYljNZHjZQ
 What Does It Take To Be An Expert At Python?  
 https://www.youtube.com/watch?v=7lmCu8wz8ro  
 
+6 Python Exercise Problems for Beginners - from CodingBat (Python Tutorial #14)  
+https://www.youtube.com/watch?v=lx7oqZ7Nl3k  
+
 ## FREE Udemy course...
 
 3 Python projects for beginners/Teacher: Kostadin Ristovski  
