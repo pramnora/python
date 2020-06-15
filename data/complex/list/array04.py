@@ -19,7 +19,7 @@ print(max(numbers))
 print(numbers.count(5))
 #2
 
-#sort the array items...
+#sort the array items going in ascending order...
 numbers.sort()
 print(numbers)
 #5,5,22,63,90
