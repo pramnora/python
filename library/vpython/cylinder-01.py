@@ -1,5 +1,4 @@
 #*** VPython 3D library
-
 #First, you have to install the VPython library; 
 #so, at the windows command line type...
 #pip install vpython
@@ -12,7 +11,6 @@ cylinder()
 #when the code is run by saving it; and, then, pressing key: [F5]...
 #your 'default' web browser should, automatically, open(localhost:55049); 
 #and, display a web page showing a 3D cylinder shape;
-#the shape can be clicked on using your 'right' mouse button/
-#and, by holding down the 'right' mouse button on top of the shape
-#you can also 'drag and drop' the shape all around the web browser screen
-#thus, placing the shape in multiple different positions.
+#by clicking/and, dragging using both your mouse right/left buttons;
+#it's possible to re-size the shape/window;
+#as well as, 'drag and draw' the shape by moving it all around the screen.
