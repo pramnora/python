@@ -16,7 +16,7 @@ print(name[0])
 
 print("\nprint(name[1:]")
 print(name[1:])
-#paul Ramnora
+#aul Ramnora
 
 print("\nprint(name[0:4]")
 print(name[0:4])
