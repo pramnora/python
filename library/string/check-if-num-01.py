@@ -8,6 +8,6 @@ def checkIfNumber(strNum):
 
 checkIfNumber("1")
 #Y
-checkIf Number("a")
+checkIfNumber("a")
 #N
 
