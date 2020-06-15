@@ -17,4 +17,16 @@ print(max(numbers))
 
 #finding out the number of times a list item repeats itself...
 print(numbers.count(5))
-#2 
+#2
+
+#sort the array items...
+numbers.sort()
+print(numbers)
+#5,5,22,63,90
+
+#sort the array items going in reverse order...
+numbers.sort(reverse=True)
+print(numbers)
+#90,63,22,5,5
+
+
