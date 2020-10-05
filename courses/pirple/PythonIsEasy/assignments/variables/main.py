@@ -10,7 +10,7 @@ OPERATING SYSTEM: Windows 10 Professional
            EMAIL: pramnora@yahoo.com
 -------------------------------------------------
           GITHUB: https://www.github.com/pramnora
-    RELATED CODE:
+    RELATED CODE: https://github.com/pramnora/python/blob/master/courses/pirple/PythonIsEasy/assignments/variables/main.py
 -------------------------------------------------
     FILE CREATED: 14:56 05/10/2020
     LAST UPDATED: 14:56 05/10/2020
