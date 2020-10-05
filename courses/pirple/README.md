@@ -1,6 +1,6 @@
 5th October 2020 
 
-I joined...  
+Today, I joined...  
 http://www.pirple.com  
 ...where I paid approximatly £40.00 to do 14 x courses...each with 'lifetime access'/plus, certificates.
 
