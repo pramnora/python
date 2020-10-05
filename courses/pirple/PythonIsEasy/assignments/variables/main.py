@@ -28,5 +28,59 @@ OPERATING SYSTEM: Windows 10 Professional
                   - finally, zip up the file/and, upload it to be marked online 
 """
 
+# ----------------------------
+# *** Variable declarations...
+# ----------------------------
 
+# --- string...
 
+strSongTitle = "The First Time Ever I Saw Your Face" 
+strWriter = "Ewan Macoll"
+strReleased ="March 7, 1972"
+strGenre = "folk song, soul, vocal jazz"
+strFilm = "Play Misty For Me"
+strDirector = "Clint Eastwood"
+strProducer = "Joel Dorn"
+strSinger = "Roberta Flack"
+strRecordLabel = "Atlantic 2864"
+strGrammyAwards = "Record of the Year/Song of the Year"
+strBillboardRank = "No 1/Hot 100 single of the year for 1972"
+strReference = "https://en.wikipedia.org/wiki/The_First_Time_Ever_I_Saw_Your_Face"
+
+# --- integer...
+
+intWrittenDate = 1957
+intRecorded = 1968
+intFilmDate = 1972
+
+# --- float...
+
+fltLength = 5.22
+
+# --- boolean
+
+bolHit = True
+
+# -------------------
+# *** Main program...
+# -------------------
+
+# *** Printout...
+
+print(strSongTitle)
+print(strWriter)
+print(intWrittenDate)
+print(strReleased)
+print(intRecorded)
+print(strGenre)
+print(strFilm)
+print(intFilmDate)
+print(strDirector)
+print(strProducer)
+print(strSinger)
+print(strRecordLabel)
+print(fltLength)
+print(bolHit)
+print(strGrammyAwards)
+print(BillboardRank)
+print(strReference)
