@@ -1,4 +1,5 @@
 """
+          COURSE: PythonIsEasy, (www.pirple.com)
          PROGRAM: Lesson 1/Assignment: Variables/Comments
         LANGUAGE: Python/Version: 3.8.6
 ---------------------------------------------------------
@@ -13,7 +14,7 @@ OPERATING SYSTEM: Windows 10 Professional
     RELATED CODE: https://github.com/pramnora/python/blob/master/courses/pirple/PythonIsEasy/assignments/variables/main.py
 ---------------------------------------------------------
     FILE CREATED: 14:56 05/10/2020
-    LAST UPDATED: 14:56 05/10/2020
+    LAST UPDATED: 17:33 05/10/2020
 """
 
 """
