@@ -35,7 +35,6 @@ OPERATING SYSTEM: Windows 10 Professional
 # --- string...
 
 strProgramTitle = "Song details"
-strUnderscore = "-"
 strSongTitle = "The First Time Ever I Saw Your Face" 
 strWriter = "Ewan Macoll"
 strReleased ="March 7, 1972"
@@ -64,20 +63,28 @@ fltLength = 5.22
 bolHit = True
 
 # -------------------
+# *** Sub-routines...
+# -------------------
+
+def printUnderline():
+   strUnderscore = "-" #...local variable declaration
+   print(strUnderscore*100)
+  
+# -------------------
 # *** Main program...
 # -------------------
 
 # *** Printout...
 
-print("       PROGRAM:",strProgramTitle)
-print(strUnderscore*100)
+print("       PROGRAM: ",strProgramTitle)
+printUnderline()
 print("    Song Title: ",strSongTitle)
 print("        Writer: ",strWriter)
 print("  Written date: ",intWrittenDate)
 print("      Released: ",strReleased)
 print("      Recorded: ",intRecorded)
 print("         Genre: ",strGenre)
-print(strUnderscore*100)
+printUnderline()
 print("          Film: ",strFilm)
 print("     Film Date: ",intFilmDate)
 print("      Director: ",strDirector)
@@ -85,9 +92,9 @@ print("      Producer: ",strProducer)
 print("        Singer: ",strSinger)
 print("  Record Label: ",strRecordLabel)
 print("        Length: ",fltLength)
-print(strUnderscore*100)
+printUnderline()
 print("           Hit: ",bolHit)
 print(" Grammy Awards: ",strGrammyAwards)
 print("Billboard Rank: ",strBillboardRank)
-print(strUnderscore*100)
+printUnderline()
 print("     Reference: ",strReference)
