@@ -14,7 +14,7 @@ OPERATING SYSTEM: Windows 10 Professional
     RELATED CODE: https://github.com/pramnora/python/blob/master/courses/pirple/PythonIsEasy/assignments/variables/main.py
 ---------------------------------------------------------
     FILE CREATED: 14:56 05/10/2020
-    LAST UPDATED: 17:33 05/10/2020
+    LAST UPDATED: 19:28 05/10/2020
 """
 
 """
@@ -34,10 +34,12 @@ OPERATING SYSTEM: Windows 10 Professional
 
 # --- string...
 
+strProgramTitle = "Song details"
+strUnderscore = "-"
 strSongTitle = "The First Time Ever I Saw Your Face" 
 strWriter = "Ewan Macoll"
 strReleased ="March 7, 1972"
-strGenre = "folk song, soul, vocal jazz"
+strGenre = "Folk song, Soul, Vocal jazz"
 strFilm = "Play Misty For Me"
 strDirector = "Clint Eastwood"
 strProducer = "Joel Dorn"
@@ -67,20 +69,25 @@ bolHit = True
 
 # *** Printout...
 
-print(strSongTitle)
-print(strWriter)
-print(intWrittenDate)
-print(strReleased)
-print(intRecorded)
-print(strGenre)
-print(strFilm)
-print(intFilmDate)
-print(strDirector)
-print(strProducer)
-print(strSinger)
-print(strRecordLabel)
-print(fltLength)
-print(bolHit)
-print(strGrammyAwards)
-print(strBillboardRank)
-print(strReference)
+print("       PROGRAM:",strProgramTitle)
+print(strUnderscore*100)
+print("    Song Title: ",strSongTitle)
+print("        Writer: ",strWriter)
+print("  Written date: ",intWrittenDate)
+print("      Released: ",strReleased)
+print("      Recorded: ",intRecorded)
+print("         Genre: ",strGenre)
+print(strUnderscore*100)
+print("          Film: ",strFilm)
+print("     Film Date: ",intFilmDate)
+print("      Director: ",strDirector)
+print("      Producer: ",strProducer)
+print("        Singer: ",strSinger)
+print("  Record Label: ",strRecordLabel)
+print("        Length: ",fltLength)
+print(strUnderscore*100)
+print("           Hit: ",bolHit)
+print(" Grammy Awards: ",strGrammyAwards)
+print("Billboard Rank: ",strBillboardRank)
+print(strUnderscore*100)
+print("     Reference: ",strReference)
