@@ -2,7 +2,7 @@
 
 Today, I joined...  
 http://www.pirple.com  
-...where I paid approximately $49.00 -(approximately, £40.00 GBP)- to do 14 x courses...each with unlimited 'lifetime access'/plus, certificates.
+...where I paid approximately $49.00 -(£39.66 GBP)- to do 14 x courses...each with unlimited 'lifetime access'/plus, certificates.
 
 The first course I decided to do is called...  
 - Python Is Easy    
