@@ -322,6 +322,11 @@ https://www.youtube.com/watch?v=7lmCu8wz8ro
 6 Python Exercise Problems for Beginners - from CodingBat (Python Tutorial #14/YouTube Channel: CS Dojo)  
 https://www.youtube.com/watch?v=lx7oqZ7Nl3k  
 
+### Other tutorials (non YouTube)  
+
+Course: PythonIsEasy  
+https://www.pirple.com  
+
 ## FREE Udemy course...
 
 3 Python projects for beginners/Teacher: Kostadin Ristovski  
