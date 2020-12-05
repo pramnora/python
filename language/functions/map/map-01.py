@@ -14,5 +14,14 @@
 
 # SYNTAX Usage
 # keyword: map(func, seq)
+
+# Example 1:
+
+listOfNums = [1,2,3,4,5]
+times2 = lambda x:x*2
+print(list(map(times2,listOfNums)))
+
+# Example 2:
+
 print(list(map(lambda x:x*2,[1,2,3,4,5])))
 # outputs: [2,4,6,8,10]
