@@ -34,6 +34,10 @@ root.mainloop()
 
 >> stub.py
 
+NOTE: If you are running the program using DOS; then, please, don't forget to use the 'Python' keyword before the program name. Eg.
+
+>> C:> python stub.py
+
 ...then, run it using either your Python IDE/or, a DOS prompt command line window/-etc.
 
 The program output should display...
