@@ -18,9 +18,6 @@ TKInter includes such things as...
 - Events (you can create Python style functions, the which code runs when say a button is clicked/(eg. def funcName:)
 - etc.
 
-Right now, I'm still learning how to use TKInter library...; so, I'm still very much a total 'beginner';  
-therefore, my own understanding of it remains extremely 'limited'.  
-
 According to what one tutorial said...there are 'hundreds' of different methods inside of TKInter;  
 then, if so far to date, I only understand how to use no more than a mere handful or two of these;     
 it shows I have a great deal to go and learn...?!
