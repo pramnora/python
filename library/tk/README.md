@@ -19,3 +19,7 @@ TKInter includes such things as...
 
 Right now, I'm still learning how to use TKInter library...; so, I'm still very much a total 'beginner';  
 therefore, my own understanding of it remains extremely 'limited' to date.  
+
+-----
+
+## Links...
