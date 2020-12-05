@@ -55,6 +55,18 @@ Warmest congratulations, welcome to the *start* of your **Python/TKInter** progr
 
 ### Videos
 
-#### YouTube
+#### YouTube Tutorials
 
+#### Udemy Tutorials
 
+Master the basic of TKInter  
+https://www.udemy.com/course/master-the-basics-of-tkinter/learn/lecture/16875822?start=0#overview  
+
+A Complete Python, Tkinter Hands-On with 7 Projects   
+https://www.udemy.com/course/draft/2622860/learn/lecture/16676226#overview  
+
+Python GUI Programming   
+https://www.udemy.com/course/python-gui-programming-using-tkinter-module-for-beginners/learn/lecture/2563142#overview  
+
+Simple GUI Application EMI Calc using TKInter  
+https://www.udemy.com/course/simple-gui-application-emi-calc-using-tkiner-in-python/learn/lecture/18780718?start=0#overview  
