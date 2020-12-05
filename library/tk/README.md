@@ -9,8 +9,9 @@ TKInter includes such things as...
 
 - Window (3 boxes: 'Expand/Hide', 'Grow/Shrink', 'Close' buttons...seen at at the top right corner on Windows platforms)
 - Window title text
-- Buttons
 - Labels
+- Buttons
+- Radio Buttons/Checkboxes/Message box
 - 2 different ways to present objects: 
 -- Pack(each item is presented going one on top of the other...in a 'top...down' manner
 -- or, Grid (much like a spreadsheet using numbered: rows/columns: eg. row=0,col=1)
@@ -51,3 +52,9 @@ Warmest congratulations, welcome to the *start* of your **Python/TKInter** progr
 -----
 
 ## Links...
+
+### Videos
+
+#### YouTube
+
+
