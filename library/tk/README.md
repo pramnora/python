@@ -19,7 +19,11 @@ TKInter includes such things as...
 - etc.
 
 Right now, I'm still learning how to use TKInter library...; so, I'm still very much a total 'beginner';  
-therefore, my own understanding of it remains extremely 'limited' to date.  
+therefore, my own understanding of it remains extremely 'limited'.  
+
+According to what one tutorial said...there are 'hundreds' of different methods inside of TKInter;  
+then, if so far to date, I only understand how to use no more than a mere handful or two of these;     
+it shows I have a great deal to go and learn...?!
 
 -----
 
@@ -59,7 +63,7 @@ Warmest congratulations, welcome to the *start* of your **Python/TKInter** progr
 
 #### Udemy Tutorials
 
-Master the basic of TKInter  
+Master the basics of TKInter  
 https://www.udemy.com/course/master-the-basics-of-tkinter/learn/lecture/16875822?start=0#overview  
 
 A Complete Python, Tkinter Hands-On with 7 Projects   
