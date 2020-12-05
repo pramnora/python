@@ -15,7 +15,7 @@ TKInter includes such things as...
 - 2 different ways to present objects: 
 -- Pack(each item is presented going one on top of the other...in a 'top...down' manner
 -- or, Grid (much like a spreadsheet using numbered: rows/columns: eg. row=0,col=1)
-- Events (you can create Python style functions, the which code runs when say a button is clicked
+- Events (you can create Python style functions, the which code runs when say a button is clicked/(eg. def funcName:)
 - etc.
 
 Right now, I'm still learning how to use TKInter library...; so, I'm still very much a total 'beginner';  
