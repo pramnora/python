@@ -22,4 +22,26 @@ therefore, my own understanding of it remains extremely 'limited' to date.
 
 -----
 
+## Example codes...
+
+A simple example of a mimimal TK program is...
+
+>> from tkinter import *
+>> root = Tk()
+>> root.mainloop()
+
+...save the above example code as being called...
+
+>> stub.py
+
+...then, run it using either your Python IDE/or, a DOS prompt command line window/-etc.
+
+The program output should display...
+- a window...with 3 boxes on the top right hand side: (hide/grow/close)
+- a window title head text which says: TK
+- also, the window size can be dragged: horizontally/vertically/diagonally...;
+  used to either make the window size either expand/or, shrink. 
+
+-----
+
 ## Links...
