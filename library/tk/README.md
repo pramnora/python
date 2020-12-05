@@ -26,9 +26,11 @@ therefore, my own understanding of it remains extremely 'limited' to date.
 
 A simple example of a mimimal TK program is...
 
-> from tkinter import *
-> root = Tk()
-> root.mainloop()
+>>
+from tkinter import *  
+root = Tk()  
+root.mainloop()  
+<<
 
 ...save the above example code as being called...
 
