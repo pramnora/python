@@ -26,11 +26,9 @@ therefore, my own understanding of it remains extremely 'limited' to date.
 
 A simple example of a mimimal TK program is...
 
->>
 from tkinter import *  
 root = Tk()  
 root.mainloop()  
-<<
 
 ...save the above example code as being called...
 
@@ -43,6 +41,8 @@ The program output should display...
 - a window title head text which says: TK
 - also, the window size can be dragged: horizontally/vertically/diagonally...;
   used to either make the window size either expand/or, shrink. 
+
+Warmest congratulations, welcome to the *start* of your **Python/TKInter** programming learning journey. ;-)
 
 -----
 
