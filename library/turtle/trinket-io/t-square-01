@@ -1,6 +1,6 @@
 import turtle            # import the turtle library for creating graphics with   
 
-size=50                  # sets the square size/or, lenght 
+size=50                  # sets the square size/or, length 
 degrees=90               # sets each turtle turn in terms of degrees  
 
 turtle.forward(5)        # sets where the drawing begins
