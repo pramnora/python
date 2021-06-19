@@ -1,0 +1,16 @@
+import turtle
+
+size=50
+degrees=90
+
+turtle.forward(5)
+turtle.forward(size)
+turtle.left(degrees)
+
+turtle.forward(size)
+turtle.left(degrees)
+
+turtle.forward(size)
+turtle.left(degrees)
+
+turtle.forward(size)
