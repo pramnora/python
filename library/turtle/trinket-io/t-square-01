@@ -1,12 +1,14 @@
-# PROGRAM: Draw a square...
-#  AUTHOR: Mr. Paul Ramnora 
-# CREATED: 190621 02:43 PM GMT
-# UPDATED: 190621 02:43 PM GTM
+''' 
+ PROGRAM: Draw a square...
+  AUTHOR: Mr. Paul Ramnora 
+ CREATED: 190621 02:43 PM GMT
+ UPDATED: 190621 02:43 PM GTM
 
-# EXPLANATION...
-# This program draws a multi-coloured square;
-# then, writes the name of the shape: 'square', in black letters,
-# which is shown inside the middle of the square.
+ EXPLANATION...
+ This program draws a multi-coloured square;
+ then, writes the name of the shape: 'square', in black letters,
+ which is shown inside the middle of the square.
+'''
 
 import turtle            # import the turtle library for creating graphics with   
 
