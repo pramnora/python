@@ -1,16 +1,17 @@
-import turtle
+import turtle            # import the turtle library for creating graphics with   
 
-size=50
-degrees=90
+size=50                  # sets the square size/or, lenght 
+degrees=90               # sets each turtle turn in terms of degrees  
 
-turtle.forward(5)
-turtle.forward(size)
-turtle.left(degrees)
+turtle.forward(5)        # sets where the drawing begins
 
-turtle.forward(size)
-turtle.left(degrees)
+turtle.forward(size)     # draws line 1
+turtle.left(degrees)     # turns turtle
 
-turtle.forward(size)
-turtle.left(degrees)
+turtle.forward(size)     # draws line 2
+turtle.left(degrees)     # turns turtle
 
-turtle.forward(size)
+turtle.forward(size)     # draws line 3 
+turtle.left(degrees)     # turns turtle
+
+turtle.forward(size)     # draws line 4
