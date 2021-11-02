@@ -5,3 +5,9 @@ which may be installed from Windows 10 Professional operating system **Command P
 
 >> pip install opencv-contrib-python  
 
+## Links...
+
+I borrowed some of the code from here...
+
+OpenCV Course - Full Tutorial with Python  
+- https://www.youtube.com/watch?v=oXlwWbU8l2o&t=361s  
