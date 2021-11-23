@@ -1,0 +1,3 @@
+# choose your own name for module item...
+from webbrowser import open as openWebsite
+openWebsite("https://www.ask.com")
