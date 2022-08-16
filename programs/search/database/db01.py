@@ -34,7 +34,7 @@ frenchNos1To20 = {
      'ten':'dix',
      'eleven':'onze',     
      'twelve':'douze',     
-     'thirteen':'thrieze',     
+     'thirteen':'threze',     
      'fourteen':'quartorze',     
      'fifteen':'quinze',     
      'sixteen':'seize',     
