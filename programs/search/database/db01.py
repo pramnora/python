@@ -93,13 +93,11 @@ phonebook = {
      'gillian':'7777 777 777'
     }
 
-doRepeatFlag = True
-
 # Main program...
 
 print("PROGRAM: Phonebook\n")
 
-while (doRepeatFlag):               # while repeat equals, True...continue looping...
+while (True):                       # while repeat equals, True...continue looping...
                                     # prompt user to enter their search term/
                                     # also, tell them how to make the program stop/
                                     # next, convert that search term into being all 'lower case'  
@@ -110,7 +108,7 @@ while (doRepeatFlag):               # while repeat equals, True...continue loopi
        else:                        # if search term does not exist as a key inside of the phonebook
           print("-Sorry, that search term NOT found!") # display search term NOT found message
    else:                            # else, if search term does equal nothing
-      doRepeatFlag = False          # set repeat flag to become, False/to make the loop stop
-      print("...done!")             # print out message to say the program is, done
+      break                         # break out of while loop; and,...
+      print("...done!")             # print out message to say the program is, now, done
 
 
