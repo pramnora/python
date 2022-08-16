@@ -21,7 +21,7 @@
         
         To teach a foreign language such as French...
         
-frenchNos1To10 = {
+frenchNos1To20 = {
      'one':'un',
      'two':'deux',
      'three':'trois',
@@ -31,9 +31,18 @@ frenchNos1To10 = {
      'seven':'sept'
      'eight':'huit',
      'nine':'neuf',
-     'ten':'dix'
-    }
-
+     'ten':'dix',
+     'eleven':'onze',     
+     'twelve':'douze',     
+     'thirteen':'thrieze',     
+     'fourteen':'quartorze',     
+     'fifteen':'quinze',     
+     'sixteen':'seize',     
+     'seventeen':'dix-sept',     
+     'eighteen':'dix-huit',     
+     'nineteen':'dix-neuf',     
+     'twenty':'vingt'     
+}
         To teach NATO phonetic codes...
         
 NATOPhoneticCodes = {
