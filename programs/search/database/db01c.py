@@ -56,7 +56,7 @@ while(True):                        # while True...continue looping...
                                     # next, convert that search term into being all 'lower case'  
    doSearch = input("Enter a letter: (a-z)/(or, type in nothing to quit): ").lower()
    if (doSearch != ""):             # if search term doesn't equal nothing/
-       if (doSearch in NATOPhoneticCodes):  # check if the search term exists as key inside of the phonebook
+       if (doSearch in NATOPhoneticCodes):  # check if the search term exists as key inside of the database
           print(NATOPhoneticCodes[doSearch])# if search term match found/print out the NATO Phonetic code part
        else:                        # if search term does not exist as a key inside of the phonebook
           print("-Sorry, that search term NOT found!") # display search term NOT found message
