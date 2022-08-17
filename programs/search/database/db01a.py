@@ -49,7 +49,7 @@ while (True):                       # while repeat equals, True...continue loopi
        else:                        # if search term does not exist as a key inside of the phonebook
           print("-Sorry, that search term NOT found!") # display search term NOT found message
    else:                            # else, if search term does equal nothing
-      break                         # break out of while loop; and,...
       print("...done!")             # print out message to say the program is, now, done
+      break                         # break out of while loop; and,...
 
 
