@@ -50,6 +50,6 @@ while (True):                       # while repeat equals, True...continue loopi
           print("-Sorry, that search term NOT found!") # display search term NOT found message
    else:                            # else, if search term does equal nothing
       print("...done!")             # print out message to say the program is, now, done
-      break                         # break out of while loop; and,...
+      break                         # break out of while loop/stop program.
 
 
