@@ -15,66 +15,7 @@
         my original idea was to create a phonebook 'look up' program,
         such where you type in the persons name/then, their phone number gets returned;
         but, the program can very easily be adapted to doing
-        many other types of 'look up' operations, too.
- 
-        For example...
-        
-        To teach a foreign language such as French...
-        
-frenchNos1To20 = {
-     'one':'un',
-     'two':'deux',
-     'three':'trois',
-     'four':'quatre',
-     'five':'cinq',
-     'six':'six',
-     'seven':'sept',
-     'eight':'huit',
-     'nine':'neuf',
-     'ten':'dix',
-     'eleven':'onze',     
-     'twelve':'douze',     
-     'thirteen':'threze',     
-     'fourteen':'quartorze',     
-     'fifteen':'quinze',     
-     'sixteen':'seize',     
-     'seventeen':'dix-sept',     
-     'eighteen':'dix-huit',     
-     'nineteen':'dix-neuf',     
-     'twenty':'vingt'     
-}
-        To teach NATO phonetic codes...
-        
-NATOPhoneticCodes = {
-     'a':'alpha',
-     'b':'bravo',
-     'c':'charlie',
-     'd':'delta',
-     'e':'echo',
-     'f':'foxtrot',
-     'g':'golf'
-     'h':'hotel',
-     'i':'india',
-     'j':'julliet',
-     'k':'kilo',
-     'l':'lima',
-     'm':'mike',
-     'n':'november',
-     'o':'oscar',
-     'p':'papa',
-     'q':'quebec',
-     'r':'romeo',
-     's':'sierra',
-     't':'tango',
-     'u':'uniform',
-     'v':'victor',
-     'w':'whisky',
-     'x':'x-ray',
-     'y':'yankee',
-     'z':'zulu' 
-    }
-
--etc.
+        many other types of 'look up' operations, too.         
  ----------------------------------------------------------------------------------
 '''
 
