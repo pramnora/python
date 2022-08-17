@@ -28,7 +28,7 @@ frenchNos1To20 = {
      'four':'quatre',
      'five':'cinq',
      'six':'six',
-     'seven':'sept'
+     'seven':'sept',
      'eight':'huit',
      'nine':'neuf',
      'ten':'dix',
