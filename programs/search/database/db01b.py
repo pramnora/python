@@ -52,7 +52,7 @@ while(True):                        # while True...continue looping...
    if (doSearch != ""):             # if search term doesn't equal nothing/
        if (doSearch in frenchNos1To20):  # check if the search term exists as key inside of the database
           print(frenchNos1To20[doSearch])# if search term match found/print out the french translation of english word part
-       else:                        # if search term does not exist as a key inside of the phonebook
+       else:                        # if search term does not exist as a key inside of the database
           print("-Sorry, that search term NOT found!") # display search term NOT found message
    else:                            # else, if search term does equal nothing
       print("...done!")             # print out message to say the program is, now, done
