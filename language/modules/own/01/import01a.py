@@ -8,7 +8,7 @@
 import myModules
 
 def one():
-	print("Function one")
+	print("Internal call/Function one")
 
 one()             # calling an *internal* module function code
 myModules.one()   # calling an *external* module function code
