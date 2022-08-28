@@ -11,7 +11,7 @@ This program consists of the following 4 files:
 
 -----
 
-**USAGE**: You only need to download the first 3 files: [myMathsModule.py]/[callMyMathsModule.py]/[runDOS.bat];    
+**USAGE: Beginner's**: You only need to download the first 3 files: [myMathsModule.py]/[callMyMathsModule.py]/[runDOS.bat];    
 make sure they are all stored inside of one same folder directory;     
 next, left double click on the file called: runDOS.bat;    
 when the black screen command window appears...type in after the prompt:   
@@ -19,3 +19,10 @@ when the black screen command window appears...type in after the prompt:
 >  C:\>callMyMathsModule.py  (then, press [ENTER] key)     
 
 ...the, program output should appear for viewing.  
+
+-----
+
+**USAGE: Experienced**: If you already know what you are doing...; and, wish to run the code using other Python programming environments     
+such as: IDLE/Visual Studio Code/PyCharm/-etc.  
+then, all you need do is just download 2 files: [myMathsModule.py]/[callMyMathsModule.py].  
+
