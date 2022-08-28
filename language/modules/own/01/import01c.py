@@ -2,8 +2,8 @@
 # so, that one can use modules written inside of that external file inside of this same file.
 
 # NOTE: Using this syntax means...
-#       imports all (*) functions from the external file called: 'myModules.py';
-#       furthermore, you don't need to prefix any external function name before calling each external function;
+#       import all (*) functions from the external file called: 'myModules.py';
+#       furthermore, you don't need to prefix any external function name before calling each external function eg. myModules.one()/-etc.;  
 #       but, instead, you can quite simply call using the function name: two()/three();
 #       as if you were calling an internally written function.
 
