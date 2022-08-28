@@ -13,4 +13,4 @@ def one():
 
 one()   # calling an *internal* module function code
 two()   # calling an *external* module function code
-three() # calling an *external* module function code/this call will bug out...as function three hasn't been declared...?! (NameError: name 'three' is not defined)
+three() # calling an *external* module function code
