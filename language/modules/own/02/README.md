@@ -3,9 +3,13 @@
 This program consists of the following 5 files:
 
 1> myMathsLibrary.py -        (the maths library, includes functions for: add, subtract, multiply, divide)  
+
 2> callMyMathsLibrary.py -    (the caller program...which connects to the above file/and, makes the functions execute)  
-3> runDOS.bat - (this file uses DOS Command Prompt window to call the file: [callMyMathsModule.py]/and, too, to view the program output)
+
+3> runDOS.bat - (this file uses DOS Command Prompt window to call the file: [callMyMathsModule.py]/and, too, to view the program output)  
+
 4> myMathLibrary.png -        (shows the printout of the program in action/using Windows Command Prompt screen window to show all output)  
+ 
 5> README.md - (this explanatory Markdown file)  
 
 **NOTE**: The file: [myMathsLibrary.py] uses the 'return' statement inside of it's functions/as opposed to using the 'print' statement.  
