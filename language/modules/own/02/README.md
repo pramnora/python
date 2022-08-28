@@ -1,4 +1,13 @@
-# myMathsModule
+# myMathsLibrary
+
+## Introduction
+
+This program demonstrates how it's possible to create a Python 'main' caller program: [callMyMathsLibary.py];    
+which, then, calls a library of the users own written maths functions: [myMathsLibrary.py].    
+
+-----
+
+## File listing...
 
 This program consists of the following 5 files:
 
@@ -6,7 +15,7 @@ This program consists of the following 5 files:
 
 2> callMyMathsLibrary.py -    (the caller program...which connects to the above file/and, makes the functions execute)  
 
-3> runDOS.bat - (this file uses DOS Command Prompt window to call the file: [callMyMathsModule.py]/and, too, to view the program output)  
+3> runDOS.bat - (this file uses DOS Command Prompt window to call the file: [callMyMathsLibrary.py]/and, too, to view the program output)  
 
 4> myMathLibrary.png -        (shows the printout of the program in action/using Windows Command Prompt screen window to show all output)  
  
