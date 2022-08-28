@@ -15,5 +15,7 @@ This program consists of the following 4 files:
 make sure they are all stored inside of one same folder directory;     
 next, left double click on the file called: runDOS.bat;    
 when the black screen command window appears...type in after the prompt:   
->  C:\>callMyMathsModule.py  (then, press [ENTER] key)    
+
+>  C:\>callMyMathsModule.py  (then, press [ENTER] key)     
+
 ...the, program output should appear for viewing.  
