@@ -17,6 +17,12 @@ make sure they are all stored inside of one same folder directory;
 next, left double click on the file called: runDOS.bat;  
 and, the, program output should appear for viewing.  
 
+**NOTE(S)**:  
+1> These instructions of for users of Windows Operating System.  
+2> The code will **not** work...if you don't already have Python programming language set up and ready to run inside of your own Windows environment.   
+3> Python programming language can be downloaded for *FREE* from:    
+- https://www.python.org  
+
 -----
 
 **USAGE: Experienced**: If you already know what you are doing...; and, wish to run the code using other Python programming environments     
