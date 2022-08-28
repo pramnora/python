@@ -1,5 +1,8 @@
+def one():
+	print("External call/Function two")
+
 def two():
-	print("Function two")
+	print("External call/Function two")
 
 def three():
-	print("Function three")
+	print("External call/Function three")
