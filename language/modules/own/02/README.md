@@ -17,9 +17,16 @@ make sure they are all stored inside of one same folder directory;
 next, left double click on the file called: runDOS.bat;  
 when the black screen DOS Command Prompt window appears...type in:  
 
+>C:\>  
 >C:\>Python callMyMathsLibrary.py  
 
-and, the, program output should appear for viewing.  
+...and, the, program output should appear for viewing. The output should display as follows...  
+
+>3 + 2 = 5  
+>3 - 2 = 1  
+>3 * 2 = 6  
+>3 / 2 = 1.5  
+
 
 **NOTE(S)**:  
 
