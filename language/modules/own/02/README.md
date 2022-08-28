@@ -39,9 +39,15 @@ when the black screen DOS Command Prompt window appears...type in:
 
 -----
 
-**USAGE: Experienced**: If you already know what you are doing...; and, wish to run the code using other Python programming environments     
-such as: IDLE/Visual Studio Code/PyCharm/-etc.  
-then, all you need do is just download 2 files: [myMathsLibrary.py]/[callMyMathsLibrary.py];    
+**USAGE: Experienced**: If you already know what you are doing...; and, wish to run the code using other Python programming IDE/Integrated Development Environments     
+such as: 
+
+- IDLE  
+- Visual Studio Code   
+- PyCharm    
+- etc.    
+
+...then, all you need do is just download 2 files: [myMathsLibrary.py]/[callMyMathsLibrary.py];    
 and, run the program file called: [callMyMathsLibrary.py] for it to work.  
 
 
