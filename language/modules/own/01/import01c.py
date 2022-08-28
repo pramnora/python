@@ -12,6 +12,8 @@ from myModules import *
 def one():
 	print("Function one")
 
-one()   # calling an *internal* module function code
+one()   # calling an *internal* module function code/
+#         NOTE: In the case of name conflict,
+#               The external function name: one() is NOT called; because the internal function call name: one()  seems to take top priority
 two()   # calling an *external* module function code
 three() # calling an *external* module function code
