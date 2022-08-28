@@ -3,8 +3,8 @@
 
 # NOTE: Using this syntax means...
 #       import all (*) functions from the external file called: 'myModules.py';
-#       furthermore, you don't need to prefix any external function name before calling each external function eg. myModules.one()/-etc.;  
-#       but, instead, you can quite simply call using the function name: two()/three();
+#       this calling method does away with the need for prefixes: myModules.two()/myModules.three()/-etc.;  
+#       instead, just call using the explict function name: two()/three();
 #       as if you were calling an internally written function.
 
 from myModules import *
