@@ -39,8 +39,7 @@ when the black screen DOS Command Prompt window appears...type in:
 
 -----
 
-**USAGE: Experienced**: If you already know what you are doing...; and, wish to run the code using other Python programming IDE/Integrated Development Environments     
-such as: 
+**USAGE: Experienced**: If you already know what you are doing...; and, wish to run the code using other Python programming IDE/Integrated Development Environments   such as:  
 
 - IDLE  
 - Visual Studio Code   
