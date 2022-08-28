@@ -18,8 +18,11 @@ next, left double click on the file called: runDOS.bat;
 and, the, program output should appear for viewing.  
 
 **NOTE(S)**:  
+
 1> These instructions are only for users of Windows Operating System. (I'm currently running Windows 10 Professional OS/Operating System.)      
+
 2> This code will **not** work...if you don't already have Python programming language set up and ready to run inside of your own Windows environment.     
+
 3> Python programming language can be downloaded for *FREE* from:      
 - https://www.python.org  
 
