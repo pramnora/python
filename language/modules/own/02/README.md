@@ -14,12 +14,8 @@ This program consists of the following 5 files:
 
 **USAGE: Beginner's**: You only need to download the first 3 files: [myMathsLibrary.py]/[callMyMathsLibrary.py]/[runDOS.bat];    
 make sure they are all stored inside of one same folder directory;     
-next, left double click on the file called: runDOS.bat;    
-when the black screen command window appears...type in after the prompt:   
-
->  C:\>callMyMathsLibrary.py  (then, press [ENTER] key)     
-
-...the, program output should appear for viewing.  
+next, left double click on the file called: runDOS.bat;  
+and, the, program output should appear for viewing.  
 
 -----
 
