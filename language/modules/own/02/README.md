@@ -1,6 +1,7 @@
 # myMathsModule
 
-This program consists of the following 2 files...
+This program consists of the following 2 python code files: [.py]/and, also, I've included a screen printout: [.png], as well;  
+so, one can see what the program looks like when it's executing.  
 
 - myMathsModule.py         (the maths library, includes functions for: add, subtract, multiply, divide)
 - callMyMathsModule.py     (the caller program...which connects to the above file/and, makes the functions execute)
