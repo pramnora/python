@@ -4,7 +4,7 @@
 # NOTE: Using this syntax means...
 #       one can shorten the long name: myModules...to become, instead, quite simply: mm
 #       one needs to prefix the external module file name(in this case shortened): mm...;
-#       before one can call the named external function to use it: mm.two()/mm.three()
+#       before one can call the named external function to use it: mm.one()/mm.two()/mm.three()
 
 import myModules as mm
 
