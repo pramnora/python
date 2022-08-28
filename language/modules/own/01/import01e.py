@@ -3,6 +3,7 @@
 
 # NOTE: Using this syntax means...
 #       one can specify a comma separated list of which named functions to use inside of external file: [myModules.py];
+#       so one can call multiple specifically named fuctions: one, two, -etc.;
 #       thus, helping to save memory...by not calling all (*).
 
 from myModules import two, three
