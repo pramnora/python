@@ -1,5 +1,6 @@
-# Make calls to an external file: [myModules.py];
-# so, that one can use multiple 'specific' named modules...written inside of that external file...inside of this same file.
+# Make call to an external file: [myModules.py];
+# so, that one can use multiple 'specific' named modules...which have been written inside of that external file...
+# inside of this same file.
 
 # NOTE: Using this syntax means...
 #       one can specify a comma separated list of which named functions to use inside of external file: [myModules.py];
