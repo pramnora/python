@@ -1,0 +1,15 @@
+# Make calls to an external file: [myModules.py];
+# so, that one can use a single 'specific' named module which is written inside of that external file...inside of this same file.
+
+# NOTE: Using this syntax means...
+#       one can specify a comma separated list of which named functions to use inside of external file: [myModules.py];
+#       thus, helping to save memory...by not calling all (*).
+
+from myModules import two, three
+
+def one():
+	print("Function one")
+
+one()   # calling an *internal* module function code
+two()   # calling an *external* module function code
+three() # calling an *external* module function code/this call will bug out...as function three hasn't been declared...?! (NameError: name 'three' is not defined)
