@@ -9,8 +9,9 @@
 import myModules as mm
 
 def one():
-	print("Function one")
+	print("Internal call/Function one")
 
 one()      # calling an *internal* module function code
+mm.one()   # calling an *external* module function code
 mm.two()   # calling an *external* module function code
 mm.three() # calling an *external* module function code
