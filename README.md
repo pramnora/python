@@ -340,6 +340,11 @@ http://www.pythonfiddle.com
 http://www.repl.it  
 https://rextester.com/l/python3_online_compiler      
 http://www.trinket.io    
+https://www.pythonanywhere.com  
+
+## FRAMEWORKS
+
+https://www.web2py.com  
 
 ## BOOKS
 
