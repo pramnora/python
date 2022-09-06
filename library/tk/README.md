@@ -74,3 +74,8 @@ https://www.udemy.com/course/python-gui-programming-using-tkinter-module-for-beg
 
 Simple GUI Application EMI Calc using TKInter  
 https://www.udemy.com/course/simple-gui-application-emi-calc-using-tkiner-in-python/learn/lecture/18780718?start=0#overview  
+
+Python Desktop Apps with Tkinter   
+-(**NOTE**: I didn't actually sign up for this course...; just looked at the intro. videos.)-   
+https://www.udemy.com/course/python-gui-tkinter/  
+
