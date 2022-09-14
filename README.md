@@ -333,6 +333,8 @@ Regular Expressions in Python - (Channel: NeuralNine)
 Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex) -(Channel: Corey Schafer)  
 - https://www.youtube.com/watch?v=K8L6KVGG-7o  
 
+### Web Scraping
+
 Python Tutorial: Web Scraping with BeautifulSoup and Requests - (Channel: Corey Schafer)  
 - https://www.youtube.com/watch?v=ng2o98k983k  
 
@@ -347,6 +349,9 @@ Beautiful Soup 4 Tutorial #2 - Searching and Filtering - (Channel: Tech With Tim
 
 BeautifulSoup find() and find_all() methods - (Channel: Programming Basics)  
 - https://www.youtube.com/watch?v=Fin_f2uqmK4  
+
+Using BeautifulSoup and Python to navigate an HTML parse tree - (Channel: Programming Basics)  
+- https://www.youtube.com/watch?v=GWXpWU3d23M  
 
 
 ### Other tutorials (non YouTube)  
