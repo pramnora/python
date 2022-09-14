@@ -354,3 +354,12 @@ https://books.trinket.io/pfe/
 
 http://www.py4inf.com/code/  
 https://www.py4e.com/code3/  
+
+
+## VIDEOS
+
+File Transfer via Sockets in Python - (Channel: NeuralNine)  
+- https://www.youtube.com/watch?v=qFVoMo6OMsQ  
+
+
+- https://www.youtube.com/watch?v=qFVoMo6OMsQ  
