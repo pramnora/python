@@ -325,8 +325,29 @@ https://www.youtube.com/watch?v=lx7oqZ7Nl3k
 File Transfer via Sockets in Python - (Channel: NeuralNine)  
 - https://www.youtube.com/watch?v=qFVoMo6OMsQ  
 
+
+
 Regular Expressions in Python - (Channel: NeuralNine)  
 - https://www.youtube.com/watch?v=wnuBwl2ekmo  
+
+Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex) -(Channel: Corey Schafer)  
+- https://www.youtube.com/watch?v=K8L6KVGG-7o  
+
+Python Tutorial: Web Scraping with BeautifulSoup and Requests - (Channel: Corey Schafer)  
+- https://www.youtube.com/watch?v=ng2o98k983k  
+
+Python Web scraping to CSV file| BeautifulSoup | Real Estate Website Scraping - (Channel: Pythonology)  
+- https://www.youtube.com/watch?v=RvCBzhhydNk  
+
+Beautiful Soup 4 Tutorial #1 - Web Scraping With Python  - (Channel: Tech With Tim)  
+- https://www.youtube.com/watch?v=gRLHr664tXA  
+
+Beautiful Soup 4 Tutorial #2 - Searching and Filtering - (Channel: Tech With Tim)  
+- https://www.youtube.com/watch?v=lOzyQgv71_4  
+
+BeautifulSoup find() and find_all() methods - (Channel: Programming Basics)  
+- https://www.youtube.com/watch?v=Fin_f2uqmK4  
+
 
 ### Other tutorials (non YouTube)  
 
