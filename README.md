@@ -335,6 +335,11 @@ Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex) 
 File Transfer via Sockets in Python - (Channel: NeuralNine)  
 - https://www.youtube.com/watch?v=qFVoMo6OMsQ  
 
+### PIP
+
+Upgrading PIP: How to Upgrade PIP in Windows by Few Steps - (Channel: Few Steps)  
+- https://www.youtube.com/watch?v=VhOhojy0b28  
+
 ### Virtual Environments
 
 The Complete Guide to Python Virtual Environments! - (Channel: teclado)  
