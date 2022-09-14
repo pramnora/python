@@ -322,16 +322,19 @@ https://www.youtube.com/watch?v=7lmCu8wz8ro
 6 Python Exercise Problems for Beginners - from CodingBat (Python Tutorial #14/YouTube Channel: CS Dojo)  
 https://www.youtube.com/watch?v=lx7oqZ7Nl3k  
 
-File Transfer via Sockets in Python - (Channel: NeuralNine)  
-- https://www.youtube.com/watch?v=qFVoMo6OMsQ  
-
-
+### Regular Expressions
 
 Regular Expressions in Python - (Channel: NeuralNine)  
 - https://www.youtube.com/watch?v=wnuBwl2ekmo  
 
 Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex) -(Channel: Corey Schafer)  
 - https://www.youtube.com/watch?v=K8L6KVGG-7o  
+
+### Sockets
+
+File Transfer via Sockets in Python - (Channel: NeuralNine)  
+- https://www.youtube.com/watch?v=qFVoMo6OMsQ  
+
 
 ### Web Scraping
 
