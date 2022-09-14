@@ -322,6 +322,9 @@ https://www.youtube.com/watch?v=7lmCu8wz8ro
 6 Python Exercise Problems for Beginners - from CodingBat (Python Tutorial #14/YouTube Channel: CS Dojo)  
 https://www.youtube.com/watch?v=lx7oqZ7Nl3k  
 
+File Transfer via Sockets in Python - (Channel: NeuralNine)  
+- https://www.youtube.com/watch?v=qFVoMo6OMsQ  
+
 ### Other tutorials (non YouTube)  
 
 Course: PythonIsEasy  
@@ -356,10 +359,4 @@ http://www.py4inf.com/code/
 https://www.py4e.com/code3/  
 
 
-## VIDEOS
 
-File Transfer via Sockets in Python - (Channel: NeuralNine)  
-- https://www.youtube.com/watch?v=qFVoMo6OMsQ  
-
-
-- https://www.youtube.com/watch?v=qFVoMo6OMsQ  
