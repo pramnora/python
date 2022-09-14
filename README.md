@@ -325,6 +325,9 @@ https://www.youtube.com/watch?v=lx7oqZ7Nl3k
 File Transfer via Sockets in Python - (Channel: NeuralNine)  
 - https://www.youtube.com/watch?v=qFVoMo6OMsQ  
 
+Regular Expressions in Python - (Channel: NeuralNine)  
+- https://www.youtube.com/watch?v=wnuBwl2ekmo  
+
 ### Other tutorials (non YouTube)  
 
 Course: PythonIsEasy  
