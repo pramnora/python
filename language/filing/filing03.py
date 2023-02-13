@@ -30,7 +30,7 @@ def fileReadWrite(fileHandle,fileName,fileMode,fileData="",noOfLines=""):
     fileHandle=open(fileName,fileMode)
     if (fileMode=="r"):                    # read file
         print(fileHandle.read())           # output and display the file contents on screen  
-    elif (fileMode=="w" or fileMode=="a"): # write/append file   
+    elif (fileMode=="w" or fileMode=="a"): # write/or, append to file   
         if noOfLines == 's':               # single line to be written
             fileHandle.write(fileData)
         elif noOfLines == 'm':             # multiple lines to be written
