@@ -7,8 +7,8 @@
 # file read/write; as well as, set file mode: r-read/w-write/a-append.
 
 # It also allows the user to either write...
-# a single line of data to a file
-# or, multiple lines of data to a file
+# - a single line of data to a file
+# - or, multiple lines of data to a file
 # -----------------------------------------------------------------------------------  
 
 # initialise global variables...
