@@ -26,7 +26,7 @@ myMultipleLinesOfData=[
 
 # procedures
 
-def fileReadWrite(fileHandle,fileName,fileMode,fileData,noOfLines):
+def fileReadWrite(fileHandle,fileName,fileMode,fileData="",noOfLines=""):
     fileHandle=open(fileName,fileMode)
     if (fileMode=="r"):        # read file
         print(fileHandle.read())
@@ -49,7 +49,7 @@ fileReadWrite(fileHandle,fileName,'w',mySingleLineOfData,'s')
 # open file/and, read from it...;
 # by displaying it's contents onto the output screen...
 
-fileReadWrite(fileHandle,fileName,'r',"","")
+fileReadWrite(fileHandle,fileName,'r')
 
 # open file/in order to append to it...;
 # without overwriting any of the file's previous contents...
@@ -59,4 +59,4 @@ fileReadWrite(fileHandle,fileName,'a',myMultipleLinesOfData,'m')
 # open file/and, read from it...;
 # by displaying it's contents onto the output screen...
 
-fileReadWrite(fileHandle,fileName,'r',"","")
+fileReadWrite(fileHandle,fileName,'r')
