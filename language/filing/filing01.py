@@ -62,3 +62,11 @@ file1.close()
 file1 = open(filename,"r+")    
 print(file1.read())
 file1.close()
+
+# NOTE: When you use the 'with' statement...;  
+#       then, you don't need to use fileHandle.close();  
+#       because the file will, automatically, be closed, instead.
+
+# with open(fileName,'r') as f:
+#    fileContent=f.read()
+#    print(fileContent)
