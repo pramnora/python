@@ -13,7 +13,7 @@ filename="text01.txt"
 # set data...
 
 # \n = new line
-# / = line continuation character
+# \ = line continuation character
 data = "abc\n"\
      + "def\n"\
      + "ghi\n"
