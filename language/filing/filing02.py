@@ -1,14 +1,18 @@
 # Created: Mon 13th Feb 2023 11:15 AM GMT
 # Updated: Mon 13th Feb 2023 11:15 AM GMT
 
-# ----------------------------------------------------------------------  
+# --------------------------------------------------------------------------------------  
 # This code was borrowed from...
 # https://www.geeksforgeeks.org/writing-to-file-in-python/
 # ...then, adapted by me. 
 
 # I, carefully, looked at what the above example code had said; then, after memorising it...; 
 # went and re-created that same code myself starting from total scratch.
-# ----------------------------------------------------------------------  
+
+# The gist of what this program does is it shows how to...:
+# 1> Write a single line of text into a file
+# 2> Write multiple lines of text -being stored inside of a list structure- into a file.
+# --------------------------------------------------------------------------------------  
 
 # fh1 = fileHandle1
 
