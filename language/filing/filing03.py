@@ -41,17 +41,14 @@ def fileReadWrite(fileHandle,fileName,fileMode,fileData="",noOfLines=""):
 
 fileReadWrite(fileHandle,fileName,'w',mySingleLineOfData,'s')
 
-# open file/and, read from it...;
-# by displaying it's contents onto the output screen...
+# open file/and, read from it...; then, display the file contents on screen...
 
 fileReadWrite(fileHandle,fileName,'r')
 
-# open file/in order to append to it...;
-# without overwriting any of the file's previous contents...
+# open file/in order to append to it...; without overwriting any of the file's previous contents...
 
 fileReadWrite(fileHandle,fileName,'a',myMultipleLinesOfData,'m')
 
-# open file/and, read from it...;
-# by displaying it's contents onto the output screen...
+# open file/and, read from it...; then, display the file contents on screen...
 
 fileReadWrite(fileHandle,fileName,'r')
