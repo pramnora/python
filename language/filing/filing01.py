@@ -82,6 +82,11 @@ print("6: File Mode: (a)/Using 'with' to write file contents: pqr...\n")
 with open(filename,'a') as fh:  # fh = fileHandle
     fh.write("pqr")
 
+# NOTE: When I tried using 'with' together with: 'r+'...;  
+#       for some weird reason, it rewrote the first line: 'abc'/replacing it with 'pqr'...;  
+#       as opposed to doing what I had expected which was to place 'pqr' at the bottom...?!  
+#       so, instead, I decided to just simply use 'a', instead.  
+
 print("7: File Mode: (r)/Using 'with' to read file contents...\n")
     
 with open(filename,'r') as fh:
