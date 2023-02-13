@@ -75,7 +75,7 @@ file1.close()
 
 # The advantage of using the 'with' statement...;
 # is you don't have to keep on using file.close();
-# this is because 'with, automatically, closes the file for you, instead.  
+# this is because 'with' will, automatically, close the file for you, instead.  
 
 print("6: File Mode: (a)/Using 'with' to write file contents: pqr...\n")
 
