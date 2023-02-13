@@ -68,5 +68,5 @@ file1.close()
 #       because the file will, automatically, be closed, instead.
 
 # with open(fileName,'r') as f:
-#    fileContent=f.read()
+#    fileContent=file1.read()
 #    print(fileContent)
