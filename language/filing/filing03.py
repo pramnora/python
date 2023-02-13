@@ -37,18 +37,10 @@ def fileReadWrite(fileHandle,fileName,fileMode,fileData="",noOfLines=""):
             fileHandle.writelines(fileData)
     fileHandle.close
 
-# open file/and, write a single line of data into it...
+fileReadWrite(fileHandle,fileName,'w',mySingleLineOfData,'s')    # write a single line of data to the file  
 
-fileReadWrite(fileHandle,fileName,'w',mySingleLineOfData,'s')
+fileReadWrite(fileHandle,fileName,'r')                           # read the file/and, display it's output contents on screen  
 
-# open file/and, read from it...; then, display the file contents on screen...
+fileReadWrite(fileHandle,fileName,'a',myMultipleLinesOfData,'m') # write multiple lines of data to the file  
 
-fileReadWrite(fileHandle,fileName,'r')
-
-# open file/in order to append to it...; without overwriting any of the file's previous contents...
-
-fileReadWrite(fileHandle,fileName,'a',myMultipleLinesOfData,'m')
-
-# open file/and, read from it...; then, display the file contents on screen...
-
-fileReadWrite(fileHandle,fileName,'r')
+fileReadWrite(fileHandle,fileName,'r')                           # read the file/and, display it's output contents on screen  
