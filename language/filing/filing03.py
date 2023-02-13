@@ -24,7 +24,7 @@ myMultipleLinesOfData=[
  "jkl\n"
 ]
 
-# procedures
+# procedures listing...
 
 def fileReadWrite(fileHandle,fileName,fileMode,fileData="",noOfLines=""):
     fileHandle=open(fileName,fileMode)
@@ -37,6 +37,8 @@ def fileReadWrite(fileHandle,fileName,fileMode,fileData="",noOfLines=""):
             fileHandle.writelines(fileData)
     fileHandle.close
 
+# main program...that calls procedure/(s)...    
+    
 fileReadWrite(fileHandle,fileName,'w',mySingleLineOfData,'s')    # write a single line of data to the file  
 
 fileReadWrite(fileHandle,fileName,'r')                           # read the file/and, display it's output contents on screen  
