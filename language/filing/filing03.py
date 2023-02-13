@@ -28,17 +28,12 @@ myMultipleLinesOfData=[
 
 def fileReadWrite(fileHandle,fileName,fileMode,fileData="",noOfLines=""):
     fileHandle=open(fileName,fileMode)
-    if (fileMode=="r"):        # read file
+    if (fileMode=="r"):                    # read file
         print(fileHandle.read())
-    elif (fileMode=="w"):      # write file   
-        if noOfLines == 's':   # single line to be written
+    elif (fileMode=="w" or fileMode=="a"): # write/append file   
+        if noOfLines == 's':               # single line to be written
             fileHandle.write(fileData)
-        elif noOfLines == 'm': # multiple lines to be written
-            fileHandle.writelines(fileData)
-    elif (fileMode=="a"):      # append file   
-        if noOfLines == 's':   # single line to be written
-            fileHandle.write(fileData)
-        elif noOfLines == 'm': # multiple lines to be written
+        elif noOfLines == 'm':             # multiple lines to be written
             fileHandle.writelines(fileData)
     fileHandle.close
 
