@@ -24,6 +24,8 @@ data = "abc\n"\
 
 # file write...
 
+print("1: File mode:(w)/File write: abc\\ndef\\nghi\\n:\n")
+
 file1 = open(filename,"w")    
 file1.write(data)
 file1.close()
@@ -33,16 +35,22 @@ file1.close()
 
 # file read...
 
+print("2: File mode: (r)/File read...\n")
+
 file1 = open(filename,"r")    
 print(file1.read())
 file1.close()
 
 # file append...
 
+print("3: File mode: (a)/File append: jkl...\n")
+
 newData="jkl\n"
 file1 = open(filename,"a")    
 file1.write(newData)
 file1.close()
+
+print("4: File mode: (r+)/File read/write: mno...\n")
 
 # file read/write...
 moreData="mno\n"
@@ -57,18 +65,24 @@ file1.close()
 
 # if you wish to see the newly appended data;
 # then, it's necessary to open/read/close all over again;
-# otherwise, just using file1.read() doesn't show any update
+# otherwise, just using file1.read() doesn't show any immediate update
+
+print("5: File Mode: (r+)/File read...\n")
 
 file1 = open(filename,"r+")    
 print(file1.read())
 file1.close()
 
-# --------------------------------------------------------------
+# The advantage of using the 'with' statement...;
+# is you don't have to keep on using file.close();
+# this is because 'with, automatically, closes the file for you, instead.  
 
-# NOTE: When you use the 'with' statement...;  
-#       then, you don't need to use fileHandle.close();  
-#       because the file will, automatically, be closed, instead.
+print("6: File Mode: (a)/Using 'with' to write file contents: pqr...\n")
 
-# with open(fileName,'r') as f:
-#    fileContent=f.read()
-#    print(fileContent)
+with open(filename,'a') as fh:  # fh = fileHandle
+    fh.write("pqr")
+
+print("7: File Mode: (r)/Using 'with' to read file contents...\n")
+    
+with open(filename,'r') as fh:
+    print(fh.read())
