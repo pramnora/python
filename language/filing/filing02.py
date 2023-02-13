@@ -1,6 +1,15 @@
 # Created: Mon 13th Feb 2023 11:15 AM GMT
 # Updated: Mon 13th Feb 2023 11:15 AM GMT
 
+# ----------------------------------------------------------------------  
+# This code was borrowed from...
+# https://www.geeksforgeeks.org/writing-to-file-in-python/
+# ...then, adapted by me. 
+
+# I, carefully, looked at what the above example code had said; then, after memorising it...; 
+# went and re-created that same code myself starting from total scratch.
+# ----------------------------------------------------------------------  
+
 # fh1 = fileHandle1
 
 # open file/and, write a single line of data into it...
