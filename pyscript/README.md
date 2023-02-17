@@ -23,6 +23,9 @@ PyScript.net
 - https://pyscript.net/  
 - https://pyscript.net/examples/  
 
+Pyodide.org  
+- https://pyodide.org/en/stable/  
+
 ### GitHub...
 
 - https://github.com/pyscript/pyscript  
