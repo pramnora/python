@@ -62,6 +62,8 @@ def add(x,y):
 def raised(x,y):
   return x**y
 
-print("8: ",raised(add(1,2),3)) # chaining functions together : (1+2) -> (3*3)-> 27
+print("8: ",raised(add(1,2),3)) # chaining functions together,
+                                # the innermost function gets evaluated, first/before the outer:
+                                # (1+2) -> (3*3)-> 27
 
 
