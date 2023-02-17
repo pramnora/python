@@ -8,7 +8,7 @@
 
 
 def printMsg1(msgText):
-  print("1: ",msgText)
+  print("1: ",msgText) # NOTE: Printing is done within the actual function itself.
 
 printMsg1("Hello, world!") # call with 1 argument
 
@@ -23,22 +23,23 @@ def printMsg3(msgText):
   print("3: ",msgText)
 
 msg1="concatenating two strings"
-msg2="during call"
-printMsg3(msg1+msg2) # call with concatenated arguments
+msg2="during function call"
+printMsg3(msg1+msg2) # call with concatenated strings during fuction call
+                     # both strings passed in as being a single argument 
 
 
 def printMsg4(msgText):
   print("4: ",msgText)
   
-myList=[1,1+2,"two",{'number':3},True,1==2] # list containing multiple different types of data: 
-                                            # number,mathematical expression, string, object, boolean, boolean expression
+myList=[1,1+2,[1,2,3],"two",{'number':3},True,1==2] # list containing multiple different types of data: 
+                                                    # number, mathematical expression, list, string, object, boolean, boolean expression
 printMsg4(myList) # call using a list
 
 
 def retConcat(msgText):
-  return("5: ","X"+msgText+"X") # returns a single value passed in/plus, concatentation on both sides of string
+  return("5: ","X" + msgText + "X") # returns a single value passed in/plus, concatentation on both sides of string
 
-print(retConcat("Returned text"))# call using return statement
+print(retConcat("Returned text"))# call function which uses a return statement
 
 
 def retAdd(a,b):
