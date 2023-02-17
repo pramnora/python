@@ -54,3 +54,14 @@ def retIncrement(a,b):
 print("7: ",end="") 
 x,y=(retIncrement(3,4)) # Call passes in 2 separate values/and, gets returned back 2 separate values each incremented
 print("3,4 incremented: ",x,y)
+
+
+def add(x,y):
+  return x+y
+
+def raised(x,y):
+  return x**y
+
+print("8: ",raised(add(1,2),3)) # (1+2) -> (3*3)-> 27
+
+
