@@ -7,7 +7,7 @@ Updated: *Fri 17th Feb 2023 06:51 AM GMT*
 
 -----
 
-PyScript, is a recent development in the art of building web pages...as of date: Wed 15th Feb 2023;  
+PyScript, is a recent development in the art of building web pages...as of date: *Wed 15th Feb 2023*;  
 I think, it was released just 2 weeks back...; and, I'm only just discovering learning about it, right now.  
 
 Apparently, it allows Python code to be run inside of the web page...; intermixed with HTML/CSS/Javascript.    
