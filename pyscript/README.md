@@ -25,6 +25,7 @@ PyScript.net
 
 Pyodide.org  
 - https://pyodide.org/en/stable/  
+- https://pyodide.org/en/stable/console.html  (use PYScript console in the browser window)  
 
 ### GitHub...
 
