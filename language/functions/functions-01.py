@@ -64,6 +64,6 @@ def raised(x,y):
 
 print("8: ",raised(add(1,2),3)) # chaining functions together,
                                 # the innermost function gets evaluated, first/before the outer:
-                                # (1+2) -> (3*3)-> 27
+                                # (1+2)=3 -> (3**3) -> 27
 
 
