@@ -43,9 +43,9 @@ print(retConcat("Returned text"))# call function which uses a return statement
 
 
 def retAdd(a,b):
-  return("6: ",a," + ",b," = ",a+b) # returns back the sum total of 2 values passed in
+  return(a+b) # returns back the sum total of 2 values passed in
 
-print(retAdd(1,2)) # call passes in 2 values
+print("6: 1 + 2 = ",retAdd(1,2)) # function call passes in 2 values; then, returns back sum total
 
 
 def retIncrement(a,b):
