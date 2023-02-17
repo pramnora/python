@@ -45,12 +45,12 @@ print(retConcat("Returned text"))# call function which uses a return statement
 def retAdd(a,b):
   return("6: ",a," + ",b," = ",a+b) # returns back the sum total of 2 values passed in
 
-print("1 + 2 = ",retAdd(1,2)) # call passes in 2 values
+print(retAdd(1,2)) # call passes in 2 values
 
 
 def retIncrement(a,b):
-  return(a+1,b+1) # returns back 2 values with both incremented
+  return(a+1,b+1) # returns back 2 values with both values being incremented
 
 print("7: ",end="") 
-x,y=(retIncrement(3,4)) # Call passes in 2 values
+x,y=(retIncrement(3,4)) # Call passes in 2 separate values/and, gets returned back 2 separate values each incremented
 print("3,4 incremented: ",x,y)
