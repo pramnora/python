@@ -12,7 +12,7 @@ General info.
 
 - https://github.com/pramnora/pyscript
 
-Interactive web page/codes...
+Interactive web pages/codes...
 
 - https://prg-pyscript.netlify.app/
 
