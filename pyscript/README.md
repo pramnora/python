@@ -19,7 +19,7 @@ but, with obvious Python capabilities...linking to Python libraries/-etc.
 
 What I especially like about PyScript is, I can now get to *share* my own Python code with others over the internet;  
 simply, by including the scripts inside of the web pages I write; then, **publishing** it onto the net;  
-and, this means that people can both *see/interact* with the code, immediately.   
+and, this means that people can both *see/interact* with such code, immediately.   
 
 -----
 
