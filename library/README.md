@@ -20,19 +20,26 @@ thus, presenting yet another 'learning curve' that one needs to fully learn/mast
 
 ## How to include library codes...  
 
-If the library code is internal, and, you wish to use it...;   
+1a> If the library code is located: 'internally'; and, you wish to use it...;   
 then, just simply type in at the top of the Python file, [.py]:        
 
->> import library  
+>> import libraryName    
 ...example...  
 >> import random  
 
-If the library code is external, and, you wish to use it...;  
+2a> If the library code is located: 'externally'; and, you wish to use it...;  
 then, go to your Windows DOS Command Prompt...and, type in:  
 
 >> pip install libraryName  
 ...example...  
 >> pip install numpy  
+
+...and, proceed as prevously mentioned above in step 1a.  
+
+**NOTE**: If you try to import some library code...which hasn't yet been installed;     
+then, you will get an *error message* stating something like:     
+>> libraryName NOT recognised...?!  
+...which, quite simply, means you have to install the 'external' library, first.  
 
 ## Links
 
