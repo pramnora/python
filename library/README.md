@@ -36,10 +36,10 @@ then, go to your Windows DOS Command Prompt...and, type in:
 
 ...and, proceed as prevously mentioned above in step 1a.  
 
-**NOTE**: If you try to import some library code...which hasn't yet been installed;     
+**NOTE**: If you try to import some external library code...which hasn't yet been installed;      
 then, you will get an *error message* stating something like:     
->> libraryName NOT recognised...?!  
-...which, quite simply, means you have to install the 'external' library, first.  
+>> libraryName NOT recognised...?!    
+...it, quite simply, means you have to install the 'external' library, first.  
 
 ## Links
 
