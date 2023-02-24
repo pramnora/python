@@ -14,5 +14,4 @@ thus, presenting yet another 'learning curve' that one needs to fully learn/mast
 ## Links
 
 PiPy  
-- https://www.pipy.com  
-
+- https://pypi.org/
