@@ -34,7 +34,7 @@ then, go to your Windows DOS Command Prompt...and, type in:
 ...example...  
 >> pip install numpy  
 
-...and, proceed as prevously mentioned above in step 1a.  
+...and, proceed as previously mentioned above in step 1a.  
 
 **NOTE**: If you try to import some external library code...which hasn't yet been installed;      
 then, you will get an *error message* stating something like:     
