@@ -18,6 +18,22 @@ of which there are two different kinds of Python library code that it's possible
 Some of these libraries do offer very extensive capabilities of their own...;   
 thus, presenting yet another 'learning curve' that one needs to fully learn/master.  
 
+## How to include library codes...  
+
+If the library code is internal, and, you wish to use it...;   
+then, just simply type in at the top of the Python file, [.py]:        
+
+>> import library  
+...example...  
+>> import random  
+
+If the library code is external, and, you wish to use it...;  
+then, go to your Windows DOS Command Prompt...and, type in:  
+
+>> pip install libraryName  
+...example...  
+>> pip install numpy  
+
 ## Links
 
 PyPi    
