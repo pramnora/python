@@ -25,8 +25,8 @@ print(pd.DataFrame(df_file1))      # printout data file as being a pandas data f
 
 #         name     phone number
 # 0  Emergency              999
-# 1  NHS                    118
-# 2  Samaritans         116 123
+# 1        NHS              118
+# 2 Samaritans          116 123
 
 # NOTE(4): The index numbers: 0,1,2...are being applied to the data, automatically; so, no need to write these.
 # NOTE(5): With just 3 lines of Python/library code...; we've, successfully, gone and created a phonebook application.
