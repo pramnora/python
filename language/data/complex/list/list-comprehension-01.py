@@ -18,3 +18,6 @@ length = [len(name) for name in names]
 
 print(length)
 
+# output...
+# [7, 5, 4]
+
