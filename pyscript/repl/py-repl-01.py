@@ -17,7 +17,6 @@
 
   <style>
    header{text-align:center;}
-   main{text-align:left;}
   </style>
   
  </head>
@@ -31,7 +30,7 @@
    <br>
    Press green arrow to the right to evaluate a block of code.
    </p>
-  <header>
+  </header>
 
   <main>
    <py-repl id="my-repl" auto-generate="true">
