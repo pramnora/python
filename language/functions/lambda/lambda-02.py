@@ -9,3 +9,13 @@ print((lambda x,y:x+y)(1,2))
 
 # output...
 # 3
+
+# --------------------------------------
+
+# My own version of the above code is...
+
+add=lambda x,y:x+y
+print(add(1,2))
+
+# output...
+# 3
