@@ -322,6 +322,13 @@ https://www.youtube.com/watch?v=7lmCu8wz8ro
 6 Python Exercise Problems for Beginners - from CodingBat (Python Tutorial #14/YouTube Channel: CS Dojo)  
 https://www.youtube.com/watch?v=lx7oqZ7Nl3k  
 
+### Tips
+
+10 Python Shortcuts You Need To Know (channel: TechWithTim)  
+- https://www.youtube.com/watch?v=CssrFJGH_dU  
+
+
+
 ### Regular Expressions
 
 Regular Expressions in Python - (Channel: NeuralNine)  
