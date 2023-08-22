@@ -324,6 +324,9 @@ https://www.youtube.com/watch?v=lx7oqZ7Nl3k
 
 ### Tips
 
+What Are Python Asterisk and Slash Special Parameters For?  
+https://realpython.com/python-asterisk-and-slash-special-parameters/   
+
 10 Python Shortcuts You Need To Know (channel: TechWithTim)  
 - https://www.youtube.com/watch?v=CssrFJGH_dU
 
