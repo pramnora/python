@@ -325,7 +325,10 @@ https://www.youtube.com/watch?v=lx7oqZ7Nl3k
 ### Tips
 
 10 Python Shortcuts You Need To Know (channel: TechWithTim)  
-- https://www.youtube.com/watch?v=CssrFJGH_dU  
+- https://www.youtube.com/watch?v=CssrFJGH_dU
+
+How to learn Python FAST with ChatGPT and Bard? (Channel: Sundas Khalid)  
+- https://www.youtube.com/watch?v=xr68cbOxvBs  
 
 
 
