@@ -1,5 +1,6 @@
 # -----------------------------------
 #  PROGRAM: Question & Answer test...
+#  VERSION: 1.0.1
 # LANGUAGE: Python 3
 #       OS: Linux Mint
 # COMPUTER: Home based PC 
