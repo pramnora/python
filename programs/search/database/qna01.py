@@ -33,7 +33,7 @@ a=["alpha","bravo","charlie","delta","echo","foxtrot","golf","hotel","india","ju
 
 # set variables to track: question number/user's current guess/user's current score...
 
-n=0  # variable stores the current question (n)umber
+n=0  # variable stores the current question counter (n)umber
 g="" # variable stores the users current (g)uess
 s=0  # variable stores what is the users current (s)core
 
