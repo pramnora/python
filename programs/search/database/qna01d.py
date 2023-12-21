@@ -22,15 +22,20 @@
 # Quiz: NATO Phonetic Alphabet codes 
 
 # First, create 2 parallel arrays...
+
 # q, stores the questions
 # a, stores the answers
+
+# Next, inialise the arrays with values...questions/answers...
 
 q=["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"]
 a=["alpha","bravo","charlie","delta","echo","foxtrot","golf","hotel","india","juliet","kilo","lima","mike","november","oscar","papa","quebec","romeo","sierra","tango","uniform","victor","whisky","x-ray","yankee","zulu"]
 
-n=0  # variable stores the current answer counter number
-g="" # variable stores the users current guess
-s=0  # variable stores what is the users current score
+# set variables to track: question number/user's current guess/user's current score...
+
+n=0  # variable stores the current question (n)umber
+g="" # variable stores the users current (g)uess
+s=0  # variable stores what is the users current (s)core
 
 # ---------------
 # Main program...
