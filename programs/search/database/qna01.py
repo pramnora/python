@@ -45,7 +45,7 @@
 q=["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"]
 a=["alpha","bravo","charlie","delta","echo","foxtrot","golf","hotel","india","juliet","kilo","lima","mike","november","oscar","papa","quebec","romeo","sierra","tango","uniform","victor","whisky","x-ray","yankee","zulu"]
 
-# set variables to track: question number/user's current guess/user's current score...
+# set variables to track: question counter (n)umber/user's current (g)uess/user's current (s)core...
 
 n=0  # variable stores the current question counter (n)umber
 g="" # variable stores the users current (g)uess
