@@ -16,11 +16,11 @@
 
 # It can be very quickly and easily adapted
 # to suit many different types of 'question/answer' tests...
-# - guess codes
-# - guess foreign language words
-# - guess maths sums
+# - guess codes: (What is .- ? for Morse code/The answer is: a)
+# - guess foreign language words (What is un ? for French/The answer is: one)
+# - guess maths sums (What is 5+5 ?/The answer is: 10)  
 # - etc.
-# ...quite simply, by changing the database of: 'questions/answers'.
+# ...quite simply, by changing the database of related: 'questions/answers'.
 
 # At any time during the program run...; 
 # the user is given the option to Quit by pressing either keys: 'q/Q'
@@ -28,6 +28,11 @@
 # When the program finishes...; it prints out a user score
 # stating exactly how many questions had been guessed either right/wrong:
 # "Your total score is: 10 out of 10 correct guesses."
+
+# A LIST OF POSSIBLE FUTURE UPDATES
+
+# At the moment, the questions/answers are executed in strict 'sequential' order...as in questions: 1 up to 10;
+# ...but, this order could be changed to become 'randomly' ordered questions, instead.
 
 # ------------------------
 # Variable declarations...
