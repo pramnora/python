@@ -10,12 +10,24 @@
 # -----------------------------------
 
 # WHAT THE PROGRAM DOES
+
 # This is a very simple 
-# 'qna/question and answer' example database...;
-# which can very quickly and easily be adapted
-# to suit many different types of 'question/answer' tests.
-# The user is given the option to Quit by pressing either: 'q/Q'
-# at any time during the program run.
+# 'qNa/question and answer' example database program.
+
+# It can be very quickly and easily adapted
+# to suit many different types of 'question/answer' tests...
+# - guess codes
+# - guess foreign language words
+# - guess maths sums
+# - etc.
+# ...quite simply, by changing the database of: 'questions/answers'.
+
+# At any time during the program run...; 
+# the user is given the option to Quit by pressing either keys: 'q/Q'
+
+# When the program finishes...; it prints out a user score
+# stating exactly how many questions had been guessed either right/wrong:
+# "Your total score is: 10 out of 10 correct guesses."
 
 # ------------------------
 # Variable declarations...
