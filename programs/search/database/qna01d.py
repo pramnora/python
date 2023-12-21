@@ -19,6 +19,8 @@
 # Variable declarations...
 # ------------------------
 
+# Quiz: NATO Phonetic Alphabet codes 
+
 # First, create 2 parallel arrays...
 # q, stores the questions
 # a, stores the answers
