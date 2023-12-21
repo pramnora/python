@@ -14,6 +14,8 @@
 # 'qna/question and answer' example database...;
 # which can very quickly and easily be adapted
 # to suit many different types of 'question/answer' tests.
+# The user is given the option to Quit by pressing either: 'q/Q'
+# at any time during the program run.
 
 # ------------------------
 # Variable declarations...
