@@ -1,4 +1,5 @@
-#*** QnA/Question and Answer test QUIZ: NATO Phonetic Codes/LANGUAGE: Python - (Minimized Version I/using long variable names)
+#*** QnA/Question and Answer test QUIZ: NATO Phonetic Codes/LANGUAGE: Python
+# (Minimized Version 1: using long variable names)
 strQuestions=["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"]
 strAnswers=["alpha","bravo","charlie","delta","echo","foxtrot","golf","hotel","india","juliet","kilo","lima","mike","november","oscar","papa","quebec","romeo","sierra","tango","uniform","victor","whisky","x-ray","yankee","zulu"]
 intCounterNo,intScoreNo,strGuess=0,0,"" 
