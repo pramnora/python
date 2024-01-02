@@ -1,4 +1,11 @@
-# PROGRAM: Add number sequence; then, output total...
+# ----------------------------------------------------
+#  PROGRAM: Add number sequence; then, output total...
+# LANGUAGE: Python 3
+# COMPUTER: Home based PC
+#       OS: Linux Mint
+#  CREATED: 020124 20:40 PM GMT
+#  UPDATED: 020124 20:40 PM GMT
+# ----------------------------------------------------
 
 # set global variable values...
 
