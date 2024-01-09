@@ -2,7 +2,7 @@
 
 PYTHON PROGRAM CODE
 
-Here you will find snippets of Python 3 programming code; which you are freely able to study/learn from.
+Here you will find snippets of Python 3 programming code; which you are freely able to study/learn from. 
 
 -----
 
@@ -386,35 +386,38 @@ Using BeautifulSoup and Python to navigate an HTML parse tree - (Channel: Progra
 ### Other tutorials (non YouTube)  
 
 Course: PythonIsEasy  
-https://www.pirple.com  
+- https://www.pirple.com    
+CodeExampler.com  
+- https://codeexampler.com/python-variables  
 
 ## FREE Udemy course...
 
 3 Python projects for beginners/Teacher: Kostadin Ristovski  
 (Word cloud/Web scraping links/Google translate text)  
-https://www.udemy.com/course/3-python-projects-for-beginners/?fbclid=%5B%27IwAR1wPCiNkv8tw4ukWjPRxhWQduc7DVXOUzAyetkUBK_wLENmZzvzJEMzFZQ%27%5D  
+- https://www.udemy.com/course/3-python-projects-for-beginners/?fbclid=%5B%27IwAR1wPCiNkv8tw4ukWjPRxhWQduc7DVXOUzAyetkUBK_wLENmZzvzJEMzFZQ%27%5D  
 
 ## PRACTICE ONLINE INSIDE OF WEB BROWSER
 
-http://www.codesandbox.io  
-http://www.pythonfiddle.com      
-http://www.repl.it  
-https://rextester.com/l/python3_online_compiler      
-http://www.trinket.io    
-https://www.pythonanywhere.com  
+- https://codeexampler.com/compiler/python  
+- http://www.codesandbox.io  
+- http://www.pythonfiddle.com      
+- http://www.repl.it  
+- https://rextester.com/l/python3_online_compiler      
+- http://www.trinket.io    
+- https://www.pythonanywhere.com  
 
 ## FRAMEWORKS
 
-https://www.web2py.com  
+- https://www.web2py.com  
 
 ## BOOKS
 
-https://books.trinket.io/pfe/
+- https://books.trinket.io/pfe/
 
 ## CODE
 
-http://www.py4inf.com/code/  
-https://www.py4e.com/code3/  
+- http://www.py4inf.com/code/  
+- https://www.py4e.com/code3/  
 
 
 
