@@ -24,4 +24,7 @@ Lambda (λ) Calculus Primer - (YouTube Channel: LigerLearn)
 Lambda (λ) calculus evaluation rules (δ, β, α, η conversion/reduction) - (YouTube Channel: LigerLearn)  
 -  https://www.youtube.com/watch?v=VS_GK-9xUO4
 
+Lambda Calculus - Fundamentals of Lambda Calculus & Functional Programming in JavaScript  
+- https://www.youtube.com/watch?v=3VQ382QG-y4  
+
 -  
