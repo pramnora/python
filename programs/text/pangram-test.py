@@ -10,7 +10,7 @@
 # -----------------------------------------
 
 # The program checks to see if each letter of the alphabet: 'a-z' is contained 
-# inside of the pangram: 'the quick brown fox jumps over the lazy dog'     
+# inside of the pangram text phrase: 'The quick brown fox jumps over the lazy dog.'     
 
 # Initialise variables...
 pangram="The quick brown fox jumps over the lazy dog."
