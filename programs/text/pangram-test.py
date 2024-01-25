@@ -15,10 +15,12 @@
 # Initialise variables...
 pangram="The quick brown fox jumps over the lazy dog."
 alphabet="abcdefghijklmnopqrstuvwxyz"
+found=0
+missing=0
 
 # Remove all spaces from pangram text...
 # Remove the full stop: (.)
-# Change all upper case letters into being lower case, instead...
+# Change all upper case letter into lower case...
 pangram=pangram.replace(" ","").replace(".","").lower()
 
 # print pangram...
@@ -38,6 +40,10 @@ print("alphabet length = ",len(alphabet))
 for x in alphabet:
         if x in pangram:
                 print("found letter:", x," in ", pangram)
+                found+=1
         else:
                 print("letter:",x,"NOT found in ", pangram)
+                missing+=1
 
+print("  Number of alphabet letters found: ",found)
+print("Number of alphabet letters missing: ",missing)
