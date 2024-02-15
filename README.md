@@ -260,6 +260,8 @@ http://www.pythontutor.com
 PEP 8 -- Style Guide for Python Code  
 https://www.python.org/dev/peps/pep-0008/   
 
+Eduonix: The Developer's Guide to Python 3 Programming  
+https://www.eduonix.com/new_dashboard/the-developers-guide-to-python-3-programming  
 
 ## YouTube Videos...
 
