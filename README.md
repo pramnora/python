@@ -244,85 +244,88 @@ https://pypi.org/
 ### IDE/Integrated Development Environment
 
 Anaconda   
-https://www.continuum.io/downloads  
+- https://www.continuum.io/downloads  
 
 JUPYTER  
-http://www.jupyter.org  
-https://jupyter.org/try  
-https://jupyter.org/install.html    
+- http://www.jupyter.org  
+- https://jupyter.org/try  
+- https://jupyter.org/install.html    
+
+Programiz.com
+- https://www.programiz.com/python-programming/online-compiler
 
 ## TUTORIALS/INTERACTIVE ONLINE  
 
-http://www.learnpython.org/   
-http://www.pythonlearn.com  
-http://www.pythontutor.com  
+- http://www.learnpython.org/   
+- http://www.pythonlearn.com  
+- http://www.pythontutor.com  
 
 PEP 8 -- Style Guide for Python Code  
-https://www.python.org/dev/peps/pep-0008/   
+- https://www.python.org/dev/peps/pep-0008/   
 
 Eduonix: The Developer's Guide to Python 3 Programming  
-https://www.eduonix.com/new_dashboard/the-developers-guide-to-python-3-programming  
+- https://www.eduonix.com/new_dashboard/the-developers-guide-to-python-3-programming  
 
 ## YouTube Videos...
 
 Python Tutorial - Python for Beginners - Learn Python Programming [2020]/(YouTube Channel: Programming With Mosh)
-https://www.youtube.com/watch?v=_uQrJ0TkZlc
+- https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
 Python Tutorial for Programmers - Python Crash Course/(YouTube Channel: Programming With Mosh)
-https://www.youtube.com/watch?v=f79MRyMsjrQ&t=2953s
+- https://www.youtube.com/watch?v=f79MRyMsjrQ&t=2953s
 
 The Complete Python Course For Beginners/(YouTube Channel: Tech With Tim)  
-https://www.youtube.com/watch?v=sxTmJE4k0ho  
+- https://www.youtube.com/watch?v=sxTmJE4k0ho  
 
 Python Tutorial for Absolute Beginners #1 - What Are Variables?  (series: 16 videos/YouTube Channel: CS Dojo)  
-https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg    
+- https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg    
 
 Learn Python with Socratica || Python Tutorial || Python Programming  (YouTube Channel: Socratica)  
-https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-  
+- https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-  
 
 ## Full length courses
 
 Python for Everybody - Full Course with Dr. Chuck  (YouTube Channel: freeCodeCamp.org)  
-https://www.youtube.com/watch?v=8DvywoWv6fI&t=3398s    
+- https://www.youtube.com/watch?v=8DvywoWv6fI&t=3398s    
 
 ### Python Language: Concepts
 
 Python Classes and Objects || Python Tutorial || Learn Python Programming  (YouTube Channel: Socratica)  
-https://www.youtube.com/watch?v=apACNr7DC_s  
+- https://www.youtube.com/watch?v=apACNr7DC_s  
 
 ## Python Library Tutorials...
 
 ### NumPy
 
 Introduction to Numerical Computing with NumPy | SciPy 2019 Tutorial | Alex Chabot-Leclerc  
-https://www.youtube.com/watch?v=ZB7BZMhfPgk  
+- https://www.youtube.com/watch?v=ZB7BZMhfPgk  
 
 Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)  
-https://www.youtube.com/watch?v=r-uOLxNrNk8  
+- https://www.youtube.com/watch?v=r-uOLxNrNk8  
 
 ### TKInter
 
 Tkinter Course - Create Graphic User Interfaces in Python Tutorial/YouTube Channel: freeCodeCamp.org    
-https://www.youtube.com/watch?v=YXPyB4XeYLA&t=640s  
+- https://www.youtube.com/watch?v=YXPyB4XeYLA&t=640s  
 
 ### VPython 
 
 (9 year old teaching.../VPython: Python 3D graphics)   
-https://www.youtube.com/watch?v=jDDNpDZnFAw&feature=youtu.be&fbclid=IwAR1LtqLBaNI-eDyThp4UIxHpPsvsDzoOazMt_scgoqDIxMm1FeXv7sEePpU  
+- https://www.youtube.com/watch?v=jDDNpDZnFAw&feature=youtu.be&fbclid=IwAR1LtqLBaNI-eDyThp4UIxHpPsvsDzoOazMt_scgoqDIxMm1FeXv7sEePpU  
 
 ### Other
 
 How to Learn Python Tutorial - Easy & simple! Learn How to Learn Python!  
-https://www.youtube.com/watch?v=5mJ_Qftw2_0
+- https://www.youtube.com/watch?v=5mJ_Qftw2_0
 
 The Python Programming Deception?  
-https://www.youtube.com/watch?v=FeYljNZHjZQ
+- https://www.youtube.com/watch?v=FeYljNZHjZQ
 
 What Does It Take To Be An Expert At Python?  
-https://www.youtube.com/watch?v=7lmCu8wz8ro  
+- https://www.youtube.com/watch?v=7lmCu8wz8ro  
 
 6 Python Exercise Problems for Beginners - from CodingBat (Python Tutorial #14/YouTube Channel: CS Dojo)  
-https://www.youtube.com/watch?v=lx7oqZ7Nl3k  
+- https://www.youtube.com/watch?v=lx7oqZ7Nl3k  
 
 ### Tips
 
