@@ -4,6 +4,8 @@ PYTHON PROGRAM CODE
 
 Here you will find snippets of Python 3 programming code; which you are freely able to study/learn from. 
 
+Document last updated: *Mon 26th Feb 2024 - 12:45 PM GMT*
+
 -----
 
 INTRODUCTION
@@ -237,9 +239,9 @@ Package authors use PyPI to distribute their software. Learn how to package your
 
 ### Language
 
-https://www.python.org/  
-https://www.python.org/downloads/
-https://pypi.org/
+- https://www.python.org/  
+- https://www.python.org/downloads/
+- https://pypi.org/
 
 ### IDE/Integrated Development Environment
 
