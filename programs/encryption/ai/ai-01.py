@@ -5,6 +5,17 @@
  Program: Translate user entered text into being numbers.
  I went to bing.com/and, used CoPilot to ask it to write me 
  a program that would translate user entered letters into becoming numbers.
+
+ NOTE: Each letter inside of the user entered text is not translated precisely;
+       as there are multiple options to choose from; for example,
+       Letter: A, is translated as being the number: 2;
+       Letter: B, is translated as being the number: 2;
+       Letter: C, is translated as being the number: 2.
+       ...therefore, this means that if the user were to type in...as text to be translated:
+       ABC
+       ...the answer that would get returned back would simply say:
+       222
+       ?!
 '''
 
 def get_number(uppercase_letter):
