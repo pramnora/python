@@ -16,6 +16,12 @@
        ...the answer that would get returned back would simply say:
        222
        ?!
+
+       When I put in the following text to be translated:
+       This is a secret message.
+       The translated text that got returned was: 
+       8447 47 2 732738 6377243. 
+       ?!
 '''
 
 def get_number(uppercase_letter):
