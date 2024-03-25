@@ -1,3 +1,12 @@
+# Created: 250324 14:32 PM GMT
+# Updated: 250324 14:32 PM GMT
+
+'''
+ Program: Translate user entered text into being numbers.
+ I went to bing.com/and, used CoPilot to ask it to write me 
+ a program that would translate user entered letters into becoming numbers.
+'''
+
 def get_number(uppercase_letter):
     # Define the mapping of letters to digits
     char_numbers = [
