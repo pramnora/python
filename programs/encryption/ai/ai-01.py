@@ -2,9 +2,14 @@
 # Updated: 250324 14:32 PM GMT
 
 '''
+ Programming language: Python 3
  Program: Translate user entered text into being numbers.
- I went to bing.com/and, used CoPilot to ask it to write me 
- a program that would translate user entered letters into becoming numbers.
+ Explantion: 
+       I went to bing.com/and, asked CoPilot to write me a program 
+       that would translate user entered letters into becoming numbers;
+       it decided to base the 'text to number' translation 
+       on the telephone numbers only keyboard, digits: 2-9.
+ NOTE: It seems to have left out the inclusion of digits: 0,1...; though, I'm not exactly too sure exactly as to why...??? 
 
  NOTE: Each letter inside of the user entered text is not translated precisely;
        as there are multiple options to choose from; for example,
