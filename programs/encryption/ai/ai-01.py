@@ -10,6 +10,7 @@
        it decided to base the 'text to number' translation 
        on the telephone numbers only keyboard, digits: 2-9.
  NOTE: It seems to have left out the inclusion of digits: 0,1...; though, I'm not exactly too sure exactly as to why...??? 
+       (My guess is that's because this is the way that both the letters/numbers are being written down on a standard telephone keypad.) 
 
  NOTE: Each letter inside of the user entered text is not translated precisely;
        as there are multiple options to choose from; for example,
