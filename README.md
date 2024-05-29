@@ -4,7 +4,7 @@ PYTHON PROGRAM CODE
 
 Here you will find snippets of Python 3 programming code; which you are freely able to study/learn from. 
 
-Document last updated: *Mon 26th Feb 2024 - 12:45 PM GMT*
+Document last updated: *Wed 29th May 2024 - 20:57 PM GMT*
 
 -----
 
@@ -426,5 +426,11 @@ CodeExampler.com
 - http://www.py4inf.com/code/  
 - https://www.py4e.com/code3/  
 
+
+### Python Certification
+
+- https://openedg.org/  
+- https://openedg.org/python-institute  
+- https://pythoninstitute.org/   
 
 
