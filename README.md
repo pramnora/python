@@ -431,6 +431,8 @@ CodeExampler.com
 
 - https://openedg.org/  
 - https://openedg.org/python-institute  
-- https://pythoninstitute.org/   
+- https://pythoninstitute.org/  
+- https://pythoninstitute.org/pcep  
+- https://pythoninstitute.org/pcap  
 
 
