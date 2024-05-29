@@ -432,7 +432,8 @@ CodeExampler.com
 - https://openedg.org/  
 - https://openedg.org/python-institute  
 - https://pythoninstitute.org/  
-- https://pythoninstitute.org/pcep  
-- https://pythoninstitute.org/pcap  
+- https://pythoninstitute.org/pcep  (Certified Entry-Level Python Programmer)  
+- https://pythoninstitute.org/pcap  (Certified Associate Python Programmer)  
+- https://www.youtube.com/@openedgpythoninstitute  (YouTube channel: OpenEDG Python Institute)  
 
 
