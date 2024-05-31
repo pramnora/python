@@ -199,6 +199,14 @@ Python Math library
 
 -----
 
+Python Time library  
+
+>>import time  
+>>print(time.ctime())  
+>>Fri May 31 22:46:18 2024  
+
+-----
+
 VPython 3D library
 
 First, you have to install the VPython library; so, at the windows command line type...  
