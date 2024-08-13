@@ -4,7 +4,7 @@ PYTHON PROGRAM CODE
 
 Here you will find snippets of Python 3 programming code; which you are freely able to study/learn from. 
 
-Document last updated: *Fri 31st May 2024 - 22:53 PM GMT*
+Document last updated: *Tue 13th Aug 2024 -04:54 AM GMT*
 
 -----
 
@@ -264,6 +264,9 @@ JUPYTER
 Programiz.com
 - https://www.programiz.com/python-programming/online-compiler
 
+PyTwiddle.com  
+- https://pytwiddle.com  
+  
 ## TUTORIALS/INTERACTIVE ONLINE  
 
 - http://www.learnpython.org/   
