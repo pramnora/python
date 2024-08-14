@@ -4,7 +4,7 @@ PYTHON PROGRAM CODE
 
 Here you will find snippets of Python 3 programming code; which you are freely able to study/learn from. 
 
-Document last updated: *Tue 13th Aug 2024 -04:54 AM GMT*
+Document last updated: *Wed 14th Aug 2024 -08:37 PM GMT*
 
 -----
 
@@ -271,7 +271,10 @@ PyTwiddle.com
 
 - http://www.learnpython.org/   
 - http://www.pythonlearn.com  
-- http://www.pythontutor.com  
+- http://www.pythontutor.com
+
+Neetcode.io  
+- https://neetcode.io/problems/python-hello-world   
 
 PEP 8 -- Style Guide for Python Code  
 - https://www.python.org/dev/peps/pep-0008/   
