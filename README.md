@@ -272,6 +272,10 @@ PyTwiddle.com
 - http://www.learnpython.org/   
 - http://www.pythonlearn.com  
 - http://www.pythontutor.com
+- https://www.learnpython.org  
+- https://app.datacamp.com/  
+- https://www.datacamp.com/tutorial  
+
 
 Neetcode.io  
 - https://neetcode.io/problems/python-hello-world   
