@@ -14,7 +14,7 @@ sm=secret_message.upper()
 
 for eachChar in sm: # loop through each character in secret message...
     if eachChar >= "A" and eachChar <= "Z": # check character is: A-Z 
-        n = ord(eachChar)-64 # get letter ASCII number: 65-90/deduct 64: (1-20)
+        n = ord(eachChar)-64 # get letter ASCII number: 65-90/deduct 64: (1-26)
         if n < 10: # if ASCII number is less than 10
             n  = '0' + (str(n)) # add a 0 prefix digit to that number
         print(n,end="") # print numbers all on one single same line
