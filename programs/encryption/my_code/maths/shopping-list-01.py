@@ -12,6 +12,12 @@
 #  UPDATED: Fri 16 Aug 2024 16:53 PM GMT
 # ---------------------------------------
 
+# -----------------------------------------------
+# NOTE: Originally, I had created this file at...
+# - https://www.onecompiler.com
+# I merely used 'copy and paste'...
+# -----------------------------------------------
+
 # variable declarations...
 bananas, oranges, tomatoes = 7 * 0.29, 1.50, 1.10     # initialising mutliple variables using just one same line
 
