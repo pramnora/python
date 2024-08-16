@@ -14,10 +14,11 @@
 
 # -----------------------------------------------
 # NOTE: Originally, I had created this file at...
-# - https://www.onecompiler.com
+# - https://onecompiler.com/python/42pc6vx2f
 # I merely used 'copy and paste'.
 
 # In fact, I wrote the original source code
+# on my own home computer: Linux Mint OS
 # using the Julia programming language;
 # and, wanted to test out if that same source code
 # was likely to work using Python 3? Answer: yes.
