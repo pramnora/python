@@ -15,7 +15,12 @@
 # -----------------------------------------------
 # NOTE: Originally, I had created this file at...
 # - https://www.onecompiler.com
-# I merely used 'copy and paste'...
+# I merely used 'copy and paste'.
+
+# In fact, I wrote the original source code
+# using the Julia programming language;
+# and, wanted to test out if that same source code
+# was likely to work using Python 3? Answer: yes.
 # -----------------------------------------------
 
 # variable declarations...
