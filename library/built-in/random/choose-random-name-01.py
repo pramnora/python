@@ -7,8 +7,8 @@
 # random/choice
 # ------------------------------------------
 # CREDITS: Program borrowed from Skillshare course...
-# Coding 101: Python for Beginners, 
-# Teacher: Alvin Wan, Research Scientist
+# COURSE NAME: Coding 101: Python for Beginners, 
+# TEACHER: Alvin Wan, Research Scientist
 # URL: 
 # https://www.skillshare.com/en/classes/coding-101-python-for-beginners/973997848/classroom
 # ------------------------------------------
