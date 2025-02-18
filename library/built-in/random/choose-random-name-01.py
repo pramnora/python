@@ -11,6 +11,9 @@
 # TEACHER: Alvin Wan, Research Scientist
 # URL: 
 # https://www.skillshare.com/en/classes/coding-101-python-for-beginners/973997848/classroom
+
+# NOTE: This is NOT the original program source code...; 
+# but, instead, is Alvin's code having  been further 'adapted' by me.
 # ------------------------------------------
 
 # choice, selects data 'randomly' from a list of multiple choices
