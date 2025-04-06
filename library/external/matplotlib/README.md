@@ -17,7 +17,9 @@ Playing around with learning to use Matplotlib...
 
 ### YouTube  
 
-Matplotlib Tutorial 1 - Introduction and Line (Series tutorial for beginners)/Channel: sentdex    
+### Tutorial series
+
+Matplotlib Tutorial 1 - Introduction and Line/Channel: sentdex    
 - https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF    
 
 
