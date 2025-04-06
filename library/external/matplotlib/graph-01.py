@@ -8,6 +8,9 @@
 # can be used to create a very simple diagional straight line graph:(/); 
 # which is, then, being displayed on screen.
 
+# I tested the code is working, properly, on:
+# Linux Mint OS using: python3
+
 # ------------------------------------------------
 
 import matplotlib.pyplot as plt
