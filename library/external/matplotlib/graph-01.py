@@ -1,6 +1,7 @@
 # Created: 060424 14:03 PM GMT
 # Updated: 060424 14:03 PM GMT
-# Example code borrowed from Simplilearn tutorial.
+# Example code borrowed from Simplilearn Python3 tutorial.
+# https://www.simplilearn.com
 
 # The following 3 lines of Python3 code 
 # can be used to create a very simple graph; 
