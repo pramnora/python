@@ -1,10 +1,10 @@
-Created: Sun 6th April 2025 17:45 PM GMT  
-Updated: Sun 6th April 2025 17:45 PM GMT
+**Created**: *Sun 6th April 2025 17:45 PM GMT*    
+**Updated**: *Sun 6th April 2025 17:45 PM GMT*  
 
-#Introduction
+# Introduction
 
 Playing around with learning to use Matplotlib...
 
-#Links
+## Links
 
 - https://matplotlib.org/
