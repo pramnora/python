@@ -1,5 +1,5 @@
 **Created**: *Sun 6th April 2025 17:45 PM GMT*    
-**Updated**: *Sun 6th April 2025 17:45 PM GMT*  
+**Updated**: *Sun 9th April 2025 16:47 PM GMT*  
 
 -----
 
@@ -21,5 +21,8 @@ Playing around with learning to use Matplotlib...
 
 Matplotlib Tutorial 1 - Introduction and Line/Channel: sentdex    
 - https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF    
+
+Matplotlib Full Python Course - Data Science Fundamentals / (Channel: NeuralNine)  
+- https://www.youtube.com/watch?v=OZOOLe2imFo
 
 
