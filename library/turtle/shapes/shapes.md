@@ -146,7 +146,9 @@ so, I cannot get the 'enjoy' seeing the program output for too very long...?!
 I will try and Google how to fix this...???
 
 I found the answer to the above question inside of this 'stackoverflow' article:    
+
 - https://stackoverflow.com/questions/19018243/python-turtle-graphics-window-only-opens-briefly-then-closes        
+
 Basically, the article states...in order to stop the output window from disappearing...  
 you can either use the line...
   
