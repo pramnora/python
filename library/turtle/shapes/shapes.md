@@ -144,5 +144,15 @@ the output screen appears only for a short while...1 or 2 seconds;
 then, completely disappears...so, I cannot get the enjoy seeing the output for long...?!
 I will try and Google how to fix this...
 
+I found the answer to the above question inside of this 'stackoverflow' article:    
+- https://stackoverflow.com/questions/19018243/python-turtle-graphics-window-only-opens-briefly-then-closes        
+Basically, the article states...in order to stop the output window from disappearing...  
+you can either use the line...  
+turtle.done()  
+...or,...  
+turtle.mainloop()
+...I tried it...and, yes, it works. Eureka! LOL Happy days...!!!  
+Now, I can stop all of my graphical turtle output from, all of sudden, completely disappearing.  
+
 
  
