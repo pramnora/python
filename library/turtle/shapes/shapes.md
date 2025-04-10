@@ -132,4 +132,16 @@ draw a pentagon shape with 5 sides.
 >>drawShape(100,4)   # draws a Square shape/(4 sides)  
 >>drawShape(100,5)   # draws a Pentagon shape/(5 sides)  
 
+Luckily, it all worked, succcessfully.
+
+-----
+
+CONCLUSION
+
+The only difficulty I'm having, at the moment, is...;  
+the output screen appears only for a short while...1 or 2 seconds;  
+then, completely disappears...so, I cannot get the enjoy seeing the output for long...?!
+I will try and Google how to fix this...
+
+
  
