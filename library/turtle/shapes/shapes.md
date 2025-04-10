@@ -52,8 +52,9 @@ PROGRAM: THIRD DRAFT
 In my 3rd program iteration,  
 I decided to create 2 entirely different shapes...;    
 by using the same function code above...  
-(just use 'copy and paste'/then, 'rename' the function);    
-the first function call would draw a triangle: drawTriangle();      
+(just use 'copy and paste'/then, 'rename' the function).  
+    
+The first function call would draw a triangle: drawTriangle();      
 the second function call would draw a square: drawSquare();    
 with each function call being made separately.    
 
