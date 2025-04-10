@@ -28,6 +28,6 @@ drawShape(100,3) # draws a triangle
 drawShape(100,4) # draws a square 
 drawShape(100,5) # draws a pentagon
 
-turtle.done()    # this line keeps the turtle output window open...;  
-                 # up until when the user themselves decides to close it...;  
+turtle.done()    # this line keeps the turtle graphics output window still remaining open  
+                 # up until when the user themselves decides to 'close' it...;  
                  # otherwise, the output window closes down, automatically, after just 1/2 seconds long. 
