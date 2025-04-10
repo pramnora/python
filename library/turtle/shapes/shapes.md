@@ -19,7 +19,7 @@ to draw a simple 4 sided square onto the output screen.
 
 -(Actually, I'd forgotten how this Turtle graphic code works...;    
 but, that's the point of having GitHub 'source code resource' to help jog the memory;    
-I just merely re-used code I'd written previously: [t-square-01.py];
+I just merely re-used code I'd written previously: [t-square-01.py];  
 and, it worked.)-    
 
 -----
