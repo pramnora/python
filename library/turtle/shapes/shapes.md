@@ -109,8 +109,8 @@ Change number 1: Make the code more compact...
 Change number 2: Get rid of the 'degrees' variable...;   
 and, let the program itself calculate the number of degrees to use(360/noOfSides):
 
-eg. 360/3 = 120 (120+120+120=360)    
-eg. 360/4 = 90 (90+90+90+90=360)  
+eg. 360/3 = 120 (120+120+120=360) # draw a triangle/(3 sides)     
+eg. 360/4 = 90 (90+90+90+90=360)  # draw a square/(4 sides)  
 -etc.  
 
 So, the function parameter list was now shortened by getting rid of 1 unnecessary argument to become  
