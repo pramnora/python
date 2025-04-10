@@ -1,6 +1,8 @@
 CREATED: Thu 10th April 2025 13:36 PM GMT  
 UPDATED: Thu 10th April 2025 13:36 PM GMT  
 
+Explaining how the: [shapes.py] program was developed/created...
+
 -----
 
 PROGRAM: FIRST DRAFT
