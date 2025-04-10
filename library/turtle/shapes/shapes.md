@@ -167,5 +167,14 @@ you can either use the line...
 ...I tried it...and, yes, it works. Eureka! LOL Happy days...!!!  
 Now, I can stop all of my graphical turtle output from, all of sudden, completely disappearing.  
 
+-----
 
+# Links
+
+GitHub source code  
+- https://github.com/pramnora/python/blob/master/library/turtle/shapes/shapes.py  
+GitHub MarkDown (a more detailed explanatory file)  
+- https://github.com/pramnora/python/blob/master/library/turtle/shapes/shapes.md  
+Trinket.io  (view/interact with the 'live' code online)  
+- https://trinket.io/python/3019a4b11414  
  
