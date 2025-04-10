@@ -112,7 +112,6 @@ and, just to test that it worked...I decided to add another function call: draw 
 >>import turtle  
 >>    
 >>def drawShape(length,noOfSides):         
->>noOfSides=totalSides  
 >>for drawShape in range(1,noOfSides+1):    
 >>    turtle.forward(length)    
 >>    turtle.left(360/noOfSides)  
