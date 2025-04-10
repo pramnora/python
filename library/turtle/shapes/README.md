@@ -48,18 +48,18 @@ with each function call being made separately.
 
 >>import turtle  
 >>    
+>>def drawTriangle(length,degrees,totalSides):     
+>>noOfSides=totalSides  
+>>for drawTriangle in range(1,noOfSides+1):  
+>>    turtle.forward(length)  
+>>    turtle.left(degrees)  
+>>
 >>def drawSquare(length,degrees,totalSides):       
 >>noOfSides=totalSides  
 >>for drawSquare in range(1,noOfSides+1):  
 >>    turtle.forward(length)  
 >>    turtle.left(degrees)  
 >>  
->>def drawTriangle(length,degrees,totalSides):     
->>noOfSides=totalSides  
->>for drawSquare in range(1,noOfSides+1):  
->>    turtle.forward(length)  
->>    turtle.left(degrees)  
->>
 >>drawTriangle(100,120,3)  # draws a Triangle shape  
 >>drawSquare(100,90,4)     # draws a Square shape  
 
@@ -69,10 +69,9 @@ with each function call being made separately.
 
 PROGRAM: FORTH DRAFT
 
-Then, of course, I realised that now the shape arguments: length/degrees/totalSides...;    
-had already been pre-declared...; I needed only just 'one' single same function     
-which could, in fact, be made to draw 'any' shape;        
-and, not just named shapes, alone;  
+Then, of course, I realised that all of the shape arguments: length/degrees/totalSides...;    
+had already been 'pre-declared'...; and, these could, in fact, be used to draw 'any' shape;    
+meaning, I only have to make just 'one' function call...; and, delete all the rest of them;    
 so, I decided to rename the function as being called, more generically, drawShape().      
 
 >>import turtle
