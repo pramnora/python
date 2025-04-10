@@ -26,7 +26,7 @@ and, it worked.)-
 
 PROGRAM: SECOND DRAFT
 
-Next, I decided to change the above code into becoming   
+Next, I decided to change the above code into becoming   https://github.com/pramnora/python/edit/master/library/turtle/shapes/shapes.md
 a 'self-contained' function call;    
 with the function having 'a specific shape name': drawSquare().   
   
@@ -147,7 +147,7 @@ CONCLUSION
 The only difficulty I'm having, at the moment, is...;  
 the output screen appears only for a short while...just merely 1 or 2 seconds;   
 then, completely disappears...;  
-so, I cannot get the 'enjoy' seeing the program output for too very long...?!  
+so, I cannot get to 'enjoy' seeing the program output for too very long...?!  
 I will try and Google how to fix this...???
 
 I found the answer to the above question inside of this 'stackoverflow' article:    
