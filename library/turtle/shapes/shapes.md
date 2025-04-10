@@ -26,7 +26,7 @@ and, it worked.)-
 
 PROGRAM: SECOND DRAFT
 
-Next, I decided to change the above code into becoming   https://github.com/pramnora/python/edit/master/library/turtle/shapes/shapes.md
+Next, I decided to change the above code into becoming  
 a 'self-contained' function call;    
 with the function having 'a specific shape name': drawSquare().   
   
