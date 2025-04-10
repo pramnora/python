@@ -111,6 +111,7 @@ and, let the program itself calculate the number of degrees to use(360/noOfSides
 
 eg. 360/3 = 120 (120+120+120=360) # draw a triangle/(3 sides)     
 eg. 360/4 = 90 (90+90+90+90=360)  # draw a square/(4 sides)  
+eg. 360/5 = 72 (72+72+72+72+72=360) # draw a pentagon shape/(5 sides)  
 -etc.  
 
 So, the function parameter list was now shortened by getting rid of 1 unnecessary argument to become  
