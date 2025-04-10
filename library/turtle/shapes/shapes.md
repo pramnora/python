@@ -140,9 +140,10 @@ Luckily, it all worked, succcessfully.
 CONCLUSION
 
 The only difficulty I'm having, at the moment, is...;  
-the output screen appears only for a short while...1 or 2 seconds;  
-then, completely disappears...so, I cannot get the enjoy seeing the output for long...?!
-I will try and Google how to fix this...
+the output screen appears only for a short while...just merely 1 or 2 seconds;   
+then, completely disappears...;  
+so, I cannot get the 'enjoy' seeing the program output for too very long...?!  
+I will try and Google how to fix this...???
 
 I found the answer to the above question inside of this 'stackoverflow' article:    
 - https://stackoverflow.com/questions/19018243/python-turtle-graphics-window-only-opens-briefly-then-closes        
