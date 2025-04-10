@@ -169,7 +169,7 @@ Now, I can stop all of my graphical turtle output from, all of sudden, completel
 
 -----
 
-# Links
+# Links (text links)
 
 GitHub source code [shapes.py]   
 - https://github.com/pramnora/python/blob/master/library/turtle/shapes/shapes.py  
@@ -180,7 +180,7 @@ GitHub MarkDown file: [shapes.md]/(a more detailed explanatory file)
 Trinket.io  (view/run/interact with the 'live' code online)   
 - https://trinket.io/python/3019a4b11414  
 
-# Image links
+# Image links (still photos)
  
 ## Program source code
 
