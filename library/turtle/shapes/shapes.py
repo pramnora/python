@@ -3,7 +3,7 @@ import turtle
 #             Computer: PC (home based)/OS: Linux Mint
 # Programming Language: Python Version: 3.10.12/Editor: Nano 
 #              Program: LOGO Turtle graphics/Create 'any' shape
-# -------------------------------------------------
+# -------------------------------------------------------------
 # Created: Thu 100425 12:25 PM GMT 
 # Updated: Thu 100425 12:25 PM GMT
 
