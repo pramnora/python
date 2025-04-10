@@ -91,7 +91,7 @@ so, I decided to rename the function as being called, more generically, drawShap
 
 -----
 
-PROGRAM: FORTH DRAFT
+PROGRAM: FIFTH DRAFT
 
 In my next iteration...I decided to *optimize* the code...;     
 which I thought was just a bit too long.  
@@ -111,14 +111,14 @@ and, just to test that it worked...I decided to add another function call: draw 
 
 >>import turtle  
 >>    
->>def drawShape(length,degrees,noOfSides):         
+>>def drawShape(length,noOfSides):         
 >>noOfSides=totalSides  
 >>for drawShape in range(1,noOfSides+1):    
 >>    turtle.forward(length)    
->>    turtle.left(360/degrees)  
+>>    turtle.left(360/noOfSides)  
 >>
->>drawShape(100,120,3)  # draws a Triangle shape/(3 sides)   
->>drawShape(100,90,4)   # draws a Square shape/(4 sides)  
->>drawShape(100,90,4)   # draws a Pentagon shape/(5 sides)  
+>>drawShape(100,3)  # draws a Triangle shape/(3 sides)   
+>>drawShape(100,4)   # draws a Square shape/(4 sides)  
+>>drawShape(100,5)   # draws a Pentagon shape/(5 sides)  
 
  
