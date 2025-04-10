@@ -171,15 +171,25 @@ Now, I can stop all of my graphical turtle output from, all of sudden, completel
 
 # Links
 
-GitHub source code  
+GitHub source code [shapes.py]   
 - https://github.com/pramnora/python/blob/master/library/turtle/shapes/shapes.py  
 
-GitHub MarkDown (a more detailed explanatory file)  
+GitHub MarkDown file: [shapes.md]/(a more detailed explanatory file)    
 - https://github.com/pramnora/python/blob/master/library/turtle/shapes/shapes.md  
 
-Trinket.io  (view/interact with the 'live' code online)  
+Trinket.io  (view/run/interact with the 'live' code online)   
 - https://trinket.io/python/3019a4b11414  
+
+# Image links
  
-https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/490593149_10160660872332455_7502221287938898641_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=f727a1&_nc_ohc=dikLlObjMKcQ7kNvwFob0wy&_nc_oc=AdmJOFHK4dlscNCk3J2F-g0bSUAwoM19ihWxWXwgEG2lojiS8fxWpRWN0NSWfhqv0OM&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&_nc_gid=3cvKNwmzIG1G8_9_jr8cBA&oh=00_AfHnpdoHkkG9kowtM7MQiS-TLuCWXx04Z9Bbryn6UVpL-g&oe=67FDC27F
+## Program source code
 
 https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/490121208_10160660887502455_4147391714889076521_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f727a1&_nc_ohc=5vnMKo4Q91YQ7kNvwET_Xfb&_nc_oc=AdlmfqozPSLuxgBYRLrcT1k1ecO67Dr9PZQONNd5z6hijyBmiDdz4KZSLYeVmDWcRHM&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&_nc_gid=3cvKNwmzIG1G8_9_jr8cBA&oh=00_AfG0NvWTW10fdeDyjiHpJfc_eHxanS5PI0ZMNTbtnYNbaQ&oe=67FDA53E
+
+## Program output
+
+https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/490593149_10160660872332455_7502221287938898641_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=f727a1&_nc_ohc=dikLlObjMKcQ7kNvwFob0wy&_nc_oc=AdmJOFHK4dlscNCk3J2F-g0bSUAwoM19ihWxWXwgEG2lojiS8fxWpRWN0NSWfhqv0OM&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&_nc_gid=3cvKNwmzIG1G8_9_jr8cBA&oh=00_AfHnpdoHkkG9kowtM7MQiS-TLuCWXx04Z9Bbryn6UVpL-g&oe=67FDC27F
+
+## Trinket.io output
+
+https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/489908753_10160660933657455_7869047642275657315_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=DZEpnxiH7iYQ7kNvwFa16IR&_nc_oc=AdmZkwYZ_nLAvDwEROV5_aWsQrR1-dU2aiO-AxiadL_HZiZtpghdTdaeF-t_PsBLiNM&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&_nc_gid=bzlYkhqpVB_wm-YYbspPUA&oh=00_AfFzDg6tqpsXrQRoM-4gCsbfXS3_IFaoa-8vdw0m7NcwtA&oe=67FDA913
