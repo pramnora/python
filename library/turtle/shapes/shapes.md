@@ -106,12 +106,20 @@ Change number 1: Make the code more compact...
 ..wasn't necessary. I could delete that line; by placing 'noOfSides' in the function call parameter list:   
 >>def drawShape(length,degrees,noOfSides):         
 
-Change number 2: Get rid of the degrees variable...; and, let the program itself calculate the number of sides(360/noOfSides).     
-So, the function parameter list was now shorted by getting rid of 1 unnecessary argument to become:    
+Change number 2: Get rid of the 'degrees' variable...;   
+and, let the program itself calculate the number of degrees to use(360/noOfSides):
+
+eg. 360/3 = 120 (120+120+120=360)    
+eg. 360/4 = 90 (90+90+90+90=360)  
+-etc.  
+
+So, the function parameter list was now shortened by getting rid of 1 unnecessary argument to become  
+instead of 3 arguments to pass in...just, simply, 2:       
 >>def drawShape(length,noOfSides):           
 
 The 'shortened' code, now looked like this...;  
-and, just to test that it worked...I decided to add another function call: draw a pentagon shape with 5 sides.  
+and, just to test that it worked...I decided to add another function call:   
+draw a pentagon shape with 5 sides.  
 
 >>import turtle  
 >>    
