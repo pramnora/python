@@ -6,8 +6,9 @@ UPDATED: Thu 10th April 2025 13:36 PM GMT
 PROGRAM: FIRST DRAFT
 
 At first, I started with the following code...;   
-which uses a combination of LOGO Turtle graphics(Python library)/  
-and, Python 'for' loop to draw a simple 4 sided square onto the output screen.  
+which uses a combination of LOGO Turtle graphics(Python library)/   
+and, Python programming language 'for' loop code...     
+to draw a simple 4 sided square onto the output screen.    
 
 >>import turtle  
 >>for drawSquare in range(1,5):  
@@ -19,10 +20,13 @@ and, Python 'for' loop to draw a simple 4 sided square onto the output screen.
 PROGRAM: SECOND DRAFT
 
 Next, I decided to change the above code into becoming   
-a self-contained function call;    
-with the function having 'a specific shape name';  
-because it was a function call...  
-I decided to call it by passing in a number of variable arguments, namely:    
+a 'self-contained' function call;    
+with the function having 'a specific shape name': drawSquare().   
+  
+Because it was a function call...  
+rather than 'hard code' the function...each time;  
+meaning, having to enter into the function itself to change number;      
+I decided to call it by passing in 3 variable arguments, namely:      
 length/degrees/totalSides.  
 
 >>import turtle  
@@ -42,8 +46,8 @@ In my 3rd program iteration,
 I decided to create 2 entirely different shapes...;    
 by using the same function code above...  
 (just use 'copy and paste'/then, 'rename' the function);    
-the first function call would draw a triangle;    
-the second function call would draw a square;  
+the first function call would draw a triangle: drawTriangle();      
+the second function call would draw a square: drawSquare();    
 with each function call being made separately.    
 
 >>import turtle  
@@ -62,8 +66,6 @@ with each function call being made separately.
 >>  
 >>drawTriangle(100,120,3)  # draws a Triangle shape  
 >>drawSquare(100,90,4)     # draws a Square shape  
-
--(**PROGRAMMING TIP**: **DRY** - *D*o NOT *R*epeat *Y*ourself.)-  
 
 -----
 
@@ -85,9 +87,38 @@ so, I decided to rename the function as being called, more generically, drawShap
 >>drawShape(100,120,3)  # draws a Triangle shape  
 >>drawShape(100,90,4)   # draws a Square shape  
 
+-(**PROGRAMMING TIP**: **DRY** - *D*on't *R*epeat *Y*ourself.)-  
+
 -----
 
 PROGRAM: FORTH DRAFT
 
+In my next iteration...I decided to *optimize* the code...;     
+which I thought was just a bit too long.  
+
+For this step, I made 2 changes...  
+
+Change number 1: Make the code more compact...  
+
+>>noOfSides=totalSides  
+..wasn't necessary. I could delete that line; by placing 'noOfSides' in the function call parameter list:   
+>>def drawShape(length,degrees,noOfSides):         
+
+Change number 2: Get rid of the degrees variable...; and, let the program itself calculate the number of sides(360/degrees).   
+
+The 'shortened' code, now looked like this...;  
+and, just to test that it worked...I decided to add another function call: draw a pentagon shape with 5 sides.  
+
+>>import turtle  
+>>    
+>>def drawShape(length,degrees,noOfSides):         
+>>noOfSides=totalSides  
+>>for drawShape in range(1,noOfSides+1):    
+>>    turtle.forward(length)    
+>>    turtle.left(360/degrees)  
+>>
+>>drawShape(100,120,3)  # draws a Triangle shape/(3 sides)   
+>>drawShape(100,90,4)   # draws a Square shape/(4 sides)  
+>>drawShape(100,90,4)   # draws a Pentagon shape/(5 sides)  
 
  
