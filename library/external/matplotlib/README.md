@@ -11,15 +11,17 @@ Playing around with learning to use Matplotlib...
 
 ## Links
 
-- https://matplotlib.org/
+- https://matplotlib.org/  
+- https://matplotlib.org/stable/plot_types/index.html  
+- https://matplotlib.org/stable/users/explain/quick_start.html#quick-start  
 
-GitHub source code for Matplotlib  
--  https://github.com/matplotlib/matplotlib
+GitHub source code for Matplotlib    
+-  https://github.com/matplotlib/matplotlib  
 
 ## Tutorials  
 
-W3Schools introduction to Matplotlib  
-- https://www.w3schools.com/python/matplotlib_intro.asp  
+W3Schools introduction to Matplotlib   
+- https://www.w3schools.com/python/matplotlib_intro.asp    
 
 -----
 
