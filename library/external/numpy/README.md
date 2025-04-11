@@ -16,6 +16,8 @@ I'm a total beginner who is *new* to learning how to use Python Numpy library.
 W3Schools Numpy Tutorial  
 - https://www.w3schools.com/python/numpy/default.asp
 
+-----
+
 ## Videos
 
 ### YouTube
