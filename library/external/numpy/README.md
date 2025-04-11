@@ -22,5 +22,13 @@ W3Schools Numpy Tutorial
 
 ### YouTube
 
-Python NumPy Tutorial for Beginners (Channel: freeCodeCamp.org)    
+Python NumPy Tutorial for Beginners / (Channel: freeCodeCamp.org)    
 - https://www.youtube.com/watch?v=QUT1VHiLmmI&t=2228s
+
+NumPy for Beginners in 15 minutes | Python Crash Course / (Channel: Nicholas Renotte)  
+- https://www.youtube.com/watch?v=uRsE5WGiKWo
+
+Complete Python NumPy Tutorial (Creating Arrays, Indexing, Math, Statistics, Reshaping) / (Channel: Keith Galli)  
+- https://www.youtube.com/watch?v=GB9ByFAIAH4&t=1200s  
+
+
