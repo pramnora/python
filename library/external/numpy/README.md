@@ -31,4 +31,6 @@ NumPy for Beginners in 15 minutes | Python Crash Course / (Channel: Nicholas Ren
 Complete Python NumPy Tutorial (Creating Arrays, Indexing, Math, Statistics, Reshaping) / (Channel: Keith Galli)  
 - https://www.youtube.com/watch?v=GB9ByFAIAH4&t=1200s  
 
-
+Ultimate Guide to NumPy Arrays - VERY DETAILED TUTORIAL for beginners! / (Channel: Python Simplified)  
+- https://www.youtube.com/watch?v=lLRBYKwP8GQ&pp=0gcJCX4JAYcqIYzv
+  
