@@ -261,12 +261,12 @@ But, the message said I need to use the following code...
 
 Then, I tried typing in, again...
 
-> python3 -m venv .venv
-> source .venv/bin/activate
+> python3 -m venv .venv  
+> source .venv/bin/activate  
 
-...then, my prompt became this...
+...then, my prompt became this...  
 
-> (.vewv) x@playround:~$  
+> (.venv) x@PythonPlayground:~$  
 
 -----
 
