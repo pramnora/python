@@ -118,6 +118,10 @@ C:\>python -m pip install --upgrade pip
 C:\Users\customer1>pip --version
 pip 20.1 from c:\users\customer1\appdata\local\programs\python\python38-32\lib\site-packages\pip (python 3.8)
 
+UPGRADE PIP ON LINUX MINT OS  
+
+$ python3 -m pip install --upgrade pip   
+
 -----
 
 HOW TO FIND FURTHER PIP COMMANDS
