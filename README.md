@@ -166,8 +166,8 @@ PYTHON TURTLE GRAPHICS
 >>import turtle  
 >>for drawSquare in range(1,5):  
 >>	turtle.forward(100)  
->>	turtle.left(90)  
->>  
+>>	turtle.left(90)   
+>>       turtle.done() # holds the window open so that users can view the output/click window [x] to close.   
 
 -----
 
