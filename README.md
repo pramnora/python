@@ -241,6 +241,35 @@ Package authors use PyPI to distribute their software. Learn how to package your
 
 -----
 
+CREATE A VIRTUAL ENVIROMENT (.venv)  
+
+I was watching the 'beginners' YouTube tutorial:  
+
+**How to Create a Web Application in Python using Flask**  
+- https://www.youtube.com/watch?v=jQjjqEjZK58  
+
+
+-(NOTE: These instuctions are for Linux Mint OS.)-
+
+I tried typing in...
+
+> python3 -m venv .venv
+
+But, the message said I need to use the following code...
+
+> apt install python3.10-venv
+
+Then, I tried typing in, again...
+
+> python3 -m venv .venv
+> source .venv/bin/activate
+
+...then, my prompt became this...
+
+> (.vewv) x@playround:~$  
+
+-----
+
 ## LINKS
 
 ### DOWNLOAD  
