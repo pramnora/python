@@ -192,9 +192,9 @@ Python Math library
 
 >>from math import *  
 >>for x in range(1,13):  
->>   print(x,"=",factorial(x))  
+>>   print(x,"=",math.factorial(x))  
 >>  
->>pi  
+>>math.pi  
 >>3.141592653589793  
 
 -----
@@ -266,7 +266,7 @@ Then, I tried typing in, again...
 
 ...then, my prompt became this...  
 
-> (.venv) x@PythonPlayground:~$  
+> (.venv) username@hostname:~$  
 
 -----
 
