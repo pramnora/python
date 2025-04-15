@@ -1,6 +1,6 @@
-import pandas as pd                # import pandas library...
-df_file1 = pd.read_csv("data.csv") # load in data from external file called: data.csv
-print(pd.DataFrame(df_file1))      # printout data file as being a pandas data frame table(rows, cols) chart
+import pandas as pd           # import pandas library...
+df = pd.read_csv("data.csv")  # load in data from external file called: data.csv
+print(pd.DataFrame(df))       # printout data file as being a pandas data frame table(rows, cols) chart
 
 # -----------------------------------------------------
 
