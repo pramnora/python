@@ -17,7 +17,7 @@ Flask, is a Python framework which allows one to build web pages.
 
 (
 
->from flask import Flask
+>from flask import Flask  
 >app = Flask(__name__)
 >@app route('/')  
 >def hw():  
@@ -31,6 +31,9 @@ Flask, is a Python framework which allows one to build web pages.
 
 2- If Flask is not already installed...; you can install it by using the command:    
 >pip install flask      
+
+3. The above code was borrowed from:
+- https://www.geeksforgeeks.org/flask-creating-first-simple-application/  
 
 
 ## Links
