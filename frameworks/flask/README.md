@@ -20,3 +20,8 @@ Flask, is a Python framework which allows one to build web pages.
 Simple Web App with Flask and Heroku - Python GUI for Beginners (Channel: Python Simplified)  
 - https://www.youtube.com/watch?v=6plVs_ytIH8  
 
+### Flask site hosting
+
+PythonAnywhere.com  
+- https://www.pythonanywhere.com
+  
