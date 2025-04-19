@@ -2,7 +2,7 @@ from flask import Flask
 
 app = Flask(__name__)
 
-webPage1='''
+homepage='''
 <!DOCTYPE html>
 <html lang="en">
  <head>
@@ -16,7 +16,7 @@ webPage1='''
 '''
 
 @app.route('/')
-def homepage():
+def home():
     return webPage1
 
 if __name__ == '__main__':
