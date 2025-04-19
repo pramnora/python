@@ -18,3 +18,6 @@ webPage1='''
 @app.route('/')
 def hw():
     return webPage1
+
+if __name__ == '__main__':
+    app.run(debug=True)
