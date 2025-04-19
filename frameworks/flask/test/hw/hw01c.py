@@ -1,4 +1,3 @@
-  GNU nano 6.2                       flask1c.py                                 
 from flask import Flask
 
 app = Flask(__name__)
