@@ -52,7 +52,11 @@ in order to see what the correctly formatted code looks like. Here is the link:
 6. In order to see the code up and working inside of your own web browser...; go to your local host URL address:    
 - http://127.0.0.1:5000  
 ...and, there you should witness seeing the 'output' of your very first 1st Flask web page app.  
-Warmest congratulations! ;-)   
+Warmest congratulations! ;-)
+
+7. When you wish to shut down the web server...; and, thus, stop the web page output from running...  
+[CTRL]+[C]  
+...which will allow you to still continue editing.  
 
 -----  
 
