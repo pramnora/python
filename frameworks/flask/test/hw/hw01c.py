@@ -17,7 +17,7 @@ homepage='''
 
 @app.route('/')
 def home():
-    return webPage1
+    return homepage
 
 if __name__ == '__main__':
     app.run(debug=True)
