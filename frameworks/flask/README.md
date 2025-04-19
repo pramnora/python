@@ -37,6 +37,11 @@ Flask, is a Python framework which allows one to build web pages.
 3. The above code was borrowed from:
 - https://www.geeksforgeeks.org/flask-creating-first-simple-application/  
 
+4. In order to see the code up and working inside of your own web browser...; go to URL:  
+- http://127.0.0.1:5000  
+...and, there you should witness seeing the output of your very first 1st Flask web page app.  
+Warmest congratulations! ;-)   
+
 
 ## Links
 
