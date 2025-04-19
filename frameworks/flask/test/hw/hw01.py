@@ -29,9 +29,14 @@ if name == __main__:
 '''
 The above code was 'tested' to work on: PC/Linux Mint OS/Nano editor.
 
+RUN THE PYTHON FILE: [filename.py]  
 In order to run the above...in the Linux terminal type:  
 >Python3 hw01.py
 
+VIEW THE OUTPUT IN YOUR WEB BROWSER  
 In order to view the code output inside of your 'default' web browser software:  
 - http://127.0.0.1:5000  
+
+HOW TO STOP THE WEB SERVER RUNNING  
+[CTRL]+[C], shuts down the web server...so, that you can continuing editing.
 '''
