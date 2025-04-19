@@ -1,6 +1,6 @@
 from flask import Flask  
 app = Flask(__name__)  
-@app route('/')  
+@app.route('/')  
 def hw():  
     return 'Hello, world! From Flask app'  
 if name == __main__:
