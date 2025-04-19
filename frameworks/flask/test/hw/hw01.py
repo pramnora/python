@@ -20,3 +20,18 @@ def hw():
 
 if name == __main__:
     app.run(debug=True)
+
+
+# --------------------
+# Some further notes:- 
+# --------------------
+
+'''
+The above code was 'tested' to work on: PC/Linux Mint OS/Nano editor.
+
+In order to run the above...in the Linux terminal type:  
+>Python3 hw01.py
+
+In order to view the code output inside of your 'default' web browser software:  
+- http://127.0.0.1:5000  
+'''
