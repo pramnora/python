@@ -25,6 +25,8 @@ Flask, is a Python framework which allows one to build web pages.
 >if __name__ == __main__:  
 >app.run(debug=True)
 
+Thus, it took no more than just 7 lines of code to go create a Flask app. How totally 'cool' is that...?!  
+
 -----  
 
 **NOTE(S)**: 
@@ -37,9 +39,12 @@ Flask, is a Python framework which allows one to build web pages.
 3. The above code was borrowed from:
 - https://www.geeksforgeeks.org/flask-creating-first-simple-application/  
 
-4. In order to see the code up and working inside of your own web browser...; go to URL:  
+4. In order to run the above code, use command:  
+>Python3 flask1.py  
+
+5. In order to see the code up and working inside of your own web browser...; go to your local host URL address:    
 - http://127.0.0.1:5000  
-...and, there you should witness seeing the output of your very first 1st Flask web page app.  
+...and, there you should witness seeing the 'output' of your very first 1st Flask web page app.  
 Warmest congratulations! ;-)   
 
 -----  
