@@ -7,10 +7,10 @@ homepage='''
 <html lang="en">
  <head>
   <meta charset="UTF-8">
-  <title>Web page testing...</title>
+  <title>Homepage</title>
  </head>
  <body>
-  <p>This is my 1st Flask web page...! ;-)</p>
+  <p>Welcome to my Flask homepage! ;-)</p>
  </body>
 </html>
 '''
