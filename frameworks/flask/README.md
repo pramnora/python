@@ -74,4 +74,10 @@ Simple Web App with Flask and Heroku - Python GUI for Beginners (Channel: Python
 
 PythonAnywhere.com  
 - https://www.pythonanywhere.com
+
+### Example codes...
+
+Article: Answer to ?: How to create a simple Flask application    
+- https://www.geeksforgeeks.org/flask-creating-first-simple-application/  
+ 
   
