@@ -31,18 +31,23 @@ Thus, it took no more than just 7 lines of code to go create a Flask app. How to
 
 **NOTE(S)**: 
 
-1- The above code was tested using: PC/Linux Mint OS/Nano editor  
+1- For some weird reason the above code has not been formatted properly on GitHub web pages...;  
+Git Hub is taking out the double underscores(__) that are meant go either side of 'name/main'...;      
+so, in that case, I would recommend you look at the file called: flask1.app in the 'test' directory;     
+to see what the correctly formatted code looks like. -Thanks!   
 
-2- If Flask is not already installed...; you can install it by using the command:    
+2- The above code was tested using: PC/Linux Mint OS/Nano editor  
+
+3- If Flask is not already installed...; you can install it by using the command:    
 >pip install flask      
 
-3. The above code was borrowed from:
+4. The above code was borrowed from:
 - https://www.geeksforgeeks.org/flask-creating-first-simple-application/  
 
-4. In order to run the above code, use command:  
+5. In order to run the above code, use command:  
 >Python3 flask1.py  
 
-5. In order to see the code up and working inside of your own web browser...; go to your local host URL address:    
+6. In order to see the code up and working inside of your own web browser...; go to your local host URL address:    
 - http://127.0.0.1:5000  
 ...and, there you should witness seeing the 'output' of your very first 1st Flask web page app.  
 Warmest congratulations! ;-)   
