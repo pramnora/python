@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 # Now, set a home page route...  
 
-@app route('/')  
+@app.route('/')  
 
 # Create a function that returns a certain value...to be written to the output web page...  
 
