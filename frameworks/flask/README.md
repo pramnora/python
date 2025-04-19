@@ -55,7 +55,9 @@ in order to see what the correctly formatted code looks like. Here is the link:
 Warmest congratulations! ;-)
 
 7. When you wish to shut down the web server...; and, thus, stop the web page output from running...  
-[CTRL]+[C]  
+
+>[CTRL]+[C]  
+
 ...which will allow you to still continue editing:  
 >nano hw01.py        
 
