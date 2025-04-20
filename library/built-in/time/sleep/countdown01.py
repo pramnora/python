@@ -1,5 +1,5 @@
 import time
-print("Waiting for 10 seconds...")
+print("Counting down for 10 seconds...")
 maxNo=10
 for countdown in range(maxNo+1,1,-1):
     print(countdown-1)
