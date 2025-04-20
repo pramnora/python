@@ -19,3 +19,10 @@ def pageNo3():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+'''
+NOTE: If the called: 3 x '.html' files...
+have not been placed inside of a folder called: templates;
+then, the Flask application 'cannot' find them...???
+Thus, nothing will be displayed except just error messages...?!
+'''
