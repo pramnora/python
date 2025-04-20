@@ -4,7 +4,7 @@ maxNo=10
 for countdown in range(maxNo+1,1,-1):
     print(countdown-1)
     time.sleep(1)
-print("-Finished countdown.")
+print("...finished countdown.")
 
 # printout...
 # Waiting for 10 seconds...
@@ -18,4 +18,4 @@ print("-Finished countdown.")
 # 3
 # 2
 # 1
-# ...Finished countdown!
+# ...finished countdown!
