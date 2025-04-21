@@ -25,7 +25,7 @@ Flask, is a Python framework which allows one to very quickly and easily build/t
 >if __name__ == __main__:  
 >app.run(debug=True)
 
-Thus, it took no more than merely just 7 lines of code...to go create a Flask app. How totally 'cool' is that...?!  
+Thus, it took no more than merely just 7 lines of code...to go create a Flask web server app. How totally 'cool' is that...?!  
 
 -----  
 
