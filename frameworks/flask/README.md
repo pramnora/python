@@ -3,7 +3,7 @@
 -----
 
 Created: *Wed 15th Feb 2023 11:51 PM GMT*  
-Updated: *Sat 19th Apr 2023 20:05 PM GMT*
+Updated: *Mon 21st Apr 2025 02:35 AM GMT*
 
 -----
 
@@ -79,5 +79,10 @@ PythonAnywhere.com
 
 Article: Answer to ?: How to create a simple Flask application    
 - https://www.geeksforgeeks.org/flask-creating-first-simple-application/  
- 
-  
+
+Article: Digital Ocean: How to Build a Flask Python Web Application from Scratch  
+- https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
+
+Article: Digital Ocean: How and When to Use Sqlite  
+- https://www.digitalocean.com/community/tutorials/how-and-when-to-use-sqlite  
+
