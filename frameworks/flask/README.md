@@ -51,6 +51,8 @@ in order to see what the correctly formatted code looks like. Here is the link:
 
 6. In order to see the code up and working inside of your own web browser...; go to your local host URL address:    
 - http://127.0.0.1:5000  
+...or, alternatively, you can type, instead:  
+- http://localhost:5000      
 ...and, there you should witness seeing the 'output' of your very first 1st Flask web page app.  
 Warmest congratulations! ;-)
 
