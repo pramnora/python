@@ -310,8 +310,10 @@ PyTwiddle.com
 - http://www.pythontutor.com
 - https://www.learnpython.org  
 - https://app.datacamp.com/  
-- https://www.datacamp.com/tutorial  
+- https://www.datacamp.com/tutorial
 
+FREE online eBook: Digital Ocean: How to code in Python3    
+- https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python  
 
 Neetcode.io  
 - https://neetcode.io/problems/python-hello-world   
