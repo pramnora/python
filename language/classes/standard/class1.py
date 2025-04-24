@@ -5,13 +5,21 @@
 # This example tries to break down the properties of a class...
 # into its various different parts and pieces...
 
-class Class_name:
+# --------------------------------------------------------------- 
+
+# NOTES:-
+# NOTE(1): The first letter of the class name is Capitalised
+# NOTE(2): self, will be replaced by the: instance_name
+
+# --------------------------------------------------------------- 
+
+class Class_Name:
     def __init__(self,var1):
         self.var1=var1
 
-Instance_name: Class_name=Class_name(var1='Testing...') # intialise var1
+instance_name: Class_Name=Class_Name(var1='Testing...') # intialise var1
 
 # printouts...
 print("Printing...")
-print(f"Instance_name:",Instance_name) # just prints out the memory address
-print(f"Instance_name.var1:", Instance_name.var1) # prints variable value
+print(f"instance_name:",instance_name) # just prints out the memory address
+print(f"instance_name.var1:", instance_name.var1) # prints variable value
