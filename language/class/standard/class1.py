@@ -23,4 +23,4 @@ instance_name: Class_Name=Class_Name(var1='Testing...') # intialise var1
 print("Printing...")
 print("-"*11) # print underline for heading text
 print(f"instance_name:",instance_name) # just prints out the Class_Name memory address
-print(f"instance_name.var1:", instance_name.var1) # prints variable value
+print(f"instance_name.var1:", instance_name.var1) # prints variable value: Testing...
