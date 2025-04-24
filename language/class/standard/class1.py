@@ -8,8 +8,12 @@
 # --------------------------------------------------------------- 
 
 # NOTES:-
+
 # NOTE(1): The first letter of the class name is Capitalised
 # NOTE(2): inside the class, 'self', will be replaced by the: instance_name
+# NOTE(3): Carefully, note where to use colons...
+#          The class name:/def __init__():/instance name:
+#          ...each of the above should end with a colon(:) 
 
 # --------------------------------------------------------------- 
 
