@@ -6,16 +6,16 @@ class Class_Name:
     var2:int
     var3:list[str]
 
-# declare instance variable: test_case...;
-# and, initialise all 3 variables above
+# declare name of instance: instance_name...;
+# and, initialise all 3 variables: var1, var2, var3
 
-test_case:Class_Name=Class_Name("Anystring",0,['a','b','c'])
+instance_name:Class_Name=Class_Name("Anystring",0,['a','b','c'])
 
 # do printouts...
 
-print(test_case)                     # prints: Class_Name('Anystring', var2=0, var3=['a','b','c'])
-print("var1: ",test_case.var1)       # prints: Anystring
-print("var2: ",test_case.var2)       # prints: 0
-print("var3: ",test_case.var3)       # prints: ['a','b','c']
-print("var3[0]: ",test_case.var3[0]) # prints: a
+print(instance_name)                     # prints: Class_Name('Anystring', var2=0, var3=['a','b','c'])
+print("var1: ",instance_name.var1)       # prints: Anystring
+print("var2: ",instance_name.var2)       # prints: 0
+print("var3: ",instance_name.var3)       # prints: ['a','b','c']
+print("var3[0]: ",instance_name.var3[0]) # prints: a
 
