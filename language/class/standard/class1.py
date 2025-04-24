@@ -17,7 +17,7 @@ class Class_Name:
     def __init__(self,var1):
         self.var1=var1
 
-instance_name: Class_Name=Class_Name(var1='Testing...') # intialise var1
+instance_name: Class_Name=Class_Name(var1='Testing...') # declare instance_name/plus, intialise var1
 
 # printouts...
 print("Printing...")                                    # print heading text: Printing... 
