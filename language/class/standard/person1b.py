@@ -7,7 +7,7 @@
 # https://www.youtube.com/watch?v=E9tl3hP03lk
 # --------------------------------------------------------------- 
 # This is my own adaptation of the code...; using a short form...
-# Here I did not include explicit variable types: str,int,list[str]:
+# Here I did not include explicit variable types: str,int,list[str],None:
 
 class Person:
     def __init__(self, name, age, friends):
