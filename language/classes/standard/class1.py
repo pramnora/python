@@ -9,7 +9,7 @@
 
 # NOTES:-
 # NOTE(1): The first letter of the class name is Capitalised
-# NOTE(2): self, will be replaced by the: instance_name
+# NOTE(2): inside the class, 'self', will be replaced by the: instance_name
 
 # --------------------------------------------------------------- 
 
