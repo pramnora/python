@@ -14,8 +14,8 @@
 # --------------------------------------------------------------- 
 
 class Class_Name:                                       # declare class name
-    def __init__(self,var1):                            # initialise it's parameter argument names
-        self.var1=var1                                  # set the instance variable value of: var1
+    def __init__(self,var1):                            # initialise the class parameter argument names
+        self.var1=var1                                  # set the class instance name variable value of: var1
 
 instance_name: Class_Name=Class_Name(var1='Testing...') # declare instance_name/plus, intialise var1
 
