@@ -3,8 +3,8 @@
 
 -----
 
-# Streamlit web sites...
-## Concerning site structure/and, also, specific page order/numbering  
+# Creating web sites using Streamlit...  
+## Concerning web site structure/and, also, specific page order/numbering    
 
 In order to create a web site using Streamlit...;  
 one has to pay careful attention how to structure your site/  
