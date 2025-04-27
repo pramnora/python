@@ -51,6 +51,9 @@ In order to work with Streamlit...; first, you have to install it onto the user 
 
 In my own personal experience this has been a total *game changer* when it comes to writing web pages.  
  
+
+**NOTE**: Streamlit uses Markdown for title headings text...which may be different sizes.
+
 -----
 
 ## Links
