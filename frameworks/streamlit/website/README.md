@@ -26,6 +26,8 @@ Each page is numbered at the start...
 
 ...and, the pages will be displayed with a menu that shows that specific order of page arrangment.  
 
+-----
+
 In order to run the site...you type in at your browsers terminal window command:  
 
 > streamlit run main.py  
@@ -35,3 +37,17 @@ In order to run the site...you type in at your browsers terminal window command:
 > http://localhost:5001  
 
 ...you go over to your web browser; and, type in that URL in order to view the website 'output'.  
+
+If you wish to stop the site running...just type in...at the terminal window.
+
+[CTRL]+[C]  
+
+...which will stop the web server running.  
+
+NOTE: 
+
+- If your web browser already had opened windows before...; then, those windows will still remain open.  
+
+- If your web browser was opened from Streamlit itself...; then, it will automatically close the web browser down...  
+whenever you choose to stop the web sever running, anymore.  
+  
