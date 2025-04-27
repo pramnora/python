@@ -25,3 +25,13 @@ Each page is numbered at the start...
 > 3_anyPageName.py  
 
 ...and, the pages will be displayed with a menu that shows that specific order of page arrangment.  
+
+In order to run the site...you type in at your browsers terminal window command:  
+
+> streamlit run main.py  
+
+...you will get instruction of which browser URL to type in to view your web page...  
+
+> http://localhost:5001  
+
+...you go over to your web browser; and, type in that URL in order to view the website 'output'.  
