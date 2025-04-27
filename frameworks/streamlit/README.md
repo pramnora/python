@@ -13,9 +13,13 @@ or, in other words, you don't need to use any: HTML/CSS/Javascript.
 - You write the Streamlit code  
 - Save the file with a [filename.py] extension  
 - Run the file using command:  
+
 > Python3 streamlit run filename.py
+
 - Next, move over to your web browser software, and, type in URL:
-> localhost:5001  
+
+> localhost:5001   
+
 ...and, there you will see the web browser output appear.  
 
 In my own personal experience this has been a total *game changer* when it comes to writing web pages.  
