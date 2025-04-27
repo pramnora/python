@@ -11,7 +11,7 @@ Streamlit, is a web page framework...which allows Python developers to 'write/ru
 or, in other words, you don't need to use any: 'HTML/CSS/Javascript'.  
 
 **NOTE**: There is an awful lot you can do with Streamlit...;   
-but, as I'm really just a beginner who is new to this...;  
+but, as I'm really just a total beginner who is entirely *new* to learning how to use this...;  
 therefore, I can hardly claim to be able to show you everything.
 
 I have learned that Streamlit applications work very well in conjuction with libraries such as:  
