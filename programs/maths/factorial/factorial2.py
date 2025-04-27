@@ -18,7 +18,6 @@ number=5
 result=factorial(number)
 print(f"The factorial of {number} is: {result}")
  
-
 # loop run...
 # result i result*i
 # 1      2 2
