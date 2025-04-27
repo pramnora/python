@@ -41,3 +41,7 @@ In my own personal experience this has been a total *game changer* when it comes
 -----
 
 ## YouTube tutorials  
+
+Streamlit Introduction | Complete Streamlit Python Course | Streamlit Tutorial 1 - (Channel: Nileg Production)   
+- https://www.youtube.com/watch?v=RjiqbTLW9_E&list=PLa6CNrvKM5QU7AjAS90zCMIwi9RTFNIIW
+- 
