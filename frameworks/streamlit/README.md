@@ -61,4 +61,9 @@ Build a Python Website in 15 Minutes With Streamlit/(Channel: Tech with Tim)
 - https://www.youtube.com/watch?v=2siBrMsqF44
 
 Creating Web App With Python Streamlit - Lesson 1/(Channel: Turtle Code)    
-- https://www.youtube.com/watch?v=rMLwiVrK3Fw&list=PLMi6KgK4_mk2rK5jD-BK5RigFIP2QSq8W  
+- https://www.youtube.com/watch?v=rMLwiVrK3Fw&list=PLMi6KgK4_mk2rK5jD-BK5RigFIP2QSq8W
+
+Streamlit: The Fastest Way To Build Python Apps?/(Channel: pixiegami)  
+- https://www.youtube.com/watch?v=D0D4Pa22iG0&t=41s
+
+
