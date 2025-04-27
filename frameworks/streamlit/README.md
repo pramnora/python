@@ -7,8 +7,17 @@
 
 ## Introduction
 
-Right now, I'm just starting out with my Streamlit journey...
+Streamlit, is a web page framework...which allows Python developers to write web pages using just pure Python codes;  
+or, in other words, you don't need to use any: HTML/CSS/Javascript.  
 
+- You write the Streamlit code  
+- Save the file with a [filename.py] extension  
+- Run the file using command:  
+> Python3 streamlit run filename.py
+- Next, move over to your web browser software, and, type in URL:
+> localhost:5001  
+...and, there you will see the web browser output appear.  
+ 
 -----
 
 ## Links
