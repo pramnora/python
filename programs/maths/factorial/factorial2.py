@@ -6,9 +6,9 @@
 # ------------------------------------------
 
 def factorial(n):
-    if n==0 or n==1: # if n is 0/or, n is 1...
-       return 1      # ...then, return 1
-    else:            # if n > 1/and, n > 0...then, use loop to calculate result
+    if n==0 or n==1:          # if n is 0/OR n is 1...
+       return 1               # ...then, return 1
+    else:                     # else if n > 0/AND n > 1...then, use loop to calculate result
        result=1
        for i in range(2,n+1): # loop counts from 2 up to 5
            result*=i          # calculate result
