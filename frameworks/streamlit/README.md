@@ -11,10 +11,18 @@ Streamlit, is a web page framework...which allows Python developers to write web
 or, in other words, you don't need to use any: HTML/CSS/Javascript.  
 
 - You write the Streamlit code  
-- Save the file with a [filename.py] extension  
+
+> import streamlit as st
+> st.write("""
+> # Test web page
+> Hello, world! From Streamlit
+> """)
+
+- Save the file with a [filename.py] extension: [hw01.py]    
+
 - Run the file using command:  
 
-> Python3 streamlit run filename.py
+> Python3 streamlit run hw01.py  
 
 - Next, move over to your web browser software, and, type in URL:
 
