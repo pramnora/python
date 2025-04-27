@@ -20,8 +20,8 @@ There should be a file called:
 ...inside of the pages folder that's where pages are stored.  
 Each page is numbered at the start...  
 
-> 1_anyPagName.py  
+> 1_anyPageName.py  
 > 2_anyPageName.py  
-> 3_anyPagName.py  
+> 3_anyPageName.py  
 
-...and, the pages will be displayed using a menu which shows that specific order.  
+...and, the pages will be displayed with a menu that shows that specific order of page arrangment.  
