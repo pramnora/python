@@ -12,11 +12,11 @@ or, in other words, you don't need to use any: HTML/CSS/Javascript.
 
 - You write the Streamlit code  
 
-> import streamlit as st
-> st.write("""
-> # Test web page
-> Hello, world! From Streamlit
-> """)
+> import streamlit as st  
+> st.write("""  
+> # Test web page  
+> Hello, world! From Streamlit  
+> """)  
 
 - Save the file with a [filename.py] extension: [hw01.py]    
 
