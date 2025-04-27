@@ -54,10 +54,11 @@ In my own personal experience this has been a total *game changer* when it comes
 
 ## YouTube tutorials  
 
-Streamlit Introduction | Complete Streamlit Python Course | Streamlit Tutorial 1 - (Channel: Nileg Production)   
+Streamlit Introduction | Complete Streamlit Python Course | Streamlit Tutorial 1/(Channel: Nileg Production)   
 - https://www.youtube.com/watch?v=RjiqbTLW9_E&list=PLa6CNrvKM5QU7AjAS90zCMIwi9RTFNIIW
 
-Build a Python Website in 15 Minutes With Streamlit  
+Build a Python Website in 15 Minutes With Streamlit/(Channel: Tech with Tim)  
 - https://www.youtube.com/watch?v=2siBrMsqF44
 
-- 
+Creating Web App With Python Streamlit - Lesson 1/(Channel: Turtle Code)    
+- https://www.youtube.com/watch?v=rMLwiVrK3Fw&list=PLMi6KgK4_mk2rK5jD-BK5RigFIP2QSq8W  
