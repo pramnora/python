@@ -18,7 +18,7 @@ def hw():
 # Finally call the app to run...;  
 # and, also, set: debug=True...so, that one can get to read any error output messages...  
 
-if __name__ == __main__:
+if __name__ == '__main__':
     app.run(debug=True)
 
 
