@@ -11,7 +11,9 @@ This code is course Project related.
 
 It is divided up into being various separate folders:
 
-01 - simple homepage which outputs a 'Welcome' message. 
+01 - simple homepage creates a web server which, then, outputs a 'Welcome' message using: [templates/index.html]. 
+
+**NOTE**: Web pages to be served up are stored inside of the folder called: 'templates'. 
 
 -----
 
