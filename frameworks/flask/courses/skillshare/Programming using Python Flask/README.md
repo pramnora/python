@@ -7,13 +7,15 @@ This GitHub repository stores my codes as related to following along with the Sk
 
 **Programming using Python Flask**
 
+-----
+
 This code is course Project related.
 
 It is divided up into being various separate folders:
 
 01 - simple homepage creates a web server which, then, outputs a 'Welcome' message using: [templates/index.html]. 
 
-**NOTE**: Web pages to be served up are stored inside of the folder called: 'templates'. 
+**NOTE**: Web pages to be served up are stored inside of a sub-directory folder called: 'templates'. 
 
 -----
 
