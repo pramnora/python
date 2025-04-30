@@ -3,7 +3,7 @@
 
 -----
 
-This GitHub repository stores my codes as related to following along the Skillshare course, called:  
+This GitHub repository stores my codes as related to following along with the Skillshare course, called:  
 
 **Programming using Python Flask**
 
