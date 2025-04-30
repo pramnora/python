@@ -9,7 +9,7 @@ This GitHub repository stores my codes as related to following along with the Sk
 
 -----
 
-This code is course Project related.
+These codes are all course Project related.
 
 It is divided up into being various separate folders:
 
