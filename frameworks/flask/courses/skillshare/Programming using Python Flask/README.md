@@ -4,11 +4,13 @@
 -----
 
 This GitHub repository stores my codes as related to following along the Skillshare course, called:  
-Programming using Python Flask
+**Programming using Python Flask**
+
+This code is course Project related.
 
 It is divided up into being various separate folders:
 
-01 - simple homeapge which outputs a 'Welcome' message. 
+01 - simple homepage which outputs a 'Welcome' message. 
 
 -----
 
