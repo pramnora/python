@@ -4,6 +4,7 @@
 -----
 
 This GitHub repository stores my codes as related to following along the Skillshare course, called:  
+
 **Programming using Python Flask**
 
 This code is course Project related.
