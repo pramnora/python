@@ -14,13 +14,12 @@
 # ---------------------------------------------------
 # BUGS FOUND LIST...
 # 1. When the program is first run...; 
-#    one needs to give it a file name to work with;
-#    otherwise, the program bugs out...
-#    stating can't find file...?!
+#    -unless the file already exists in the current folder directory-;
+#    then, one needs to give it a file name to work with.
 # 2. Also, after giving the program a file name;
-#    one has to write to it...;
+#    one has to remember to write to it, first...;
 #    otherwise, the program will complain can't find file
-#    to read/append to.    
+#    to read/append to...?    
 # ---------------------------------------------------
 
 # initialise variables...
