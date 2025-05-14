@@ -95,7 +95,7 @@ def do_show_menu():
    print("Type: 'Q' to Quit!")
    
 def perform_user_menu_selection():
-    print("\nPlease, choose a number from main menu either: 1,2,3,4/'Q' to quit")
+    print("\nPlease, choose a number from main menu either: 1,2,3,4/or, type: 'Q' to quit")
     user_menu_selection=input("?")
     global done
     done=False
