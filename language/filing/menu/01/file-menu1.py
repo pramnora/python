@@ -15,7 +15,8 @@
 # BUGS FOUND LIST...
 # 1. When the program is first run...; 
 #    one needs to give it a file name to work with;
-#    otherwise, the program bugs out.
+#    otherwise, the program bugs out...
+#    stating can't find file...?!
 # 2. Also, after giving the program a file name;
 #    one has to write to it...;
 #    otherwise, the program will complain can't find file
