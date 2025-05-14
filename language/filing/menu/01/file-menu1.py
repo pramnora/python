@@ -22,7 +22,7 @@
 # 2. Also, after giving the program a file name;
 #    one has to remember to write to that file, first...;
 #    otherwise, the program will complain can't find file
-#    to read/append to...?    
+#    to read/append to...?!    
 # ---------------------------------------------------
 
 # initialise variables...
