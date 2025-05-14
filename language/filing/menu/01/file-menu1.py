@@ -112,7 +112,7 @@ def main():
     while True:
         do_show_menu()
         perform_user_menu_selection()
-        if done==True:
+        if done:
            break
 
 if __name__ == '__main__':
