@@ -14,10 +14,13 @@
 # ---------------------------------------------------
 # BUGS FOUND LIST...
 # 1. When the program is first run...; 
-#    -unless the file already exists in the current folder directory-;
+#    -(unless the file already exists inside of the current folder directory)-;
 #    then, one needs to give it a file name to work with.
+#    Creating the file name itself...does NOT create any file;
+#    instead, all it does is to give the program 
+#    a file name to be able to refer to/and, use, later on.
 # 2. Also, after giving the program a file name;
-#    one has to remember to write to it, first...;
+#    one has to remember to write to that file, first...;
 #    otherwise, the program will complain can't find file
 #    to read/append to...?    
 # ---------------------------------------------------
