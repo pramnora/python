@@ -77,4 +77,4 @@ for eachNum in num:
 printUnderline()
 print("Printing only the output codes having been all conjoined together...\n")
 print(output)
-print(f"={num}")
+print(f"={num}") # printing what was the original number we started with in order to compare
