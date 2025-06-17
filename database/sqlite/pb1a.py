@@ -2,12 +2,15 @@
 
 # ----------------------------------------------------------------------
 
-# PROGRAM: Creates a very simple phonebook database  
-# The database file is called: [pb1.db];  
+# PROGRAM: Creates a very simple phonebook database;  
+#          the database file is called: [pb1.db];  
+
 # it adds 3 database fields: id,name,number  
+
 # next, creates 2 separate records...
 # ...with each record containing each of the 3 above fields
 # ...having been filled in with data;  
+
 # finally prints out all records/together with all fields. 
 
 # ----------------------------------------------------------------------
