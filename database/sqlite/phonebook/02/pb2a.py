@@ -1,7 +1,11 @@
 #!/usr/bin/python3
 
 # The line above indicates where inside the Linux OS/Operating System
-# the 'python3' program can be found...it is needed to run this script.
+# the 'python3' program can be found...it is needed to run this script
+# using instructions:
+
+# $ chmod +x pb2a.py
+# $ ./pb2a.py
 
 # -------------------------------------------
 #     PROGRAM: Phonebook database
