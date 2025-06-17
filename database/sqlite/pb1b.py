@@ -1,8 +1,12 @@
 #!/usr/bin/python3
 
+# -----------------------------------
+
 # PROGRAM: Phonebook (id,name,number)
 # LANGUAGE: PYTHON3
 # DATABASE: SQLite3
+
+# -----------------------------------
 
 import sqlite3                  
 conn = sqlite3.connect('pb1.db') 
@@ -25,7 +29,11 @@ for row in cursor:
 
 conn.close() # close database
 
+# -----------------------------------
+
 # output...
+
+# -----------------------------------
 
 # ID,NAME,NUMBER
 # 1,Jack,0207 111 1111
