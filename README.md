@@ -294,6 +294,8 @@ What is more complex to achieve, however, is being able to determine...
 - how you wish to query the database  
 - what fields data you wish to see printed out   
 ...however, my repository does give some examples.  
+
+-----
   
 ## LINKS
 
