@@ -4,8 +4,8 @@
 # the 'python3' program can be found...it is needed to run this script
 # using the following instructions which are typed in after the dollar prompt:($)
 
-# $ chmod +x pb2a.py
-# $ ./pb2a.py
+# $ chmod +x pb2a.py                       # grant file executable permission
+# $ ./pb2a.py                              # run file/execute code
 
 # -------------------------------------------
 #     PROGRAM: Phonebook database
