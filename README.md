@@ -278,15 +278,15 @@ ADD A DATABASE/(SQLite)
 
 Importing a database library can be achieved by writing just 1 line of code:  
 
-> import sqlite3                        # import database: sqlite3    
+> import sqlite3   
 
 Connecting to the database can be achieved by writing just 1 line of code:   
 
-> conn = sqlite3.connect('anyName.db')  # open database connection  
+> conn = sqlite3.connect('anyName.db')
 
 Closing the database can be achieved by writing just 1 line of code:  
 
-> conn.close()                          # close database connection  
+> conn.close()
 
 What is more complex to achieve, however, is being able to determine...  
 - how many fields to add  
