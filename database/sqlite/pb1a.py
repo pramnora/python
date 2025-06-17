@@ -7,7 +7,7 @@
 # it adds 3 database fields: id,name,number  
 # next, creates 2 separate records...
 # ...with each record containing each of the 3 above fields
-# having been filled in with data;  
+# ...having been filled in with data;  
 # finally prints out all records/together with all fields. 
 
 # ----------------------------------------------------------------------
