@@ -20,12 +20,16 @@
 import sqlite3
 conn = sqlite3.connect('pb1.db') # open database
 
+# ----------------------------------------------------------------------
+
 # Create a table.../also, add a number of fields...
 
 conn.execute('''CREATE TABLE PHONEBOOK(
 ID INT PRIMARY KEY NOT NULL,
 NAME CHAR(50),
 NUMBER CHAR(20));''')
+
+# ----------------------------------------------------------------------
 
 # Insert data into each of the fields...
 
@@ -37,11 +41,15 @@ VALUES (2,'Jill','0208 222 2222')");
 
 conn.commit()
 
+# ----------------------------------------------------------------------
+
 # Print database...including, all records/all fields...
 
-cursor=conn.execute("SELECT ID, NAME, NUMBER FROM PHONEBOOK")
-print("ID,NAME,NUMBER")
-for row in cursor:
+cursor=conn.execute("SELECT ID, NAME, NUMBER FROM PHONEBOOK") # select which fields to be printed out...
+
+print("ID,NAME,NUMBER")                                       # print each of the record field headings
+
+for row in cursor:                                            # use for loop to print out each of the selected fields...
         print(f"{row[0]},{row[1]},{row[2]}")
 
 conn.close() # close database
