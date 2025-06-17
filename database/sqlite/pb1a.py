@@ -15,24 +15,26 @@
 
 # ----------------------------------------------------------------------
 
-# Create SQLite database...
+# Create SQLite3 database...
 
 import sqlite3
 conn = sqlite3.connect('pb1.db') # open database
 
-# Add a number of fields...
+# Create a table.../also, add a number of fields...
 
 conn.execute('''CREATE TABLE PHONEBOOK(
 ID INT PRIMARY KEY NOT NULL,
 NAME CHAR(50),
 NUMBER CHAR(20));''')
 
-# Insert data into fields...
+# Insert data into each of the fields...
 
 conn.execute("INSERT INTO PHONEBOOK (ID, NAME, NUMBER) \
-VALUES (1,'Jack','0207 111 1111')");  
+VALUES (1,'Jack','0207 111 1111')");
+
 conn.execute("INSERT INTO PHONEBOOK (ID, NAME, NUMBER) \
 VALUES (2,'Jill','0208 222 2222')");  
+
 conn.commit()
 
 # Print database...including, all records/all fields...
