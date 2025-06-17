@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
 # The line above indicates where inside the Linux OS/Operating System
-# the 'python3' program can be found...it is needed to run this script
-# using the following instructions which are typed in after the dollar prompt:($)
+# the 'python3' program can be found...it is needed to run this script;
+# by using the following instructions which are typed in after the dollar prompt:($)
 
 # $ chmod +x pb2a.py                       # grant file executable permission
 # $ ./pb2a.py                              # run file/execute code
