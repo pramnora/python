@@ -24,3 +24,9 @@ for row in cursor:
         print(f"{row[0]},{row[1]},{row[2]}")
 
 conn.close() # close database
+
+# output...
+
+# ID,NAME,NUMBER
+# 1,Jack,0207 111 1111
+# 2,Jill,0208 222 2222
