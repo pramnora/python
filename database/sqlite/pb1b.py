@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 
+# PROGRAM: Phonebook (id,name,number)
+# LANGUAGE: PYTHON3
+# DATABASE: SQLite3
+
 import sqlite3                  
 conn = sqlite3.connect('pb1.db') 
 
@@ -18,4 +22,5 @@ cursor=conn.execute("SELECT ID, NAME, NUMBER FROM PHONEBOOK")
 print("ID,NAME,NUMBER") 
 for row in cursor:      
         print(f"{row[0]},{row[1]},{row[2]}")
+
 conn.close() # close database
