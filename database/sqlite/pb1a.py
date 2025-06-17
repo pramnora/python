@@ -49,7 +49,7 @@ cursor=conn.execute("SELECT ID, NAME, NUMBER FROM PHONEBOOK") # select which fie
 
 print("ID,NAME,NUMBER")                                       # print each of the record field headings
 
-for row in cursor:                                            # use for loop to print out each of the selected fields...
+for row in cursor:                                            # use for loop to print out each of the selected record fields...
         print(f"{row[0]},{row[1]},{row[2]}")
 
 # ----------------------------------------------------------------------
