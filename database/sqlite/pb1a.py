@@ -52,6 +52,8 @@ print("ID,NAME,NUMBER")                                       # print each of th
 for row in cursor:                                            # use for loop to print out each of the selected fields...
         print(f"{row[0]},{row[1]},{row[2]}")
 
+# ----------------------------------------------------------------------
+
 conn.close() # close database
 
 # ----------------------------------------------------------------------
