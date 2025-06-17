@@ -1,10 +1,15 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 
-# Program creates a very simple phonebook database...;  
-# the database file is called: [pb1.db];  
-# adds 3 database fields: id,name,number  
-# next, adds 2 separate records: Jack/Jill...with each record containing each of the 3 above fields;  
-# finally prints out all records/together with all fields  
+# ----------------------------------------------------------------------
+
+# PROGRAM: Creates a very simple phonebook database  
+# The database file is called: [pb1.db];  
+# it adds 3 database fields: id,name,number  
+# next, creates 2 separate records...
+# ...with each record containing each of the 3 above fields;  
+# finally prints out all records/together with all fields. 
+
+# ----------------------------------------------------------------------
 
 import sqlite3
 conn = sqlite3.connect('pb1.db') 
@@ -27,9 +32,10 @@ for row in cursor:
 
 conn.close()
 
+# ----------------------------------------------------------------------
+
 # output...
 # ID,NAME,NUMBER
 # 1,Jack,0207 111 1111
 # 2,Jill,0208 222 2222
-
 
