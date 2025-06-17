@@ -274,6 +274,24 @@ Then, I tried typing in, again...
 
 -----
 
+ADD A DATABASE/(SQLite)
+
+Creating a database can be achieved by writing just 2 lines of code:  
+
+> import sqlite3                        # import database: sqlite3    
+> conn = sqlite3.connect('anyName.db')  # open database connection  
+
+Closing the database can be achieved by writing just 1 line of code:  
+
+> conn.close()                          # close database connection  
+
+What is more complex to achieve is being able to determine...  
+- how many fields to add  
+- what sort of data to add into each field  
+- how you wish to query the database  
+- what fields data you wish to see printed out   
+...however, my repository does give some examples.  
+  
 ## LINKS
 
 ### DOWNLOAD  
