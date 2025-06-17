@@ -17,7 +17,7 @@
 
 # Create SQLite3 database...
 
-import sqlite3
+import sqlite3                   # import sqlite3 database
 conn = sqlite3.connect('pb1.db') # open database
 
 # ----------------------------------------------------------------------
