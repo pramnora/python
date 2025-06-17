@@ -17,4 +17,4 @@ print("ID,NAME,NUMBER")
 for row in cursor:      
         print(f"{row[0]},{row[1]},{row[2]}")
 
-conn.close() # close database
+conn.close()
