@@ -4,4 +4,4 @@ from tkinter import messagebox
 root = Tk()
 root.withdraw()
 
-messagebox.showwarning("Tkinter Window","This is a warning message box!")
+messagebox.showwarning("Tkinter: Warning message box","This is a warning...!")
