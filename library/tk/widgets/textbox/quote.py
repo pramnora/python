@@ -28,4 +28,7 @@ btn_exit.pack()
 
 var_fact = "The sun shines every single day." # create variable
 textbox1.insert(tk.END, var_fact)             # Insert The Fact.
+
+# --------------------------------------------------------------- 
+
 tk.mainloop()                                 # run main window in a loop
