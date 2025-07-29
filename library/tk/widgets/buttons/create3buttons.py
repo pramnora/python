@@ -33,7 +33,7 @@ def myButton3():
 # select which function is to run when the button is clicked: command=myFuncName
 
 button1=tk.Button(root, text="Button 1",command=myButton1)
-button2=tk.Button(root, text="Button 2",command=myButton3)
+button2=tk.Button(root, text="Button 2",command=myButton2)
 button3=tk.Button(root, text="Button 2",command=myButton3)
 
 # add each button to window using pack()...which just means vertical placement...
