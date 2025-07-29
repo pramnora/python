@@ -7,7 +7,21 @@
 #  UPDATED: Tue 29th July 2025 19:47 PM GMT
 # -----------------------------------------
 
+# -------------------------------------------------------------------------------------
+
+# NOTES
+
+# This code was originally borrowed from...
+# https://www.geeksforgeeks.org/python/python-tkinter-text-widget/
+# -(Then, later on, adapted by me to suit my own specific purpose.)-
+
+# Also, I had some help with learning how to clear text box contents...
+# https://www.delftstack.com/howto/python-tkinter/how-to-clear-tkinter-text-box-widget/
+
+# -------------------------------------------------------------------------------------
+
 '''
+WHAT THE PROGRAM DOES
 This TKInter program...
 displays a list of quotes
 each of which is written into a text box...; 
