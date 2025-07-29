@@ -26,6 +26,7 @@
 #                It should say:
 #                tk.Button()
 #                tk.Label()
+#                -(NOTE: I'm using Linux Mint OS.)-
 # ---------------------------------------------------------------
 
 # make call to import all: (*) from library: tkinter... 
