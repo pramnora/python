@@ -8,7 +8,7 @@ import tkinter as tk
 
 root=tk.Tk()             # create window
 root.title("Buttons...") # set window title text
-root.geometry("300x300") # set window width x height
+root.geometry("160x160") # set window width x height
 
 # ---------------------------------------------------
 
