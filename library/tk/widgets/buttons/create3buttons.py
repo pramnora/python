@@ -32,16 +32,15 @@ def myButton3():
 # set the button text: text=""
 # select which function is to run when the button is clicked: command=myFuncName
 
+button1=tk.Button(root, text="Button 1",command=myButton1)
+button2=tk.Button(root, text="Button 2",command=myButton3)
+button3=tk.Button(root, text="Button 2",command=myButton3)
+
 # add button to window using pack()...which just means vertical placement...
 # set the padding for each button: padx (x=horizontal)/pady (y=vertical) 
 
-button1=tk.Button(root, text="Button 1",command=myButton1)
 button1.pack(padx=10,pady=10)
-
-button2=tk.Button(root, text="Button 2",command=myButton3)
 button2.pack(padx=10,pady=10)
-
-button3=tk.Button(root, text="Button 2",command=myButton3)
 button3.pack(padx=10,pady=10)
 
 # ---------------------------------------------------
