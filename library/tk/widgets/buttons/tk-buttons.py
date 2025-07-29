@@ -21,6 +21,12 @@
 #         3> Button 3/clickable...no response/with padding(x/y)
 #         4> Button 4/clickable...borderwidth/response: message 
 #----------------------------------------------------------------
+# LATEST UPDATE: Tue 290725
+#                It seems to me that this code is wrong...?!
+#                It should say:
+#                tk.Button()
+#                tk.Label()
+# ---------------------------------------------------------------
 
 # make call to import all: (*) from library: tkinter... 
 
