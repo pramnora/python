@@ -28,6 +28,10 @@ def myButton3():
 
 # Create 3 buttons... 
 
+# set which window the button relates to (root)
+# set the button text: text=""
+# select which function is to run when the button is clicked: command=myFuncName
+
 button1=tk.Button(root, text="Button 1",command=myButton1)
 button1.pack(padx=10,pady=10)
 
