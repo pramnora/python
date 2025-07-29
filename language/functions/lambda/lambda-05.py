@@ -12,5 +12,5 @@ mytripler=myfunc(3)
 
 # initialise n
 
-print(mydoubler(2))
-print(mytripler(2))
+print(mydoubler(2)) # outputs: 4
+print(mytripler(2)) # outputs: 6
