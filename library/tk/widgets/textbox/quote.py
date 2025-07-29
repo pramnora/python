@@ -26,8 +26,8 @@ btn_exit.pack()
 
 # --------------------------------------------------------------- 
 
-var_fact = "The sun shines every single day." # create variable
-textbox1.insert(tk.END, var_fact)             # Insert The Fact.
+var_fact = "The sun shines daily." # create variable
+textbox1.insert(tk.END, var_fact)  # Insert The Fact.
 
 # --------------------------------------------------------------- 
 
