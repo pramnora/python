@@ -16,9 +16,6 @@ textbox1 = tk.Text(root, height = 5, width = 52)
 label1 = tk.Label(root, text = "Fact of the Day")
 label1.config(font =("Courier", 14))
 
-# create variable
-var_fact = """The sun shines every single day."""
-
 # Create an Exit button.
 btn_exit = tk.Button(root, text = "Exit", command = root.destroy) 
 
@@ -29,5 +26,6 @@ btn_exit.pack()
 
 # --------------------------------------------------------------- 
 
-textbox1.insert(tk.END, var_fact) # Insert The Fact.
-tk.mainloop()          # run main window in a loop
+var_fact = "The sun shines every single day." # create variable
+textbox1.insert(tk.END, var_fact)             # Insert The Fact.
+tk.mainloop()                                 # run main window in a loop
