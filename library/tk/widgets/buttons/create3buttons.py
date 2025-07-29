@@ -36,7 +36,7 @@ button1=tk.Button(root, text="Button 1",command=myButton1)
 button2=tk.Button(root, text="Button 2",command=myButton3)
 button3=tk.Button(root, text="Button 2",command=myButton3)
 
-# add button to window using pack()...which just means vertical placement...
+# add each button to window using pack()...which just means vertical placement...
 # set the padding for each button: padx (x=horizontal)/pady (y=vertical) 
 
 button1.pack(padx=10,pady=10)
