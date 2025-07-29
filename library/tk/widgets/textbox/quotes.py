@@ -33,13 +33,12 @@ quotes=[
  "Three" 
 ]
 
-noOfQuotes=3-1
 currentQuote=1-1
 
 # create functions
 
 def next():
-    global currentQuote,noOfQuotes
+    global currentQuote
     if (currentQuote < len(quotes)-1):
        currentQuote+=1
     else: 
