@@ -1,3 +1,23 @@
+# -----------------------------------------
+#  PROGRAM: Display Quotes
+# COMPUTER: Home based PC/Linux Mint OS
+# LANGUAGE: Python 3
+# -----------------------------------------
+#  CREATED: Tue 29th July 2025 19:47 PM GMT
+#  UPDATED: Tue 29th July 2025 19:47 PM GMT
+# -----------------------------------------
+
+'''
+This TKInter program...
+displays a list of quotes
+each of which is written into a text box...; 
+together with a [Next] button...; 
+so, that user can select what is the next quote. 
+When the quotes reach the end...; 
+then, the quotes start all over again 
+going from the very beginning of the list. 
+'''
+
 import tkinter as tk
 
 root = tk.Tk()
