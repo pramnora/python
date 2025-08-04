@@ -1,3 +1,7 @@
+# Asked...
+# https://copilot.microsoft.com
+# ...to teach me Bubblesort using Python 3.
+
 def bubble_sort(arr):
     n = len(arr)
     for i in range(n):
