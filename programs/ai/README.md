@@ -38,7 +38,12 @@ and, basically, that's it.
 
 ### AI Engines
 
+Google Gemini  
+- https://gemini.google.com/app  
+
 Microsoft CoPilot  
 - https://copilot.microsoft.com  
+
+
 
  
