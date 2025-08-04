@@ -38,6 +38,9 @@ and, basically, that's it.
 
 ### AI Engines
 
+Antropic Claude  
+- https://www.anthropic.com/claude  
+
 Google Gemini  
 - https://gemini.google.com/app  
 
