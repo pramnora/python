@@ -26,7 +26,7 @@ print(dict(comboExample))
 comboExample.grid(column=0, row=1)
 # select which combobox option to display 
 comboExample.current(1)
-# display inside of terminal which the select combox item index number/item text value
+# display inside of terminal the selected combo box item 'index' number/item 'text' value
 print(comboExample.current(), comboExample.get())
 # execute window mainloop
 app.mainloop()
