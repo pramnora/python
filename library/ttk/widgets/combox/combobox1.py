@@ -18,7 +18,7 @@ app.geometry("200x100")
 labelTop = tk.Label(app, text="Choose your favourite month")
 # position label using grid
 labelTop.grid(column=0, row=0)
-# create comboxbox
+# create combobox
 comboExample = ttk.Combobox(app, values=["January", "February", "March", "April"])
 # print dictionary
 print(dict(comboExample))
