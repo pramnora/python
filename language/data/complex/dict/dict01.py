@@ -37,7 +37,7 @@ print(persons)
 #Tom:1,Harry:3
 
 #creating a new dictionary with key/value pairs...
-persons2={"Jack":2,"Jill",4)
+persons2={"Jack":2,"Jill":4)
 
 #joining together two dictionaries...
 persons.update(persons2)
