@@ -25,6 +25,10 @@
 # - allow users to select from the menu options by typing in either a number(1,2,3)/letter(Q/q)
 # - carry out the user selected option: view/write/append/quit
 
+# NOTE: For this program to work, properly...the file: [data.txt],
+#       must already be present...; even if it's a totally 'blank' file to start with;
+#       as it is that [data.txt] file which will be read/written/appended to.
+
 # ------------------------
 # Variable declarations...
 # ------------------------
