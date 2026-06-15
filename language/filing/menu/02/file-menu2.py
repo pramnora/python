@@ -28,6 +28,10 @@
 # NOTE: For this program to work, properly...the file: [data.txt],
 #       must already be present...; even if it's a totally 'blank' file to start with;
 #       as it is that [data.txt] file which will be read/written/appended to.
+#       However, if [data.txt] is NOT already present...;
+#       then, the program will 'bug out'...;
+#       as it only 'reads/writes/appends' to an already existing file;
+#       but, it doesn't actually create any file.
 
 # ------------------------
 # Variable declarations...
