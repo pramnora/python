@@ -18,7 +18,7 @@ Flask, is a Python framework which allows one to very quickly and easily build/t
 (
 
 >from flask import Flask  
->app = Flask(__name__)  # NOTE: the name should show double underline on either side/for some reason that isn't showing...?!
+>app = Flask(__name__)  # NOTE: the name should show double underline on either side/for some reason that isn't showing...?!  
 >@app route('/')  
 >def hw():  
 >return 'Hello, world! From Flask app'  
