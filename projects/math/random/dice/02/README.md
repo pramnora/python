@@ -15,7 +15,7 @@
 -----
 
 ## Explanation  
-# PROGRAM: [Dice.py]  
+# PROGRAM: [word-dice.py]  
 
 **COMPUTER**: Home based, Nuc MiniPC box      
 **OPERATING SYSTEM**: Linux Mint OS, Version 22.3  
