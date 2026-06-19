@@ -43,7 +43,7 @@ random.randint(minNo,maxNo).
 ## ACTUAL CODE  
 
 > import random  
-> print(random.randint(1,6))  
+> diceNo = (random.randint(1,6))  
 
 -----
 
