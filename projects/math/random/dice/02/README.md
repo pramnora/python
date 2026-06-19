@@ -38,8 +38,6 @@ Next, it uses a random method called: randint() to output the simulation of a di
 
 random.randint(minNo,maxNo).  
 
-A simple dice throw program.  
-
 -----
 
 ## ACTUAL CODE  
@@ -49,9 +47,20 @@ A simple dice throw program.
 
 -----
 
-Afterwards, the program used a series of 6 x if then statements...;  
+The program creates a list items array called: nums;  
+which is used to store each word number ranging from: 
+'one' going up to 'six'.
+
+nums=["one","two","three","four","five","six"]
+
+-----
+
+Finally, the program employs a series of 6 x if then statements...;  
 each of which is used to select which number word is to be printed out...;        
 corresponding with whichever dice number was thrown.  
+
+NOTE: As the array index number starts counting from 0 through to 5;  
+therefore, it's necessary to state: [diceNo-1]...to printout the right number word.  
 
 ## ACTUAL CODE  
 
