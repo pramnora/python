@@ -44,8 +44,6 @@ random.randint(minNo,maxNo).
 > import random  
 > print(random.randint(1,6))  
 
------
-
 **NOTE(S)**:  
 
 This program is particularly *short*...consisting of just merely 2 lines of code.    
