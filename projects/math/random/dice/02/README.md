@@ -79,7 +79,7 @@ and, so on.
 
 This program is the same as [dice.py]; only the output is being shown in the form of words/as opposed to numbers.    
 
-It would be possible to re-write the 6 x if selection lines to be more 'compact' by changing these into being a loop, instead.  
+It would be possible to re-write the 6 x if selection lines to be more 'compact' by changing these into being a loop format:    
 
 > for eachLoopNo in range(1,6+1):  
 >     if eachLoopNo == diceNo: print nums[diceNo-1])  
@@ -96,13 +96,13 @@ It would be possible to re-write the 6 x if selection lines to be more 'compact'
 
 ## SCREENSHOT PICTURES  
 
-### PROGRAM: Source code  A 
+### PROGRAM: Source code  A (original/for, beginners this version reads a lot more clear)  
 
-![Source code](source-code-word-dice-190626-1928.png "The actual program file source code.")  
+![Source code](source-code-word-dice-190626-1928.png "The actual program file source code.")    
 
-### PROGRAM: Source code  B (alternative more 'compact' code version)  
+### PROGRAM: Source code  B (alternative more 'compact' code version using a for loop to select)        
 
-![Source code](source-code-word-dice-B-190626-2016.png "The actual program file source code(alternative more 'compact' code version).")  
+![Source code](source-code-word-dice-B-190626-2016.png "The actual program file source code(alternative more 'compact' code version).")   
 
 ### PROGRAM: Output  
 
