@@ -48,6 +48,10 @@ random.randint(minNo,maxNo).
 
 This program is particularly *short*...consisting of just merely 2 lines of code.    
 
+My own *source code* includes comments...lines beginning with a hash symbol: (#);     
+but, you don't need to type those in...;    
+especially, if you just want to copy/type in the code really **fast**.    
+
 -----
 
 ## SCREENSHOT PICTURES  
