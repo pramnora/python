@@ -46,5 +46,14 @@ random.randint(minNo,maxNo).
 
 This program is particularly *short*...consisting of just merely 2 lines of code.    
 
+-----
+
+## SCREENSHOT PICTURES  
+
+### PROGRAM: Source code  
+
 ![Source code](source-code-190626-1709.png)(The actual program file source code.)  
-![Source code](output-190626-1710.png)(The actual program file output screen.)  
+
+### PROGRAM: Output  
+
+![Output](output-190626-1710.png)(The actual program file output screen.)  
