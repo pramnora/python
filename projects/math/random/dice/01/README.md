@@ -3,6 +3,7 @@
 **COMPUTER**: Home based, Nuc MiniPC box      
 **OPERATING SYSTEM**: Linux Mint OS, Version 22.3  
 **PROGRAMMING LANGUAGE**: Python3, Version: 3.12.3  
+**EDITOR**: GNU Nano 7.2  
 
 **CREATED**: *Fri 19th June 2026 15:00 PM GMT*  
 **UPDATED**: *Fri 19th June 2026 15:00 PM GMT*  
