@@ -13,7 +13,9 @@
 
 A simple dice throw program.  
 
-The program, first, imports the Python 'built-in' library called: random.  
+The program, first, imports the Python 'built-in' library called: random.
+
+> import random  
 
 Then, it uses a random method called: randint() to output the simulation of a dice throw: 
 
