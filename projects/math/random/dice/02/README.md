@@ -84,7 +84,13 @@ It would be possible to re-write the 6 x if selection lines to be more 'compact'
 > for eachLoopNo in range(1,6+1):  
 >     if eachLoopNo == diceNo: print nums[diceNo-1])  
 
-...then, the code would be just 4 lines long, instead.  
+...then, the code would be just 5 lines long, instead.  
+
+> import random  
+> print(random.randint(1,6))  
+> nums=["one","two","three","four","five","six"]  
+> for eachLoopNo in range(1,6+1):    
+>     if eachLoopNo == diceNo: print nums[diceNo-1])  
 
 -----
 
