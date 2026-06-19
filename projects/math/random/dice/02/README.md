@@ -82,13 +82,35 @@ random.randint(minNo,maxNo).
 > import random  
 > print(random.randint(1,6))  
 
+-----
+
+Afterwards, I used a series of 6 if then statements...;  
+each of which is used to select which number word is to be printed out...;        
+corresponding with whichever dice number was thrown.  
+
+## ACTUAL CODE  
+
+> if diceNo == 1: print(nums[diceNo-1])  
+> if diceNo == 2: print(nums[diceNo-1])  
+> if diceNo == 3: print(nums[diceNo-1])  
+> if diceNo == 4: print(nums[diceNo-1])  
+> if diceNo == 5: print(nums[diceNo-1])  
+> if diceNo == 6: print(nums[diceNo-1]  
+
+So, if a 1 was thrown...; the word 'one' would be printed out;  
+and, if a 2 was thrown...; then, the word 'two' would be printed out;  
+and, so on.  
+
 **NOTE(S)**:  
 
-This program is particularly *short*...consisting of just merely 2 lines of code.    
+This program is the same as [dice.py]; only the output is being shown in the form of words/as opposed to numbers.    
 
-My own *source code* includes comments...lines beginning with a hash symbol: (#);     
-but, you don't need to type those in...;    
-especially, if you just want to copy/type in the code really **fast**.    
+It would be possible to re-write the 6 x if selection lines to be more 'compact' by changing these into being a loop, instead.  
+
+> for eachLoopNo in range(1,6+1):  
+>     if eachLoopNo == diceNo: print nums[diceNo-1])  
+
+...then, the code would be just 4 lines long, instead.  
 
 -----
 
@@ -96,7 +118,7 @@ especially, if you just want to copy/type in the code really **fast**.
 
 ### PROGRAM: Source code  
 
-![Source code](source-code-world-dice-190626-1928.png "The actual program file source code.")  
+![Source code](source-code-word-dice-190626-1928.png "The actual program file source code.")  
 
 ### PROGRAM: Output  
 
