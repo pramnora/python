@@ -100,7 +100,7 @@ It would be possible to re-write the 6 x if selection lines to be more 'compact'
 
 ![Source code](source-code-word-dice-190626-1928.png "The actual program file source code.")  
 
-### PROGRAM: Source code  B 
+### PROGRAM: Source code  B (alternative more 'compact' code version)  
 
 ![Source code](source-code-word-dice-B-190626-2016.png "The actual program file source code(alternative more 'compact' code version).")  
 
