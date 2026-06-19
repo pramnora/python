@@ -16,9 +16,14 @@ A simple dice throw program.
 
 -----
 
-The program, first, imports the Python 'built-in' library called: random.
+The program, first, imports the library called: random.
 
 > import random  
+
+Random, is a Python 'built-in' library which allows one to do things like:   
+- produce random numbers  
+- make random choices  
+- etc.  
 
 -----
 
