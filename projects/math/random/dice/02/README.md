@@ -43,9 +43,11 @@ random.randint(minNo,maxNo).
 ## ACTUAL CODE  
 
 > import random  
-> diceNo = (random.randint(1,6))  
+> diceNo = random.randint(1,6)  
 
 -----
+
+### CREATE A NUMS[] LIST ARRAY TO STORE EACH DICE NUMBER AS BEING A WORD  
 
 The program creates a list items array called: nums;  
 which is used to store each word number ranging from: 
@@ -59,9 +61,6 @@ Finally, the program employs a series of 6 x if then statements...;
 each of which is used to select which number word is to be printed out...;        
 corresponding with whichever dice number was thrown.  
 
-NOTE: As the array index number starts counting from 0 through to 5;  
-therefore, it's necessary to state: [diceNo-1]...to printout the right number word.  
-
 ## ACTUAL CODE  
 
 > if diceNo == 1: print(nums[diceNo-1])  
@@ -74,6 +73,11 @@ therefore, it's necessary to state: [diceNo-1]...to printout the right number wo
 So, if a 1 was thrown...; the word 'one' would be printed out;  
 and, if a 2 was thrown...; then, the word 'two' would be printed out;  
 and, so on.  
+
+NOTE: As the array index number starts counting from 0 through to 5;  
+therefore, it's necessary to state: [diceNo-1]...to printout the right number word.  
+
+-----
 
 **NOTE(S)**:  
 
