@@ -11,3 +11,5 @@ Eg.
 
 > import random  
 > print(random.randint(1,6))  
+
+**NOTE**: How short the program is...consisting of just 2 lines of code, in actual fact.  
