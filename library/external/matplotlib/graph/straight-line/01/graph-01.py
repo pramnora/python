@@ -32,4 +32,4 @@ plt.show()
 
 # NOTE: It can clearly be shown from the above example that in a straight line graph...
 #       both the x,y co-ordinates are written in ascending order which parallel's one another.
-#       And, that these point intersect along an a,y square, eg: 1,1 - 2,2 - 3,3 - 4,4  
+#       And, that each of these points intersects forming an x,y 'square' manner, eg: 1,1 - 2,2 - 3,3 - 4,4  
