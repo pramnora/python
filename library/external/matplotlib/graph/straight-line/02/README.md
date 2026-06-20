@@ -8,7 +8,7 @@
 ## Introduction
 
 Speaking as a 'beginner'...I find Matplotlib fairly straight forwards, and, simple to use...;    
-one uses it to plot many different styles of graphs, including:  
+one uses it to plot and draw many different styles of graphs, including:  
 
 - straight line     
 - bar chart    
@@ -18,9 +18,9 @@ one uses it to plot many different styles of graphs, including:
 -----
 
 In this particular example...the code starts off by  
-importing the matplotlib library: import matplotlib  
-and, calling one of it's related methods: pyplot  
-and, also, using a short form alias: plt      
+importing the matplotlib library: **import matplotlib**    
+and, calling one of it's related methods: **pyplot**    
+and, also, using a short form alias: **plt**        
 -(in this way, we don't need to keep typing in the long form: matplotlib.pyplot;     
   and, can just type in short form prefix: plt)-    
 
