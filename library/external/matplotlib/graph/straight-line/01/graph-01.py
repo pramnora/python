@@ -1,5 +1,5 @@
 # Created: 060424 14:03 PM GMT
-# Updated: 200626 05:03 AM GMT
+# Updated: 200626 05:03 AM GMT - (added alternative coding method/plus, NOTE)  
 
 # Example code borrowed from Simplilearn Python3 tutorial.
 # https://www.simplilearn.com
@@ -28,3 +28,8 @@ y=[1,2,3,4]
 plt.plot(x,y)
 plt.show()
 '''
+# -------------------------------------------------
+
+# NOTE: It can clearly be shown from the above example that in a straight line graph...
+#       both the x,y co-ordinates are written in ascending order which parallel's one another.
+#       And, that these point intersect along an a,y square, eg: 1,1 - 2,2 - 3,3 - 4,4  
