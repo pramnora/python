@@ -10,4 +10,5 @@ plt.xlabel("Food")                      # x label
 plt.ylabel("Amount")                    # y label
 
 plt.bar(x,y)                            # draw bar chart
+# plt.plot(x,y)                           # straight line graph
 plt.show()                              # show bar chart
