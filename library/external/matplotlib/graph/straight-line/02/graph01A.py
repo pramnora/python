@@ -34,5 +34,5 @@ x=[5,10,15,20,11,12,14,6,18,25,2,8]                                          # h
 y=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]  # vertical graph axis, extends going upwards from bottom to top
 
 plt.plot(x,y)                                                                 # plot the graph co-ordinates
-plt.show()                                                                    # show it/display it as an output file    
+plt.show()                                                                    # show it/display it as an output file which can actually be 'saved'   
 
