@@ -1,5 +1,5 @@
-**Created**: *Sun 6th April 2025 17:45 PM GMT*    
-**Updated**: *Fri 11th April 2025 18:43 PM GMT*  
+**CREATED**: *Sun 6th April 2025 17:45 PM GMT*    
+**UPDATED**: *Sat 20th June 2026 02:03 AM GMT*  
 
 -----
 
@@ -28,6 +28,9 @@ W3Schools introduction to Matplotlib
 ### YouTube  
 
 ### Video tutorial
+
+Learn Matplotlib in 1 hour (Channel: Bro Code)  
+- https://www.youtube.com/watch?v=c9vhHUGdav0  
 
 Matplotlib Full Python Course - Data Science Fundamentals / (Channel: NeuralNine)  
 - https://www.youtube.com/watch?v=OZOOLe2imFo
