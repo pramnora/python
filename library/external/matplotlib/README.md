@@ -35,6 +35,8 @@ Learn Matplotlib in 1 hour (Channel: Bro Code)
 Matplotlib Full Python Course - Data Science Fundamentals / (Channel: NeuralNine)  
 - https://www.youtube.com/watch?v=OZOOLe2imFo
 
+-----
+
 ### Tutorial series
 
 Matplotlib Tutorial 1 - Introduction and Line/Channel: sentdex    
