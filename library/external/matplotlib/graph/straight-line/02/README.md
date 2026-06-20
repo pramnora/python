@@ -55,4 +55,4 @@ To run the program inside of Linux Mint OS Terminal application command window, 
 
 ...and, a window will open up displaying the chart as follows.  
 
-![straight-line-chart-01](200626-0235-straight-line-graph01A.png "This is the chart showing horizontal straight lines.")  
+![Output: graph 1](200626-0233-straight-line-graph01A.png "This is the chart showing horizontal straight lines.")  
