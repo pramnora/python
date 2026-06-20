@@ -61,6 +61,8 @@ To run the program inside of Linux Mint OS Terminal application command window, 
 
 ![Output: graph 1](200626-0233-straight-line-graph01A.png "This is the chart showing horizontal straight lines.")  
 
+-----
+
 ### OUTPUT: Straight line Graph01B
 
 To run the program inside of Linux Mint OS Terminal application command window, type:    
@@ -70,3 +72,7 @@ To run the program inside of Linux Mint OS Terminal application command window, 
 ...and, a window will open up displaying the chart as follows.  
 
 ![Output: graph 1](200626-0235-straight-line-graph01B.png "This is the chart showing horizontal straight lines.")  
+
+**NOTE**: All I did in the second version of this graph was to switch variable names:   
+          x to say y/y to say x;  
+          which, in turn, changed the graph output orientation.  
