@@ -23,7 +23,7 @@ GitHub source code for Matplotlib
 W3Schools introduction to Matplotlib   
 - https://www.w3schools.com/python/matplotlib_intro.asp
 
-https://www.geeksforgeeks.org/python/matplotlib-tutorial/  
+Matplotlib Tutorial  
 - https://www.geeksforgeeks.org/python/matplotlib-tutorial/#google_vignette  
 
 -----
