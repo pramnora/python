@@ -15,6 +15,8 @@ I can't say too much about the technology, yet...; as I've only *started* learni
 
 Still haven't created my 1st Seaborn program...???
 
+It is a wrapper around Matplotlib.
+
 -----
 
 ## Links  
