@@ -141,6 +141,10 @@ draw a pentagon shape with 5 sides.
 
 Luckily, it all worked, succcessfully.
 
+![Source code](200626-0550-turtle-graphic-any-shape.png "Source code: Draw any shape using turtle graphics.")
+
+![Output](200626-0556-turtle-graphic-any-shape-output.png "Output: Draw any shape using turtle graphics.")
+
 -----
 
 CONCLUSION
