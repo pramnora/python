@@ -1,5 +1,5 @@
 **CREATED**: *Sun 6th April 2025 17:45 PM GMT*    
-**UPDATED**: *Sat 20th June 2026 02:03 AM GMT*  
+**UPDATED**: *Sat 20th June 2026 02:53 AM GMT*  
 
 -----
 
@@ -21,7 +21,10 @@ GitHub source code for Matplotlib
 ## Tutorials  
 
 W3Schools introduction to Matplotlib   
-- https://www.w3schools.com/python/matplotlib_intro.asp    
+- https://www.w3schools.com/python/matplotlib_intro.asp
+
+https://www.geeksforgeeks.org/python/matplotlib-tutorial/  
+- https://www.geeksforgeeks.org/python/matplotlib-tutorial/#google_vignette  
 
 -----
 
