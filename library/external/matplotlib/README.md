@@ -18,6 +18,8 @@ Playing around with learning to use Matplotlib...
 GitHub source code for Matplotlib    
 -  https://github.com/matplotlib/matplotlib  
 
+-----
+
 ## Tutorials  
 
 W3Schools introduction to Matplotlib   
