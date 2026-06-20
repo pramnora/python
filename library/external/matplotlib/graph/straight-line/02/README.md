@@ -49,6 +49,10 @@ The next step is to plot the chart using:
 
 -----
 
+## SCREENSHOTS
+
+### OUTPUT: Straight line Graph01A
+
 To run the program inside of Linux Mint OS Terminal application command window, type:    
 
 > python graph01A.py  
@@ -56,3 +60,13 @@ To run the program inside of Linux Mint OS Terminal application command window, 
 ...and, a window will open up displaying the chart as follows.  
 
 ![Output: graph 1](200626-0233-straight-line-graph01A.png "This is the chart showing horizontal straight lines.")  
+
+### OUTPUT: Straight line Graph01B
+
+To run the program inside of Linux Mint OS Terminal application command window, type:    
+
+> python graph01B.py  
+
+...and, a window will open up displaying the chart as follows.  
+
+![Output: graph 1](200626-0235-straight-line-graph01B.png "This is the chart showing horizontal straight lines.")  
