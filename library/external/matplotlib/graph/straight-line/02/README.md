@@ -76,3 +76,14 @@ To run the program inside of Linux Mint OS Terminal application command window, 
 **NOTE**: All I did in the second version of this graph was to switch variable names:   
           x to say y/y to say x;  
           which, in turn, changed the graph output orientation.  
+
+-----
+
+**FOOTNOTES**
+
+It is still pretty much amazing to me...that with just merely 5 lines of code...;  
+one is able to use Matplotlib...to output fine 'quality' graphs.  
+
+The output graph itself...contains further options where one can 'save' the file onto one's hard disk drive/-etc.  
+
+          
