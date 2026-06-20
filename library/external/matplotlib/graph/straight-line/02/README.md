@@ -12,16 +12,17 @@ one uses it to plot many different styles of graphs, including:
 
 - straight line     
 - bar chart    
-- scatter plot  
+- scatter plot    
+- etc.  
 
 -----
 
 In this particular example...the code starts off by  
 importing the matplotlib library: import matplotlib  
 and, calling one of it's related methods: pyplot  
-and, also, using a short form alias: plt    
+and, also, using a short form alias: plt      
 -(in this way, we don't need to keep typing in the long form: matplotlib.pyplot;     
-  and, can just type in short form prefix; plt)-  
+  and, can just type in short form prefix: plt)-    
 
 > import matplotlib.pyplot as plt  
 
