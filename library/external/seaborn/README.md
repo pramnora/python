@@ -23,3 +23,23 @@ Still haven't created my 1st Seaborn program...???
 
 Official site...  
 - https://seaborn.pydata.org/  
+
+-----
+
+### YouTube
+
+#### Tutorials
+
+Seaborn is the easier Matplotlib  (Channel: Neural Nine)   
+- https://www.youtube.com/watch?v=ooqXQ37XHMM&t=36s  
+
+Seaborn Crash Course - Data Visualization in Python (Channel: Neural Nine)  
+- https://www.youtube.com/watch?v=rLVCSmtoA7U
+
+Seaborn Full Course | Seaborn Tutorial (Data Visualization) | Python Seaborn One Shot | Intellipaat
+- https://www.youtube.com/watch?v=39cge_JhVjI
+
+
+
+
+- https://www.youtube.com/watch?v=39cge_JhVjI    
