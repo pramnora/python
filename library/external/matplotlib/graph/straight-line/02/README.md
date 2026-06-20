@@ -85,6 +85,6 @@ To run the program inside of Linux Mint OS Terminal application command window, 
 It is still pretty much amazing to me...that with just merely 5 lines of code...;  
 one is able to use Matplotlib...to output fine 'quality' graphs.  
 
-The output graph itself...contains further options where one can 'save' the file onto one's hard disk drive/-etc.  
+The output graph itself...contains further options where one can 'save' the file onto one's own hard disk drive/-etc.  
 
           
