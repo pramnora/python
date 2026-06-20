@@ -28,11 +28,11 @@
 
 # ==================================================  
 
-import matplotlib.pyplot as plt  
+import matplotlib.pyplot as plt                                              # import matplotlib library together with pyplot method as short form alias: plt
 
-x=[5,10,15,20,11,12,14,6,18,25,2,8]  
-y=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]  
+x=[5,10,15,20,11,12,14,6,18,25,2,8]                                          # horizontal graph axis, extends going across from left to right
+y=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]  # vertical graph axis, extends going upwards from bottom to top
 
-plt.plot(x,y)  
-plt.show()  
+plt.plot(x,y)                                                                 # plot the graph
+plt.show()                                                                    # show it/display it as an output file    
 
