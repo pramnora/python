@@ -30,6 +30,6 @@ plt.show()
 '''
 # -------------------------------------------------
 
-# NOTE: It can clearly be shown from the above example that in a straight line graph...
-#       both the x,y co-ordinates are written in ascending order which parallel's one another.
-#       And, that each of these points intersects forming an x,y 'square' manner, eg: 1,1 - 2,2 - 3,3 - 4,4  
+# NOTE: It can clearly be shown judging from the above example that in a straight line graph...
+#       both the x,y co-ordinates are written in ascending order which essentially parallel's one another: (x) 1,2,3,4/(y) 1,2,3,4; 
+#       and, also, that each of these points intersects forming an x,y 'square', eg: 1,1 - 2,2 - 3,3 - 4,4.  
