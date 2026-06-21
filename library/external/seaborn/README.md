@@ -17,6 +17,14 @@ I myself cannot say too much about this technology, yet...; as I've only *starte
 
 Still haven't created my 1st Seaborn program...???
 
+I did however download Seaborn:
+
+> pip install seaborn
+
+And, I also *copied and pasted* example codes from Geek to Geek site...; and, they **all** worked.  
+
+So, I know everything in regards to my current set up is working ok.  
+
 -----
 
 ## Links  
