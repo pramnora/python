@@ -31,6 +31,13 @@ GitHub Repo.
 
 -----
 
+## Example codes
+
+Example codes (plus, video)  
+- https://www.geeksforgeeks.org/python/introduction-to-seaborn-python/  
+
+-----
+
 ### YouTube
 
 #### Tutorials
