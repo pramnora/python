@@ -7,7 +7,7 @@
 
 ## Introduction
 
-[I only recently came across Seaborn.
+I only recently came across Seaborn.
 
 The advert said it's easier to use than is Matplotlib...; which is what got me interested in the first place.
 
@@ -51,7 +51,3 @@ Seaborn Crash Course - Data Visualization in Python (Channel: Neural Nine)
 Seaborn Full Course | Seaborn Tutorial (Data Visualization) | Python Seaborn One Shot | Intellipaat
 - https://www.youtube.com/watch?v=39cge_JhVjI
 
-
-
-
-- https://www.youtube.com/watch?v=39cge_JhVjI    
