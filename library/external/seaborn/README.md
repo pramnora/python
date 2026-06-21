@@ -33,6 +33,7 @@ So, I know everything in regards to my current set up is working ok.
 
 Official site...  
 - https://seaborn.pydata.org/  
+- https://seaborn.pydata.org/tutorial/introduction  
 
 GitHub Repo.  
 - https://github.com/mwaskom/seaborn  
