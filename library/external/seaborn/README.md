@@ -7,15 +7,15 @@
 
 ## Introduction
 
-I only recently came across Seaborn.
+[I only recently came across Seaborn.
 
 The advert said it's easier to use than is Matplotlib...; which is what got me interested in the first place.
 
-I can't say too much about the technology, yet...; as I've only *started* learning it.
+Apparently, it is a wrapper around Matplotlib.
+
+I myself cannot say too much about this technology, yet...; as I've only *started* learning it.
 
 Still haven't created my 1st Seaborn program...???
-
-It is a wrapper around Matplotlib.
 
 -----
 
@@ -25,6 +25,9 @@ It is a wrapper around Matplotlib.
 
 Official site...  
 - https://seaborn.pydata.org/  
+
+GitHub Repo.  
+- https://github.com/mwaskom/seaborn  
 
 -----
 
