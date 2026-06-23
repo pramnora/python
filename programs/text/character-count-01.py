@@ -50,7 +50,7 @@ def doUnderline():
 
 # main program
 
-print("PROGRAM: Vowel count\n")        # print title
+print("PROGRAM: Characters count\n")        # print title
 print("Please enter a text string:")   # prompt use to enter string
 aString=input()                        # get user text input
 # do character count
