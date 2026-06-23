@@ -29,7 +29,7 @@ aString=input()                        # get user text input
 
 for eachChar in aString:
 
-    if eachChar in vowels:             # check if vowel/or, constdant 
+    if eachChar in vowels:             # check if vowel/or, constant 
         if eachChar == "a": 
            a+=1
            vowel+=1
