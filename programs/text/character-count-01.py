@@ -14,7 +14,7 @@
 # COMMENTS
 
 # I've 'updated' this code to include the count of...
-# letters: vowels/constants
+# letters: vowels/consonants
 # numbers
 # other (spaces/punctuation chars/-etc.)
 # total characters
