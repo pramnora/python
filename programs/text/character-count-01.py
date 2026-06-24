@@ -18,9 +18,9 @@
 # numbers
 # other (spaces/punctuation chars/-etc.)
 # total characters
-# ...but, I'm not at all happy...as I still think it's 'bloatcode'...!
-# meaning, it needs 'shortening' down an awful lot.
-
+# ...but, I'm not at all happy...as I still think...
+# - it's 'bloatcode'...; meaning, it needs 'shortening' down an awful lot.
+# - the printout needs further re-arranging to make the ouput read a lot more clear.
 ' --------------------------------------------------------------
 
 # variable declarations
