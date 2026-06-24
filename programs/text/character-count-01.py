@@ -8,7 +8,7 @@
 #   COPYRIGHT: (c)2018-, Mr. Paul Ramnora./All rights reserved.
 #--------------------------------------------------------------
 #     CREATED: TUE 04 DEC 2018 - 20:56 PM GMT
-#     UPDATED: TUE 22 JUN 2026 - 21:52 PM GMT
+#     UPDATED: THU 24 JUN 2026 - 13:59 PM GMT
 #--------------------------------------------------------------
 
 # COMMENTS
@@ -116,16 +116,20 @@ for eachChar in aString:
 
 doUnderline()
 print("Characters: ", len(aString))
+print("   Letters: ",letter)
+doUnderline
 print("    Vowels: ",vowel)
 print("             a","e","i","o","u")
 print("            ",a,e,i,o,u)
+doUnderline()
 print("Consonants: ",consonant)
 print("             b c d f g h j k l m n p q r s t v w x y z")
 print("            ",b,c,d,f,g,h,j,k,l,m,n,p,q,r,s,t,v,w,x,y,z)
-print("   Letters: ",letter)
+doUnderline()
 print("   Numbers: ",number)
 print("             0   1   2   3   4   5   6   7   8   9")
 print("            ",n0,n1,n2,n3,n4,n5,n6,n7,n8,n9)
+doUnderline()
 print("     Other: ",other,"(Including spaces/punctuation symbols/-etc.)")
 doUnderline()
 
