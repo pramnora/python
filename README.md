@@ -377,6 +377,11 @@ Learn Python with Socratica || Python Tutorial || Python Programming  (YouTube C
 Python for Everybody - Full Course with Dr. Chuck  (YouTube Channel: freeCodeCamp.org)  
 - https://www.youtube.com/watch?v=8DvywoWv6fI&t=3398s    
 
+PYTHON Full Course - Beginners to Super - Part 1  
+- https://www.youtube.com/watch?v=qTej1CIiJc0
+PYTHON Full Course - Beginners to Super - Part 2     
+- https://www.youtube.com/watch?v=8U5zzQ8o-ko  
+
 ### Python Language: Concepts
 
 Python Classes and Objects || Python Tutorial || Learn Python Programming  (YouTube Channel: Socratica)  
