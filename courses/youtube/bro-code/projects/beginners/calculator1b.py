@@ -9,7 +9,8 @@
 #    2. I added a while loop to repeat the program.
 #    3. I placed the operator check into a single: ("+","-","*","/") 
 #    4. I decided to use eval() to cut down multiple if's
-#    His code is 20 lines long.../whereas, mine is just 13.
+#    His code is 20 lines long.../whereas, mine is just 13;
+#    see the file called: [calculator1a.py] to compare.
 # ---------------------------------------------------
 while True:
    operator=input("Enter an operator (+ - * /): ")
