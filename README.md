@@ -4,7 +4,7 @@ PYTHON PROGRAM CODE
 
 Here you will find snippets of Python 3 programming code; which you are freely able to study/learn from. 
 
-Document last updated: *Wed 14th Aug 2024 -08:37 PM GMT*
+Document last updated: *Thu 25th June 2026 -21:43 PM GMT*
 
 -----
 
@@ -36,7 +36,15 @@ Python is a very highly popular programming language; therefore, there is much c
 
 Python uses a fairly simple and straight forwards syntax, which makes it really excellent for people who are complete 'beginners' new to programming to learn.
 
-It also includes many advanced features, as well...such as, linking to extended libraries one can use...this make it equally appealing for more experienced: intermediate/and, even, professional programmers.
+It also includes many advanced features, as well...such as, linking to extended libraries one can use...
+
+- matplotlib  
+- numpy  
+- pandas  
+- scipi  
+- tk  
+- turtle  
+...as well as, many 100's of other library codes...; this make it equally appealing for *beginner*/*intermediate*/and, even, *professional* programmers...; as there is usually more to go and see/learn.  
 
 -----
 
