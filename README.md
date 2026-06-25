@@ -378,7 +378,7 @@ Python for Everybody - Full Course with Dr. Chuck  (YouTube Channel: freeCodeCam
 - https://www.youtube.com/watch?v=8DvywoWv6fI&t=3398s    
 
 PYTHON Full Course - Beginners to Super - Part 1  
-- https://www.youtube.com/watch?v=qTej1CIiJc0
+- https://www.youtube.com/watch?v=qTej1CIiJc0  
 PYTHON Full Course - Beginners to Super - Part 2     
 - https://www.youtube.com/watch?v=8U5zzQ8o-ko  
 
