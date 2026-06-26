@@ -4,7 +4,7 @@ PYTHON PROGRAM CODE
 
 Here you will find snippets of Python 3 programming code; which you are freely able to study/learn from. 
 
-Document last updated: *Thu 25th June 2026 -21:43 PM GMT*
+Document last updated: *Thu 26th June 2026 -16:09 PM GMT*
 
 -----
 
@@ -381,6 +381,8 @@ PYTHON Full Course - Beginners to Super - Part 1
 - https://www.youtube.com/watch?v=qTej1CIiJc0  
 PYTHON Full Course - Beginners to Super - Part 2     
 - https://www.youtube.com/watch?v=8U5zzQ8o-ko  
+PYTHON Full Course - Beginners to Super - Part 3  
+- https://www.youtube.com/watch?v=azzqk65ZRPQ  
 
 ### Python Language: Concepts
 
