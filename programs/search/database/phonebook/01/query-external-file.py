@@ -20,8 +20,7 @@ import io
 from urllib.request import urlopen
 
 # Your raw GitHub URL
-URL = "https://raw.githubusercontent.com/pramnora/python/main/phonebook.csv"
-
+URL = "https://raw.githubusercontent.com/pramnora/python/refs/heads/master/programs/search/database/phonebook/01/phonebook_db.csv"
 
 def query_phonebook(search_term):
     try:
