@@ -3,9 +3,13 @@
 # This code was created with the help of AI:
 # https://gemini.google.com
 # ------------------------------------------
-# It's purpose is to fetch 'raw' 
-# phonebook data (name,number) from github:
+# It's purpose is...
+# 1. Download the code to use on your local computer;
+# and, then, run it using: Python3 filename.py
+# 2. It will, then, fetch an external file data,
+# which is stored inside of GitHub:
 # phonebook.csv
+# ...and, allows the user to query that data. 
 # ------------------------------------------
 
 import csv
