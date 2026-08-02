@@ -1,13 +1,17 @@
+# USE PYTHON 3 CODE TO CREATE YOUR OWN 'CHATBOT'...
+
 **CREATED**: *Sun 2nd Aug 2026 12:17 PM GMT*  
 **UPDATED**: *Sun 2nd Aug 2026 12:17 PM GMT*  
------
-# USE PYTHON 3 CODE TO CREATE YOUR OWN 'CHATBOT'...
+
 ----
+
 **PROGRAM**: Google Gemini chatbot  
 **OS/OPERATING SYSTEM**: Linux Mint 22.3  
 **LANGUAGE**: Python3, Version: 3.12.3  
 **COMPUTER**: Home based Fujitsu mini-PC  
+
 -----
+
 ## HOW THIS CODE CAME ABOUT
 
 I was watching a YouTube 'short' video: (YouTube Channel: @CodeW1thAlex):  
@@ -22,14 +26,20 @@ therefore, I thought this code should be very 'quick and easy' for me to type in
 
 -----
 
+## 3 different variations
+
 The video showed around 3 different variations of the code:-
 
-Version 1: hard coded -non interactive- prompt: (7 lines)
-Version 2: enter your own -interactive- prompt by typing it in from the keyboard: (8 lines)
-Version 3: the final version/without my extra code comments/and, extra vertical line spaces: (9 lines)
+- Version 1: hard coded -non interactive- prompt: (7 lines)
+- Version 2: enter your own -interactive- prompt by typing it in from the keyboard: (8 lines)
+- Version 3: the final version/without my extra code comments/and, extra vertical line spaces: (9 lines)
+
 -----
+
 Version 1
+
 -----
+
 > from google import genai
  
 > client=genai.Client(api_key="MY_SECRET_API-KEY")
@@ -40,9 +50,13 @@ Version 1
 > )
 
 > print(response.text)
+
 -----
+
 Version 2
+
 -----
+
 > from google import genai
  
 > client=genai.Client(api_key="MY_SECRET_API-KEY")
@@ -55,9 +69,13 @@ Version 2
 > )
 
 > print(response.text)
+
 -----
+
 Version 3
+
 -----
+
 > from google import genai
  
 > client=genai.Client(api_key="MY_SECRET_API-KEY")
