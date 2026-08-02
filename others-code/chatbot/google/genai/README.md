@@ -32,7 +32,8 @@ The video showed around 3 different variations of the code:-
 
 - Version 1: hard coded -non interactive- prompt: (7 lines)  
 - Version 2: enter your own -interactive- prompt by typing it in from the keyboard: (8 lines)  
-- Version 3: final version/using a constantly running While loop...which users can *break* out of by typing either: 'quit'/'exit': (9 lines)  
+- Version 3: final version/using a constantly running While loop...which users can *break* out of by typing either: 'quit'/'exit';  
+  this allows the user to type in as many prompts as they please without having to *stop/start* the program.: (9 lines)  
 
 -----
 
