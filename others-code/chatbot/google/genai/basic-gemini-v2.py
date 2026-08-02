@@ -1,7 +1,7 @@
 
 from google import genai
 
-client=genai.Client(api_key="MY_SECRET_API-KEY")
+client=genai.Client(api_key="MY_SECRET_GOOGLE_API_KEY") # get your own key here: https://aistudio.google.com/api-keys
 
 message=input("You: ")
 
