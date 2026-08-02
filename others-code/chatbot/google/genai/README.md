@@ -30,10 +30,10 @@ therefore, I thought this code should be very 'quick and easy' for me to type in
 
 The video showed around 3 different variations of the code:-
 
-- Version 1: hard coded -non interactive- prompt: (7 lines)
-- Version 2: enter your own -interactive- prompt by typing it in from the keyboard: (8 lines)
+- Version 1: hard coded -non interactive- prompt: (7 lines)  
+- Version 2: enter your own -interactive- prompt by typing it in from the keyboard: (8 lines)  
 - Version 3: the final version/without my extra code comments/and, extra vertical line spaces: (9 lines)
-
+- 
 -----
 
 Version 1
