@@ -95,6 +95,7 @@ Version 3
 ## Setting up the coding environment to run:
 
 The video explains it all in 60 seconds.  
+
 But, in reality, I found it takes a lot more *time and effort*     
 in order to be able to both set up/and, run the code, effectively,   
 using your own programming environment.  
@@ -105,6 +106,8 @@ using your own programming environment.
   ...to help you sort things out whenever you find you are stuck.  
   I just *copy and paste* in any error messages;  
   and, then, let web browser based Gemini *chatbot* figure out telling me how to fix it.)-  
+
+-----
 
 First, get a Google API key...  
 - https://aistudio.google.com/api-keys  
