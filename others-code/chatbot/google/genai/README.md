@@ -94,13 +94,13 @@ Version 3
 ## Setting up the coding environment to run:
 
 The video explains it all in 60 seconds.  
-But, in reality, it takes a lot more time...  
-to be able to set up/and, run the code, effectively,   
+But, in reality, it takes a lot more time and effort in order   
+to be able to both set up/and, run the code, effectively,   
 using your own programming environment.  
 
--(**NOTE**: If setting up is something you find difficult to do...;    
+-(**NOTE**: If *setting up* is something you find **difficult** to do...;    
   then, do what I do which is just use:   
-  https://gemini.google.com  
+  - https://gemini.google.com  
   ...to help you sort things out whenever you find you are stuck.  
   I just *copy and paste* in any error messages;  
   and, then, let web browser based Gemini *chatbot* figure out telling me how to fix it.)-  
@@ -111,6 +111,7 @@ First, get a Google API key...
 -(**NOTE**: You may if you wish choose to 'delete' the Google API key, afterwards...; so as to avoid running up charges.)-  
     
 Set up a virtual environment:  
+
 > sudo apt install python3-venv python3.12-venv -y   
 > python3 -m venv my-env  
 > source my-env/bin/activate                             
@@ -118,8 +119,11 @@ Set up a virtual environment:
 -(**NOTE**: Linux Mint wouldn't let me install: google-genai, unless it was under a virtual environment.)-  
 
 Next, install Pip:  
+
 > sudo apt install python3-pip    
-Install Google Gemini:    
+
+Finally, install Google Gemini:    
+
 > pip install google-genai  
 
 Now, you should be able to run the code, effectively; and, without running into any problems.  
