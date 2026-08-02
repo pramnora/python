@@ -40,16 +40,16 @@ Version 1
 
 -----
 
-> from google import genai
+> from google import genai  
  
-> client=genai.Client(api_key="MY_SECRET_API-KEY")
+> client=genai.Client(api_key="MY_SECRET_API-KEY")  
 
-> response=client.models.generate_content(
->    model="gemini-3.5-flash",
->    contents="Explain Python to me!"
-> )
+> response=client.models.generate_content(  
+>    model="gemini-3.5-flash",  
+>    contents="Explain Python to me!"  
+> )  
 
-> print(response.text)
+> print(response.text)  
 
 -----
 
@@ -57,18 +57,18 @@ Version 2
 
 -----
 
-> from google import genai
+> from google import genai  
  
-> client=genai.Client(api_key="MY_SECRET_API-KEY")
+> client=genai.Client(api_key="MY_SECRET_API-KEY")  
 
-> message=input("You: ")
+> message=input("You: ")  
 
-> response=client.models.generate_content(
->    model="gemini-3.5-flash",
->    contents=message
-> )
+> response=client.models.generate_content(  
+>    model="gemini-3.5-flash",  
+>    contents=message  
+> )  
 
-> print(response.text)
+> print(response.text)  
 
 -----
 
@@ -76,26 +76,26 @@ Version 3
 
 -----
 
-> from google import genai
+> from google import genai  
  
-> client=genai.Client(api_key="MY_SECRET_API-KEY")
+> client=genai.Client(api_key="MY_SECRET_API-KEY")  
 
-> chat=client.chats.create(model="gemini-3.5-flash")
+> chat=client.chats.create(model="gemini-3.5-flash")  
 
-> while True:
->    message=input("You: ")
->    if message.lower() in ("exit","quit"):
->      break
->    response=chat.send_message(message=message)
->    print(f"Bot: {response.text}\n")
+> while True:  
+>    message=input("You: ")  
+>    if message.lower() in ("exit","quit"):  
+>      break  
+>    response=chat.send_message(message=message)  
+>    print(f"Bot: {response.text}\n")  
 
 ----
 
 ## Setting up the coding environment to run:
 
 The video explains it all in 60 seconds.  
-But, in reality, it takes a lot more time and effort in order   
-to be able to both set up/and, run the code, effectively,   
+But, in reality, I found it takes a lot more *time and effort*     
+in order to be able to both set up/and, run the code, effectively,   
 using your own programming environment.  
 
 -(**NOTE**: If *setting up* is something you find **difficult** to do...;    
@@ -110,7 +110,9 @@ First, get a Google API key...
 
 -(**NOTE**: You may if you wish choose to 'delete' the Google API key, afterwards...; so as to avoid running up charges.)-  
     
-Set up a virtual environment:  
+Set up a virtual environment/and, then, *activate* it:  
+
+-(**NOTE**: In order to deactivate the virtual environment...you just need to type in the command: deactivate; then, press: [Enter] key.)-  
 
 > sudo apt install python3-venv python3.12-venv -y   
 > python3 -m venv my-env  
