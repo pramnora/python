@@ -21,3 +21,11 @@ for x in range(0,10,2):
 #4
 #6
 #8 
+
+-----
+
+# Update: 080826 05:06 AM GMT 
+
+for x in range(10,0,-1):
+	print (x,end=" ") # prints numbers counting backwards according to the step count number: -1
+# 10 9 8 7 6 5 4 3 2 1
