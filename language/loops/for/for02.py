@@ -5,6 +5,6 @@ shoppingList = ["eggs","apples","oranges"]
 for i in shoppingList:
     print(i)
        
-#eggs
-#apples
-#oranges
+# eggs
+# apples
+# oranges
