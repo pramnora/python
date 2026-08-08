@@ -15,7 +15,7 @@
 # -----------------------------------------------------
 
 # SYNTAX Usage: 
-# [expression for n in [n,n,...]] 
+# [expression for n in [n1,n2,...]] 
 
 # Example 1: For Loop...
 print([x*2 for x in [1,2,3,4,5]])
