@@ -14,11 +14,11 @@ Python is a FREE programming language. It comes in 2 different versions:
 
 1> Older version: Python 2.X
 
-Print "Hello, world!"
+print "Hello, world!"
 
 2> Newer version: Python 3.X
 
-Print ("Hello, world!")
+print ("Hello, world!")
 
 **NOTE**: It is highly recommended that you download the 'latest' version of the Python programming language which is Python: 3.x.
 
